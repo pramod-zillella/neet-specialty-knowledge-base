@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Compare medical specialties using source-linked doctors’ interview perspectives, and build a personal branch and college shortlist.">
+  <title>Specialty Knowledge Base</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="knowledge-data.js"></script>
+  <script defer src="reading-view.js"></script>
+  <script defer src="branch-view.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="#overview">FIELDNOTES <span>/ Medicine</span></a>
+    <nav aria-label="Main navigation">
+      <button type="button" data-view="overview" aria-current="page">Branch themes</button>
+      <button type="button" data-view="summaries">Video summaries</button>
+      <button type="button" data-view="compare">Compare</button>
+      <button type="button" data-view="library">Episode library</button>
+      <button type="button" data-view="colleges">College worksheet</button>
+    </nav>
+    <button type="button" id="shortlist-only" aria-pressed="false">Saved topics <span id="saved-count">0</span></button>
+  </header>
+  <main>
+    <section class="hero">
+      <p class="eyebrow">The Nachiket Bhatia Show · A growing evidence notebook</p>
+      <h1>Find the work that fits you.</h1>
+      <p class="intro">Doctors’ perspectives on specialties, training and life in medicine. Explore the trade-offs, return to the source, and turn what matters to you into better questions.</p>
+      <div id="stats" class="stats" aria-label="Collection and review progress"></div>
+    </section>
+    <div class="notice"><strong>Read with context.</strong> English summaries retain timestamp evidence and the speaker’s perspective. Full and partial reviews are labelled. Audio and speaker claims have not been independently verified. <button type="button" id="method-open">How this was built</button></div>
+    <div class="workspace">
+      <aside class="sidebar" aria-label="Topic filters">
+        <label for="search">Find a specialty or idea</label>
+        <input id="search" type="search" placeholder="Try radiology, night duty, teaching…">
+        <label for="group-filter">Pathway</label>
+        <select id="group-filter"><option value="">All pathways</option></select>
+        <label for="aspect-filter">Decision aspect</label>
+        <select id="aspect-filter"><option value="">All 12 aspects</option></select>
+        <label for="stance-filter">Perspective</label>
+        <select id="stance-filter"><option value="">All perspectives</option><option>Pro</option><option>Con</option><option>Important</option><option>College check</option></select>
+        <p id="filter-count" class="muted" role="status"></p>
+        <div id="topic-list" class="topic-list"></div>
+        <div class="sidebar-foot"><button type="button" id="reset-filters">Reset filters</button><a href="exports/video-summaries.md" download>Download full summaries</a><a href="exports/video-briefs.md" download>Download partial briefs</a><a href="exports/branch-themes.md" download>Download branch themes</a><a href="exports/review-queue.csv" download>Download review queue</a><a href="exports/curated-notes.csv" download>Download excerpt notes CSV</a></div>
+      </aside>
+      <section id="content" class="content" aria-live="polite" aria-label="Knowledge base view"></section>
+    </div>
+    <footer>
+      <p>Source: <a href="https://www.youtube.com/@TheNachiketBhatiaShow" target="_blank" rel="noopener noreferrer">The Nachiket Bhatia Show</a>. An independent study notebook; no affiliation or endorsement.</p>
+      <p>Saved topics, notes and college worksheets stay in this browser. Export a backup to move them to another device.</p>
+      <div class="actions"><button type="button" id="export-personal">Export my notebook</button><label class="button secondary" for="import-personal">Import notebook</label><input type="file" id="import-personal" accept="application/json,.json" hidden><a href="exports/knowledge-base.json" download>Download curated data</a></div>
+      <p id="storage-status" role="status" class="muted"></p>
+    </footer>
+  </main>
+  <dialog id="method-dialog">
+    <form method="dialog"><button class="dialog-close" aria-label="Close methodology">×</button></form>
+    <p class="eyebrow">Method & limits</p><h2>From captions to questions</h2>
+    <ol><li>The Videos tab and four playlists were catalogued. Shorts were not inventoried; the channel header shows about 1K total videos. Videos under two minutes were excluded from transcript collection.</li><li>Supadata’s native mode retrieved existing timestamped caption tracks. Manual versus automatic captions is unspecified. No AI audio transcription was requested.</li><li>Detailed video summaries follow reading the entire cached caption text, with a pinned source checksum and reading ranges. Excerpt notes use selected windows and keep that partial status. Every theme and note has an exact caption anchor, time range and source link validated against the saved text.</li><li>Summaries and notes are English paraphrases or translations. Captions may contain errors or omit spoken material; attribution is contextual because the API supplies no speaker labels. Audio has not been independently checked.</li><li>Branch pages group source perspectives across twelve decision aspects. They do not invent agreement or fill missing themes. Shared exam preparation and personal discussion are labelled separately in video summaries.</li><li>Chapter topics help navigation. Their labels are metadata, not reviewed findings or independent verification.</li></ol>
+    <p>Pros and cons reflect the speaker’s experience. Questions and college checklists are editorial prompts, not claims made by the guest. No salary promise, university ranking, recognition ruling or objective branch score is inferred.</p>
+    <p>Related episodes do not establish a dedicated interview for a specialty. Full transcripts are kept in the private local review page and excluded from the public hosting ZIP.</p>
+    <p id="method-progress"></p>
+    <p>Selected-caption briefs provide English highlights from inspected windows and keep full-transcript review pending. Important-section emphasis is an editorial navigation aid, not a measure of branch quality. Chapter labels remain unreviewed navigation metadata.</p>
+  </dialog>
+</body>
+</html>
