@@ -2,7 +2,7 @@
 
 AI-assisted English paraphrases of captions. Complete caption reviews and partial selected-window briefs retain separate status. Partial briefs do not cover every main theme. No independent audio check. Doctor opinions and personal experiences are not universal outcomes. Questions and college checklists are editorial prompts. Unfilled aspects are review gaps, not evidence that an issue does not exist.
 
-131 transcripts cached; 131 full-caption reviews available.
+132 transcripts cached; 132 full-caption reviews available.
 
 This file retains 85 earlier excerpt notes from 49 videos. Read video-summaries.md and branch-themes.md for the complete reviews and decision themes.
 
@@ -533,7 +533,7 @@ Department questions (editorial checklist):
 
 ## Orthopaedics
 
-3/3 mapped primary videos summarized
+4/4 mapped primary videos summarized
 
 Do trauma, musculoskeletal problems and procedural work interest me?
 
@@ -1093,7 +1093,7 @@ Department questions (editorial checklist):
 
 ## Shared Career, Training & Wellbeing
 
-13/13 mapped primary videos summarized
+14/14 mapped primary videos summarized
 
 Which working environment and personal constraints matter most to me?
 

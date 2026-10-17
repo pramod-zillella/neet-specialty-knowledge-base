@@ -120,13 +120,14 @@
     return `<p class="eyebrow">From interview insights to due diligence</p><h2>College worksheet</h2><p>Evaluate the <strong>department</strong> as well as the university name. Use the branch checklist, gather responses from residents and faculty, and record the source and date of each answer.</p><p class="muted">These worksheets contain your own research. Podcast comments alone do not establish a current university quality ranking, duty policy or placement outcome. Fees, stipends, bonds and recognition need current official documents.</p><form id="college-form" class="worksheet"><div class="form-row"><div><label for="college-name">College / institution</label><input id="college-name" required maxlength="200" placeholder="Enter the college name"></div><div><label for="college-location">City / state (optional)</label><input id="college-location" maxlength="200"></div></div><label for="college-branch">Specialty / pathway</label><select id="college-branch">${data.subjects.map(s=>`<option value="${esc(s.id)}" ${s.id===subject.id?'selected':''}>${esc(s.name)}</option>`).join('')}</select><div id="college-checks">${collegeChecks(subject)}</div><label for="college-notes">Evidence, answers and follow-up</label><textarea id="college-notes" maxlength="20000" placeholder="Example: CT/MRI access — asked a current resident on [date]; still need to verify hands-on rotations."></textarea><button type="submit" class="primary">Add to my college shortlist</button></form><h3>My college shortlist · ${personal.colleges.length}</h3><div id="college-records">${personal.colleges.map(c=>`<article class="worksheet" data-college-id="${esc(c.id)}"><div class="section-head"><div><h3>${esc(c.name)}</h3><p class="muted">${esc(subjects.get(c.subject_id).name)}${c.location?' · '+esc(c.location):''}</p></div><button type="button" class="small-button" data-remove-college="${esc(c.id)}">Remove</button></div><details><summary>Branch checklist · editorial</summary>${collegeChecks(subjects.get(c.subject_id))}</details><label for="record-${esc(c.id)}">My evidence and follow-up</label><textarea id="record-${esc(c.id)}" data-college-note="${esc(c.id)}" maxlength="20000">${esc(c.notes)}</textarea><p class="muted">Your own worksheet · saved locally</p></article>`).join('')||'<div class="empty">No colleges saved yet. Add an institution above to begin.</div>'}</div>`;
   }
   function collegeChecks(s) {return `<ul class="checklist">${s.college_checks.map(q=>`<li>${esc(q)}</li>`).join('')}<li>Verify current tuition, compulsory charges, stipend payment, bond terms, recognition and exit rules using dated official documents.</li><li>Speak independently with residents in different years; verify duty rosters, supervision, grievance support and the time available for learning.</li></ul><p class="route-note">${esc(s.route_note)}</p>`;}
+  const conclusions = window.createConclusionsView({data,state,esc,time,subjects,episodes,videoReviews,visibleSubjects,getPersonal:()=>personal});
   function render() {
     document.querySelectorAll('[data-view]').forEach(button=>{if(button.dataset.view===state.view)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');});
-    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges}[state.view]||overview)();
+    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges,conclusions}[state.view]||overview)();
     topicSidebar();
   }
-  function go(view,subject=state.subject) { if(subjects.has(subject))state.subject=subject; state.view=view; const hash=`#${view}/${state.subject}${view==='summaries'&&state.video?'/'+state.video:''}`; if(location.hash===hash)render();else location.hash=hash; }
-  function readHash() {const [view,id,vid]=location.hash.slice(1).split('/');state.view=['overview','summaries','compare','library','colleges'].includes(view)?view:'overview';if(subjects.has(id))state.subject=id;if(episodes.has(vid)){state.video=vid;const subject=subjects.get(state.subject);if(![...subject.episode_ids,...subject.related_episode_ids].includes(vid))state.summaryAll=true;}render();}
+  function go(view,subject=state.subject) { if(subjects.has(subject))state.subject=subject; state.view=view; const hash=`#${view}/${state.subject}${view==='summaries'&&state.video?'/'+state.video:view==='conclusions'?'/'+(state.conclusionTab||'advice'):''}`; if(location.hash===hash)render();else location.hash=hash; }
+  function readHash() {const [view,id,vid]=location.hash.slice(1).split('/');state.view=['overview','summaries','compare','library','colleges','conclusions'].includes(view)?view:'overview';if(subjects.has(id))state.subject=id;if(view==='conclusions'&&['advice','ratings','institutions'].includes(vid))state.conclusionTab=vid;if(episodes.has(vid)){state.video=vid;const subject=subjects.get(state.subject);if(![...subject.episode_ids,...subject.related_episode_ids].includes(vid))state.summaryAll=true;}render();}
   function exportFile(name, value) { const blob=new Blob([JSON.stringify(value,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const link=document.createElement('a');link.href=url;link.download=name;link.click();setTimeout(()=>URL.revokeObjectURL(url),1000); }
   const stats=data.stats;
   if (!stats.episodes_with_selected_caption_briefs) document.querySelector('a[href="exports/video-briefs.md"]')?.remove();
@@ -136,13 +137,16 @@
   $('aspect-filter').innerHTML+=data.aspects.map(a=>`<option value="${a.id}">${esc(a.name)}</option>`).join('');
   $('search').addEventListener('input',event=>{state.query=event.target.value.trim();render();});
   for(const [id,key] of [['group-filter','group'],['aspect-filter','aspect'],['stance-filter','stance']]) $(id).addEventListener('change',event=>{state[key]=event.target.value;render();});
-  $('reset-filters').addEventListener('click',()=>{Object.assign(state,{query:'',group:'',aspect:'',stance:'',savedOnly:false,libraryStatus:'',summaryQuery:'',importantOnly:false});['search','group-filter','aspect-filter','stance-filter'].forEach(id=>{$(id).value='';});render();});
+  $('reset-filters').addEventListener('click',()=>{Object.assign(state,{query:'',group:'',aspect:'',stance:'',savedOnly:false,libraryStatus:'',summaryQuery:'',importantOnly:false,conclusionProfile:'',conclusionSort:'',institutionQuery:'',institutionSubject:'',institutionSector:'',institutionStance:''});['search','group-filter','aspect-filter','stance-filter'].forEach(id=>{$(id).value='';});render();});
   $('shortlist-only').addEventListener('click',()=>{state.savedOnly=!state.savedOnly;render();});
   $('method-open').addEventListener('click',()=>$('method-dialog').showModal());
   document.addEventListener('click',event=>{
     const b=event.target.closest('button');if(!b)return;
     if(b.dataset.view){if(b.dataset.view==='summaries'&&!state.summaryAll){const subject=subjects.get(state.subject);if(![...subject.episode_ids,...subject.related_episode_ids].includes(state.video))state.video='';}go(b.dataset.view);}
-    if(b.dataset.subject)go('overview',b.dataset.subject);
+    if(b.dataset.subject)go(state.view==='conclusions'&&!b.dataset.openBranch?'conclusions':'overview',b.dataset.subject);
+    if(b.dataset.conclusionTab){state.conclusionTab=b.dataset.conclusionTab;go('conclusions');}
+    if(b.hasAttribute('data-conclusion-profile')){state.conclusionProfile=b.dataset.conclusionProfile;state.conclusionTab='ratings';go('conclusions');}
+    if(b.dataset.conclusionTopic){state.conclusionTab='ratings';go('conclusions',b.dataset.conclusionTopic);setTimeout(()=>{const target=document.getElementById(b.dataset.conclusionDimension?'score-'+b.dataset.conclusionDimension:'conclusion-detail');target?.scrollIntoView({behavior:'smooth',block:'start'});},60);}
     if(b.dataset.save){const id=b.dataset.save;personal.saved=personal.saved.includes(id)?personal.saved.filter(x=>x!==id):[...personal.saved,id];save();render();}
     if(b.dataset.compare){const id=b.dataset.compare;if(personal.compare.includes(id))personal.compare=personal.compare.filter(x=>x!==id);else if(personal.compare.length<4)personal.compare.push(id);else{message('Choose up to four comparison topics. Remove a selected topic to add another.');return;}save();render();}
     if(b.dataset.aspect){state.aspect=state.aspect===b.dataset.aspect?'':b.dataset.aspect;$('aspect-filter').value=state.aspect;render();}
@@ -154,11 +158,14 @@
     if(b.dataset.removeCollege){personal.colleges=personal.colleges.filter(c=>c.id!==b.dataset.removeCollege);save();render();}
   });
   document.addEventListener('input',event=>{
+    if(event.target.id==='institution-query'){const pos=event.target.selectionStart;state.institutionQuery=event.target.value;render();const input=$('institution-query');input.focus();input.setSelectionRange(pos,pos);}
     if(event.target.id==='summary-text-search'){const pos=event.target.selectionStart;state.summaryQuery=event.target.value;render();const input=$('summary-text-search');input.focus();input.setSelectionRange(pos,pos);}
     if(event.target.dataset.personalNote){personal.notes[event.target.dataset.personalNote]=event.target.value;save();$('note-save-state').textContent=storageAvailable?'Saved in this browser. Export a backup below.':'Session only — browser storage is unavailable. Export a backup before closing.';}
     if(event.target.dataset.collegeNote){const c=personal.colleges.find(c=>c.id===event.target.dataset.collegeNote);if(c){c.notes=event.target.value;c.updated=new Date().toISOString();save();}}
   });
   document.addEventListener('change',event=>{
+    const conclusionControls={'conclusion-sort':'conclusionSort','institution-subject':'institutionSubject','institution-sector':'institutionSector','institution-stance':'institutionStance'};
+    if(conclusionControls[event.target.id]){state[conclusionControls[event.target.id]]=event.target.value;render();}
     if(event.target.id==='library-status'){state.libraryStatus=event.target.value;render();}
     if(event.target.id==='college-branch'){$('college-checks').innerHTML=collegeChecks(subjects.get(event.target.value));}
     if(event.target.id==='summary-scope'){state.summaryAll=event.target.value==='all';render();}

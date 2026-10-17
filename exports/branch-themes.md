@@ -31772,7 +31772,7 @@ The same points may appear in several groups. Counts do not represent agreement 
 
 ## Orthopaedics
 
-3/3 mapped primary episodes have full-caption summaries; 0 have partial selected-caption briefs; 2 related episodes mapped separately.
+4/4 mapped primary episodes have full-caption summaries; 0 have partial selected-caption briefs; 2 related episodes mapped separately.
 
 Personal fit (editorial): Do trauma, musculoskeletal problems and procedural work interest me?
 
@@ -31860,6 +31860,16 @@ Context: Listening does not validate every test, and a normal result alone does 
 
 Question to investigate (editorial): Can I build earned trust while welcoming questions and shared decisions?
 
+#### His surgical teaching exercise invites trainees to challenge the plan
+
+Asked what makes AIIMS special, he praises its students and describes putting an X-ray in front of the whole team, asking for plans and discussing each plan's weaknesses. He says he would adopt a trainee's better plan, using disagreement to teach clinical reasoning.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s)
+
+Context: An example of his teaching approach, not proof that every AIIMS department or orthopaedic unit works this way.
+
+Question to investigate (editorial): Will this unit let me explain a plan, receive feedback and question a senior safely?
+
 ### Benefits described
 
 What did these speakers value, and under which conditions?
@@ -31893,6 +31903,56 @@ Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · [7:37](https://w
 Context: The statement that a surgeon is free to do anything is unacceptable literally. Informed consent, alternatives, risks, patient preferences and appropriate scope remain mandatory; orthopedic patients can and should ask questions.
 
 Question to investigate (editorial): Would I enjoy the actual procedures and responsibility while explaining choices clearly?
+
+#### Unsuccessful research can still answer a useful question
+
+He encourages recognising a real knowledge gap in everyday work and testing it, noting that a result showing an approach does not work can still add knowledge.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s)
+
+Context: The quotation attributed to Einstein is not verified here; the useful point is the research principle, not the quotation's authorship.
+
+Question to investigate (editorial): Does the unit value rigorous negative findings as well as positive results?
+
+#### His surgical teaching exercise invites trainees to challenge the plan
+
+Asked what makes AIIMS special, he praises its students and describes putting an X-ray in front of the whole team, asking for plans and discussing each plan's weaknesses. He says he would adopt a trainee's better plan, using disagreement to teach clinical reasoning.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s)
+
+Context: An example of his teaching approach, not proof that every AIIMS department or orthopaedic unit works this way.
+
+Question to investigate (editorial): Will this unit let me explain a plan, receive feedback and question a senior safely?
+
+#### Research begins with methods and questions from clinical practice
+
+He recommends learning study design and sample-size reasoning during training, reading how studies apply those principles, and building usable clinical data. For a short visitor he suggests a focused systematic review or meta-analysis rather than assuming a brief placement can deliver a large original project.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s)
+
+Context: Examples involving diabetes, osteoarthritis or fracture surgery are proposed research questions, not clinical conclusions.
+
+Question to investigate (editorial): Will a mentor teach me sound methods, data quality and a feasible question rather than only requiring a publication?
+
+#### Innovation can mean a cheaper useful device, not just a novel machine
+
+He describes clinician-engineer collaboration, matching material properties to an actual clinical need and work on biodegradable fixation rather than an implant intended to remain indefinitely. He also reports developing a lower-cost orthosis using local components.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s)
+
+Context: Device costs are his historical project claim, not current verified prices or a return-on-investment calculation. The caption track has an approximately 17-second gap near 43:56, and following text about an industry project is unclear; this cannot support a technical conclusion.
+
+Question to investigate (editorial): Does the department support collaboration that solves a patient problem and assesses affordability and outcomes?
+
+#### He urges protected time and collaboration beyond one specialty
+
+The closing research discussion covers work with industry, other hospital departments, institutions and international colleagues, including consensus statements and basic-science collaboration. He recommends setting aside two to three hours each week to discuss research and looking beyond specialty boundaries.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s)
+
+Context: Aspirational advice from an established clinician; time and resources may be much tighter for residents. Garbled technical passages are not reconstructed, and no industry claim is independently validated.
+
+Question to investigate (editorial): Is there actual protected research time, ethical oversight, multidisciplinary access and support for collaboration?
 
 #### Practice establishment takes skill, trust, time and capital
 
@@ -32062,6 +32122,16 @@ Context: Historical quota and entry arrangements are not current admissions guid
 
 Question to investigate (editorial): Have I observed the actual branch before accepting it because it is available?
 
+#### Unsuccessful research can still answer a useful question
+
+He encourages recognising a real knowledge gap in everyday work and testing it, noting that a result showing an approach does not work can still add knowledge.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s)
+
+Context: The quotation attributed to Einstein is not verified here; the useful point is the research principle, not the quotation's authorship.
+
+Question to investigate (editorial): Does the unit value rigorous negative findings as well as positive results?
+
 #### He describes a steep learning curve and longer theatre time
 
 He estimates about ninety minutes for his preferred operation versus twenty-five to thirty minutes for total replacement, arguing this reduces throughput in limited theatre sessions.
@@ -32091,6 +32161,36 @@ Dr Ashwani Maichand with host Dr Nachiket Bhatia; Hindi-English captions paraphr
 Context: Later he describes a six-month company-linked fellowship; that is not the same as his two-year recommendation or proof of accredited specialist competence. Zero complications cannot be promised.
 
 Question to investigate (editorial): What is the full supervision plan, assessment and path to safe independent practice?
+
+#### His surgical teaching exercise invites trainees to challenge the plan
+
+Asked what makes AIIMS special, he praises its students and describes putting an X-ray in front of the whole team, asking for plans and discussing each plan's weaknesses. He says he would adopt a trainee's better plan, using disagreement to teach clinical reasoning.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s)
+
+Context: An example of his teaching approach, not proof that every AIIMS department or orthopaedic unit works this way.
+
+Question to investigate (editorial): Will this unit let me explain a plan, receive feedback and question a senior safely?
+
+#### Research begins with methods and questions from clinical practice
+
+He recommends learning study design and sample-size reasoning during training, reading how studies apply those principles, and building usable clinical data. For a short visitor he suggests a focused systematic review or meta-analysis rather than assuming a brief placement can deliver a large original project.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s)
+
+Context: Examples involving diabetes, osteoarthritis or fracture surgery are proposed research questions, not clinical conclusions.
+
+Question to investigate (editorial): Will a mentor teach me sound methods, data quality and a feasible question rather than only requiring a publication?
+
+#### Robotics is presented as a question to investigate, not proven superiority
+
+He describes collaborating on infection profiles and resistance, and studying robotic versus conventional partial knee and hip replacement, including different approaches. He treats these as clinically relevant comparisons arising from patient care.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s)
+
+Context: No comparative outcome data are supplied. The interview does not prove robotics is better or necessary, and equipment availability alone does not establish training quality.
+
+Question to investigate (editorial): Will I learn indications, outcomes, complications and critical appraisal alongside access to new technology?
 
 #### He gives informal estimates of availability and regular practice
 
@@ -32171,6 +32271,16 @@ Dr Sushil Vijay; host questions and broad assertions distinguished separately ·
 Context: The quoted clinic figures are rough fit-out estimates, not a complete compliant startup specification.
 
 Question to investigate (editorial): Can you demonstrate competence, safe referrals, local permissions and a realistic clinic budget before opening?
+
+#### He urges protected time and collaboration beyond one specialty
+
+The closing research discussion covers work with industry, other hospital departments, institutions and international colleagues, including consensus statements and basic-science collaboration. He recommends setting aside two to three hours each week to discuss research and looking beyond specialty boundaries.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s)
+
+Context: Aspirational advice from an established clinician; time and resources may be much tighter for residents. Garbled technical passages are not reconstructed, and no industry claim is independently validated.
+
+Question to investigate (editorial): Is there actual protected research time, ethical oversight, multidisciplinary access and support for collaboration?
 
 ### Money, jobs & practice
 
@@ -32514,6 +32624,16 @@ Context: The statement that a surgeon is free to do anything is unacceptable lit
 
 Question to investigate (editorial): Would I enjoy the actual procedures and responsibility while explaining choices clearly?
 
+#### Unsuccessful research can still answer a useful question
+
+He encourages recognising a real knowledge gap in everyday work and testing it, noting that a result showing an approach does not work can still add knowledge.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s)
+
+Context: The quotation attributed to Einstein is not verified here; the useful point is the research principle, not the quotation's authorship.
+
+Question to investigate (editorial): Does the unit value rigorous negative findings as well as positive results?
+
 #### He describes a steep learning curve and longer theatre time
 
 He estimates about ninety minutes for his preferred operation versus twenty-five to thirty minutes for total replacement, arguing this reduces throughput in limited theatre sessions.
@@ -32563,6 +32683,26 @@ Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · [39:30](https://
 Context: Listening does not validate every test, and a normal result alone does not prove a test unnecessary or necessary. Patients retain the right to question, decline, seek costs and obtain another opinion; degree status does not make a clinician infallible.
 
 Question to investigate (editorial): Can I build earned trust while welcoming questions and shared decisions?
+
+#### Research begins with methods and questions from clinical practice
+
+He recommends learning study design and sample-size reasoning during training, reading how studies apply those principles, and building usable clinical data. For a short visitor he suggests a focused systematic review or meta-analysis rather than assuming a brief placement can deliver a large original project.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s)
+
+Context: Examples involving diabetes, osteoarthritis or fracture surgery are proposed research questions, not clinical conclusions.
+
+Question to investigate (editorial): Will a mentor teach me sound methods, data quality and a feasible question rather than only requiring a publication?
+
+#### Robotics is presented as a question to investigate, not proven superiority
+
+He describes collaborating on infection profiles and resistance, and studying robotic versus conventional partial knee and hip replacement, including different approaches. He treats these as clinically relevant comparisons arising from patient care.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s)
+
+Context: No comparative outcome data are supplied. The interview does not prove robotics is better or necessary, and equipment availability alone does not establish training quality.
+
+Question to investigate (editorial): Will I learn indications, outcomes, complications and critical appraisal alongside access to new technology?
 
 #### He gives informal estimates of availability and regular practice
 
@@ -32623,6 +32763,26 @@ Dr Sushil Vijay; host questions and broad assertions distinguished separately ·
 Context: The list is informal, partly region-limited and not a national ranking; verify exact programmes and accreditation.
 
 Question to investigate (editorial): Can current residents show their own supervised case records and teaching timetable?
+
+#### Innovation can mean a cheaper useful device, not just a novel machine
+
+He describes clinician-engineer collaboration, matching material properties to an actual clinical need and work on biodegradable fixation rather than an implant intended to remain indefinitely. He also reports developing a lower-cost orthosis using local components.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s)
+
+Context: Device costs are his historical project claim, not current verified prices or a return-on-investment calculation. The caption track has an approximately 17-second gap near 43:56, and following text about an industry project is unclear; this cannot support a technical conclusion.
+
+Question to investigate (editorial): Does the department support collaboration that solves a patient problem and assesses affordability and outcomes?
+
+#### He urges protected time and collaboration beyond one specialty
+
+The closing research discussion covers work with industry, other hospital departments, institutions and international colleagues, including consensus statements and basic-science collaboration. He recommends setting aside two to three hours each week to discuss research and looking beyond specialty boundaries.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s)
+
+Context: Aspirational advice from an established clinician; time and resources may be much tighter for residents. Garbled technical passages are not reconstructed, and no industry claim is independently validated.
+
+Question to investigate (editorial): Is there actual protected research time, ethical oversight, multidisciplinary access and support for collaboration?
 
 #### Assess accessibility, population and competition; keep reserves
 
@@ -32890,6 +33050,174 @@ Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · [9:39](https://w
 
 Context: His casual suggestion to take work from another specialty is not permission to practice beyond recognized competence or privileges. More work is not automatically better than safe learning and rest.
 
+#### A trauma leadership role became a COVID hospital responsibility
+
+He says his 2017-23 trauma-centre leadership plans were interrupted by conversion into a COVID hospital. He describes moving ventilated and complex patients to the main hospital and then being asked to run the converted facility himself.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [4:57](https://www.youtube.com/watch?v=Zx89YL681lI&t=297s)
+
+Context: This is an exceptional pandemic leadership account, not a routine orthopaedic job description.
+
+#### Hospital safety depended on routes, logistics and continuous laboratory support
+
+He describes separating public and staff routes, patient entry and exit, mortuary access, document handling and sample transport while the laboratory worked around the clock. The example shows that service quality depends on systems and support staff as well as specialist knowledge.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [6:20](https://www.youtube.com/watch?v=Zx89YL681lI&t=380s)
+
+Context: Historical descriptions are not infection-control instructions or evidence of present-day arrangements.
+
+#### He tried to experience the equipment problems reported by staff
+
+Malhotra says he asked to use the PPE that staff complained about rather than receiving a special superior set for leadership rounds. His stated aim was to understand the practical problems and respond to them.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [7:42](https://www.youtube.com/watch?v=Zx89YL681lI&t=462s)
+
+Context: This is his account of leadership practice, not an independently audited safety outcome.
+
+#### Care included nurses, physiotherapists and nonclinical staff
+
+He recalls rounds involving nursing, physiotherapy, nutrition, electrical, plumbing and communications staff, alongside patient food choices and basic comforts. He describes the pandemic as a period of losses and emotional strain, ending with gratitude at having survived.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [9:00](https://www.youtube.com/watch?v=Zx89YL681lI&t=540s)
+
+Context: Specific pandemic-era devices and routines mentioned are recollections, not current treatment recommendations.
+
+#### Resources, academic freedom and research support shaped his institutional experience
+
+He describes small historical classes, coordinated teaching, access to facilities, admired faculty, freedom to work and research recognition with awards and funding. For anatomy he recalls the whole AIIMS cohort learning and dissecting the same region together, contrasting this with classmates at Maulana Azad doing different regions in separate groups. He sees leadership and deliberate institutional effort as central to maintaining the environment.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [13:56](https://www.youtube.com/watch?v=Zx89YL681lI&t=836s)
+
+Context: The undergraduate anatomy comparison is historical and the Maulana Azad side is peer-reported. It does not establish current MD/MS department quality or automatically transfer to newer AIIMS campuses and larger cohorts.
+
+#### The host alleges recruitment corruption; the guest does not claim firsthand knowledge
+
+When the host calls recruitment corruption obvious, Malhotra says he does not personally know about that allegation. He acknowledges pressure and argues that choosing an undeserving candidate harms the institution and personal integrity.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [14:26](https://www.youtube.com/watch?v=Zx89YL681lI&t=866s)
+
+Context: Keep the host's allegation distinct from the guest's response. This conversation does not establish corruption by a named institution or person.
+
+#### Academic brilliance and teamwork are different selection criteria
+
+He says the strongest examination or intellectual performer is not necessarily the best surgeon, worker or teammate. In his account, he sometimes preferred a slightly less brilliant candidate who would contribute more to the institution, and he criticises treating an institute name only as a career label.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [15:30](https://www.youtube.com/watch?v=Zx89YL681lI&t=930s)
+
+Context: Personal selection philosophy, not evidence that high-achieving trainees generally lack teamwork.
+
+#### His AIIMS preferences are personal and not department-specific rankings
+
+Asked to rank AIIMS campuses, he puts New Delhi first and Rishikesh second, says Rishikesh has done well, then names a third campus unclearly in the captions and discusses others without a clear ordered list. He acknowledges that the host may know more from speaking with aspirants.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [16:34](https://www.youtube.com/watch?v=Zx89YL681lI&t=994s)
+
+Context: An unsolicited ranking question elicits his opinion, not a transparent scored comparison or verified university ranking. The third campus is not named here because its caption rendering is unclear.
+
+#### He describes induction and high expectations for incoming residents
+
+Discussing pressure on residents, he says rigorous selection raises expectations and recalls orientation or induction systems at AIIMS and for DNB entrants at Apollo. He stresses the stakes of clinical errors compared with nonmedical work.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [17:48](https://www.youtube.com/watch?v=Zx89YL681lI&t=1068s)
+
+Context: His account does not verify current policy at every AIIMS or Apollo campus, and high stakes do not justify harassment.
+
+#### A transfusion-error story raises supervisory and system responsibility
+
+He describes changing public responses to errors and recounts a resident's sampling error that led to a wrong transfusion. He says he took public responsibility rather than naming the resident as the culprit, while warning the resident privately against repetition.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [20:07](https://www.youtube.com/watch?v=Zx89YL681lI&t=1207s)
+
+Context: The incident is an unverified recollection. His warning is not a complete or validated patient-safety investigation model.
+
+#### Overwork is acknowledged, but the quoted hours need verification
+
+The host raises 18-22-hour days and an alleged 540-hour monthly roster; the guest agrees that extreme work can impair anyone's capability. The exchange links fatigue to patient safety and the personal burden of an adverse outcome.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [20:53](https://www.youtube.com/watch?v=Zx89YL681lI&t=1253s)
+
+Context: The host's conversion of 540 hours per month to 22 hours per day is not generally correct: over 30 days it is 18 hours. The underlying roster claim has not been independently checked. These hours are not endorsed as safe.
+
+#### He treats resident distress and unchecked bullying as a system failure
+
+Malhotra describes a relative's intimidating seniors and a department that, in his account, did not intervene. He argues that a trainee suicide should not be reduced to an individual event and calls the situation a failure of the system.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [21:45](https://www.youtube.com/watch?v=Zx89YL681lI&t=1305s)
+
+Context: The unnamed department story is personal hearsay. A numerical claim about doctor suicide in America is unsupported in this interview and should not be repeated as an established risk estimate.
+
+#### He values mentors who notice a trainee's family and wellbeing
+
+He contrasts two admired mentors, remembering most warmly the one who asked about his wife and child and followed up on family difficulties. He says teachers should take responsibility for students becoming trained, able to communicate and settled in their careers.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [23:21](https://www.youtube.com/watch?v=Zx89YL681lI&t=1401s)
+
+Context: Support should be confidential and respectful; asking peers about private relationships or suspected substance use, as mentioned earlier, is not a substitute for appropriate professional support.
+
+#### Both speakers favour fairer pay without establishing a current stipend table
+
+The host raises low intern, JR and SR pay and financial dependence in young adulthood. Malhotra agrees that something should be done and compares the reluctance to pay a consultation fee with discretionary consumer spending.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [24:25](https://www.youtube.com/watch?v=Zx89YL681lI&t=1465s)
+
+Context: The host's state-wide percentages and stipend examples are unverified interview claims. They are not current institution-specific amounts.
+
+#### Urban job concentration and public-private differences shape opportunity
+
+He argues that many doctors compete for work in a limited set of preferred cities, while remote-area jobs may differ. He also describes disparities between government and private support-staff pay, workloads and benefits.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [25:12](https://www.youtube.com/watch?v=Zx89YL681lI&t=1512s)
+
+Context: These are workforce opinions without a labour-market dataset. A rural shortage does not by itself establish a safe, supported or well-paid job for a particular specialist.
+
+#### He sees medicine as a slowly developing career with a long working horizon
+
+He repeats a senior's view that medicine warms up late and values the judgement that can come with experience. His advice is to develop a needed skill and seek fair payment, using an ikigai-style combination of ability, demand and remuneration.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [27:30](https://www.youtube.com/watch?v=Zx89YL681lI&t=1650s)
+
+Context: A senior practitioner's philosophy, not a guarantee of later income, longevity, employment or improved judgement with age.
+
+#### He separates clinical income from business wealth and investment returns
+
+He argues that personal time limits how much a doctor can earn through consultations and operations alone. He distinguishes clinical fees from research payments, intellectual property, book royalties, innovation, investment returns and owning a hospital business, and says these are different skills.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [31:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=1896s)
+
+Context: His broad claim that medicine is poor for becoming rich is an opinion. These examples are not investment advice, promised income streams or endorsement of paid research without conflict safeguards.
+
+#### Location choice depends on family infrastructure, not vacancy alone
+
+Drawing on time in Australia, he argues that schools, healthcare, shops and family support make smaller communities viable. He discusses local connections and suitable roles for a partner as practical factors in recruitment and retention.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [32:43](https://www.youtube.com/watch?v=Zx89YL681lI&t=1963s)
+
+Context: Personal comparisons do not establish overseas licensing, immigration eligibility or uniform rural conditions in either country.
+
+#### His commitment message should not be read as approval of unsafe work
+
+Asked whether anyone should become a doctor, he says medicine requires commitment, sincerity and hard work and is unsuitable as a quick-money plan. He values a limited period for intensive training and refers to postgraduate and residency years.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [35:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2108s)
+
+Context: His six-year example is not a universal compulsory pathway or a justification for excessive hours. Verify the actual qualification, service obligations and options for the branch.
+
+#### Public and private settings may present different affordability and case mixes
+
+From having worked in both sectors, he describes public hospitals caring for patients with limited means and complex cases after other options have been exhausted. He notes that complex private treatment can be costly without adequate insurance and mentions public-hospital assistance funds.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [35:40](https://www.youtube.com/watch?v=Zx89YL681lI&t=2140s)
+
+Context: These are broad personal observations, not a quality ranking of central, state, deemed or private colleges; patients and funding differ within every sector.
+
+#### He says an institutional title did not automatically transfer a private practice
+
+His sequence is skill, reputation and then practice growth. He says that moving from a senior public role still required demonstrating results, behaviour and reliability to private-sector patients who did not necessarily know his previous position.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [36:44](https://www.youtube.com/watch?v=Zx89YL681lI&t=2204s)
+
+Context: The story does not guarantee that hard work produces wealth. His suggestion that competent residents face less harassment must not shift responsibility onto victims; harassment remains unacceptable regardless of performance.
+
 ### Index by decision aspect
 
 The same points may appear in several groups. Counts do not represent agreement between speakers.
@@ -32905,6 +33233,7 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [Choose further training for a real skill gap and future practice · 16:50](https://www.youtube.com/watch?v=IXLUOs37rLw&t=1010s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [Orthopedics was an available option rather than an originally planned specialty · 6:54](https://www.youtube.com/watch?v=quVArkIJPug&t=414s) — Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · Full caption summary
 - [He enjoys orthopedics but overstates freedom from patient questions · 7:37](https://www.youtube.com/watch?v=quVArkIJPug&t=457s) — Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · Full caption summary
+- [Unsuccessful research can still answer a useful question · 40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Clinical work & patient contact
 
 - [Knee pain is a large part of his own clinic workload · 3:32](https://www.youtube.com/watch?v=fYfhbxaWMEk&t=212s) — Dr Ashwani Maichand with host Dr Nachiket Bhatia; Hindi-English captions paraphrased without independent diarization · Full caption summary
@@ -32918,6 +33247,9 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [Corporate, academic and public-service roles differ · 24:41](https://www.youtube.com/watch?v=IXLUOs37rLw&t=1481s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [He enjoys orthopedics but overstates freedom from patient questions · 7:37](https://www.youtube.com/watch?v=quVArkIJPug&t=457s) — Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · Full caption summary
 - [He values listening but asks for more trust than informed care warrants · 39:30](https://www.youtube.com/watch?v=quVArkIJPug&t=2370s) — Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · Full caption summary
+- [His surgical teaching exercise invites trainees to challenge the plan · 11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Research begins with methods and questions from clinical practice · 39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Robotics is presented as a question to investigate, not proven superiority · 42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Training, exams & qualifications
 
 - [He describes a steep learning curve and longer theatre time · 19:09](https://www.youtube.com/watch?v=fYfhbxaWMEk&t=1149s) — Dr Ashwani Maichand with host Dr Nachiket Bhatia; Hindi-English captions paraphrased without independent diarization · Full caption summary
@@ -32934,6 +33266,12 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [Use case mix, classes and procedure access rather than a name alone · 20:40](https://www.youtube.com/watch?v=IXLUOs37rLw&t=1240s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [A clinic can be a smaller step if competence is established · 34:08](https://www.youtube.com/watch?v=IXLUOs37rLw&t=2048s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [Orthopedics was an available option rather than an originally planned specialty · 6:54](https://www.youtube.com/watch?v=quVArkIJPug&t=414s) — Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · Full caption summary
+- [His surgical teaching exercise invites trainees to challenge the plan · 11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Research begins with methods and questions from clinical practice · 39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Unsuccessful research can still answer a useful question · 40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Robotics is presented as a question to investigate, not proven superiority · 42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Innovation can mean a cheaper useful device, not just a novel machine · 43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [He urges protected time and collaboration beyond one specialty · 45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Lifestyle, duties & wellbeing
 
 - [He describes retraining in midcareer to seek options for younger patients · 41:28](https://www.youtube.com/watch?v=fYfhbxaWMEk&t=2488s) — Dr Ashwani Maichand with host Dr Nachiket Bhatia; Hindi-English captions paraphrased without independent diarization · Full caption summary
@@ -32969,6 +33307,7 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [Assess accessibility, population and competition; keep reserves · 31:45](https://www.youtube.com/watch?v=IXLUOs37rLw&t=1905s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [A clinic can be a smaller step if competence is established · 34:08](https://www.youtube.com/watch?v=IXLUOs37rLw&t=2048s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [He values listening but asks for more trust than informed care warrants · 39:30](https://www.youtube.com/watch?v=quVArkIJPug&t=2370s) — Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · Full caption summary
+- [Innovation can mean a cheaper useful device, not just a novel machine · 43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Employment, location & demand
 
 - [They discuss hospital incentives and patient-centered use of theatre time · 22:34](https://www.youtube.com/watch?v=fYfhbxaWMEk&t=1354s) — Dr Ashwani Maichand with host Dr Nachiket Bhatia; Hindi-English captions paraphrased without independent diarization · Full caption summary
@@ -32988,6 +33327,11 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [He disputes saturation but acknowledges local barriers · 12:24](https://www.youtube.com/watch?v=IXLUOs37rLw&t=744s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [Trauma and replacement are his growth favourites · 18:19](https://www.youtube.com/watch?v=IXLUOs37rLw&t=1099s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [He rejects saturation using broad need rather than documented job data · 8:14](https://www.youtube.com/watch?v=quVArkIJPug&t=494s) — Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · Full caption summary
+- [Research begins with methods and questions from clinical practice · 39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Unsuccessful research can still answer a useful question · 40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Robotics is presented as a question to investigate, not proven superiority · 42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Innovation can mean a cheaper useful device, not just a novel machine · 43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [He urges protected time and collaboration beyond one specialty · 45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### College & department selection
 
 - [He gives informal estimates of availability and regular practice · 24:44](https://www.youtube.com/watch?v=fYfhbxaWMEk&t=1484s) — Dr Ashwani Maichand with host Dr Nachiket Bhatia; Hindi-English captions paraphrased without independent diarization · Full caption summary
@@ -32997,6 +33341,9 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [Academics and hands-on work should both be inspected · 19:08](https://www.youtube.com/watch?v=IXLUOs37rLw&t=1148s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [Use case mix, classes and procedure access rather than a name alone · 20:40](https://www.youtube.com/watch?v=IXLUOs37rLw&t=1240s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [Orthopedics was an available option rather than an originally planned specialty · 6:54](https://www.youtube.com/watch?v=quVArkIJPug&t=414s) — Dr Sushil Vijay, with questions from host Dr Nachiket Bhatia · Full caption summary
+- [His surgical teaching exercise invites trainees to challenge the plan · 11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Robotics is presented as a question to investigate, not proven superiority · 42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [He urges protected time and collaboration beyond one specialty · 45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Culture, safety & inclusion
 
 - [He worries that his specialty is narrowing toward one profitable procedure · 39:45](https://www.youtube.com/watch?v=fYfhbxaWMEk&t=2385s) — Dr Ashwani Maichand with host Dr Nachiket Bhatia; Hindi-English captions paraphrased without independent diarization · Full caption summary
@@ -33005,6 +33352,7 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [He wants formal training in counselling and complication disclosure · 52:06](https://www.youtube.com/watch?v=fYfhbxaWMEk&t=3126s) — Dr Ashwani Maichand with host Dr Nachiket Bhatia; Hindi-English captions paraphrased without independent diarization · Full caption summary
 - [Technique and systems matter more than a muscular stereotype · 10:55](https://www.youtube.com/watch?v=IXLUOs37rLw&t=655s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
 - [Corporate, academic and public-service roles differ · 24:41](https://www.youtube.com/watch?v=IXLUOs37rLw&t=1481s) — Dr Sushil Vijay; host questions and broad assertions distinguished separately · Full caption summary
+- [His surgical teaching exercise invites trainees to challenge the plan · 11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Ethics & legal responsibilities
 
 - [They discuss hospital incentives and patient-centered use of theatre time · 22:34](https://www.youtube.com/watch?v=fYfhbxaWMEk&t=1354s) — Dr Ashwani Maichand with host Dr Nachiket Bhatia; Hindi-English captions paraphrased without independent diarization · Full caption summary
@@ -69788,7 +70136,7 @@ Review gap — no source-backed summary for this aspect yet.
 
 ## Shared Career, Training & Wellbeing
 
-13/13 mapped primary episodes have full-caption summaries; 0 have partial selected-caption briefs; 0 related episodes mapped separately.
+14/14 mapped primary episodes have full-caption summaries; 0 have partial selected-caption briefs; 0 related episodes mapped separately.
 
 Personal fit (editorial): Which working environment and personal constraints matter most to me?
 
@@ -69856,6 +70204,16 @@ Context: A historical admission story, not current eligibility advice or evidenc
 
 Question to investigate (editorial): Am I choosing the next course because it fits my goals, or because selection and peer expectations create momentum?
 
+#### His surgical teaching exercise invites trainees to challenge the plan
+
+Asked what makes AIIMS special, he praises its students and describes putting an X-ray in front of the whole team, asking for plans and discussing each plan's weaknesses. He says he would adopt a trainee's better plan, using disagreement to teach clinical reasoning.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s)
+
+Context: An example of his teaching approach, not proof that every AIIMS department or orthopaedic unit works this way.
+
+Question to investigate (editorial): Will this unit let me explain a plan, receive feedback and question a senior safely?
+
 ### Benefits described
 
 What did these speakers value, and under which conditions?
@@ -69879,6 +70237,56 @@ Dr Rahul Chawla, neurologist, writer and doctor-rights advocate; host claims dis
 Context: A counterfactual about engineering cannot establish that another career would have been easier or more successful. Rejected work is not proof that exploration had no value.
 
 Question to investigate (editorial): Which ambitions would I regret never testing, and what realistic time and financial boundaries would a trial need?
+
+#### Unsuccessful research can still answer a useful question
+
+He encourages recognising a real knowledge gap in everyday work and testing it, noting that a result showing an approach does not work can still add knowledge.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s)
+
+Context: The quotation attributed to Einstein is not verified here; the useful point is the research principle, not the quotation's authorship.
+
+Question to investigate (editorial): Does the unit value rigorous negative findings as well as positive results?
+
+#### His surgical teaching exercise invites trainees to challenge the plan
+
+Asked what makes AIIMS special, he praises its students and describes putting an X-ray in front of the whole team, asking for plans and discussing each plan's weaknesses. He says he would adopt a trainee's better plan, using disagreement to teach clinical reasoning.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s)
+
+Context: An example of his teaching approach, not proof that every AIIMS department or orthopaedic unit works this way.
+
+Question to investigate (editorial): Will this unit let me explain a plan, receive feedback and question a senior safely?
+
+#### Research begins with methods and questions from clinical practice
+
+He recommends learning study design and sample-size reasoning during training, reading how studies apply those principles, and building usable clinical data. For a short visitor he suggests a focused systematic review or meta-analysis rather than assuming a brief placement can deliver a large original project.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s)
+
+Context: Examples involving diabetes, osteoarthritis or fracture surgery are proposed research questions, not clinical conclusions.
+
+Question to investigate (editorial): Will a mentor teach me sound methods, data quality and a feasible question rather than only requiring a publication?
+
+#### Innovation can mean a cheaper useful device, not just a novel machine
+
+He describes clinician-engineer collaboration, matching material properties to an actual clinical need and work on biodegradable fixation rather than an implant intended to remain indefinitely. He also reports developing a lower-cost orthosis using local components.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s)
+
+Context: Device costs are his historical project claim, not current verified prices or a return-on-investment calculation. The caption track has an approximately 17-second gap near 43:56, and following text about an industry project is unclear; this cannot support a technical conclusion.
+
+Question to investigate (editorial): Does the department support collaboration that solves a patient problem and assesses affordability and outcomes?
+
+#### He urges protected time and collaboration beyond one specialty
+
+The closing research discussion covers work with industry, other hospital departments, institutions and international colleagues, including consensus statements and basic-science collaboration. He recommends setting aside two to three hours each week to discuss research and looking beyond specialty boundaries.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s)
+
+Context: Aspirational advice from an established clinician; time and resources may be much tighter for residents. Garbled technical passages are not reconstructed, and no industry claim is independently validated.
+
+Question to investigate (editorial): Is there actual protected research time, ethical oversight, multidisciplinary access and support for collaboration?
 
 ### Trade-offs & challenges
 
@@ -70058,6 +70466,16 @@ Context: A historical admission story, not current eligibility advice or evidenc
 
 Question to investigate (editorial): Am I choosing the next course because it fits my goals, or because selection and peer expectations create momentum?
 
+#### Unsuccessful research can still answer a useful question
+
+He encourages recognising a real knowledge gap in everyday work and testing it, noting that a result showing an approach does not work can still add knowledge.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s)
+
+Context: The quotation attributed to Einstein is not verified here; the useful point is the research principle, not the quotation's authorship.
+
+Question to investigate (editorial): Does the unit value rigorous negative findings as well as positive results?
+
 #### Shortages, waiting and transfers require system-level support
 
 He links conflict to scarce beds, long waits and delays while moving a sick patient between hospitals. He describes doctors as shock absorbers between public frustration and service constraints.
@@ -70097,6 +70515,46 @@ Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are
 Context: Percentages and facility totals are quoted from unspecified or older reports, including a 2019 reference; they are not verified descriptions of every public facility today.
 
 Question to investigate (editorial): Does this hospital provide reliable medicines, equipment, electricity, sanitation, staffing and escalation support?
+
+#### His surgical teaching exercise invites trainees to challenge the plan
+
+Asked what makes AIIMS special, he praises its students and describes putting an X-ray in front of the whole team, asking for plans and discussing each plan's weaknesses. He says he would adopt a trainee's better plan, using disagreement to teach clinical reasoning.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s)
+
+Context: An example of his teaching approach, not proof that every AIIMS department or orthopaedic unit works this way.
+
+Question to investigate (editorial): Will this unit let me explain a plan, receive feedback and question a senior safely?
+
+#### Research begins with methods and questions from clinical practice
+
+He recommends learning study design and sample-size reasoning during training, reading how studies apply those principles, and building usable clinical data. For a short visitor he suggests a focused systematic review or meta-analysis rather than assuming a brief placement can deliver a large original project.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s)
+
+Context: Examples involving diabetes, osteoarthritis or fracture surgery are proposed research questions, not clinical conclusions.
+
+Question to investigate (editorial): Will a mentor teach me sound methods, data quality and a feasible question rather than only requiring a publication?
+
+#### Robotics is presented as a question to investigate, not proven superiority
+
+He describes collaborating on infection profiles and resistance, and studying robotic versus conventional partial knee and hip replacement, including different approaches. He treats these as clinically relevant comparisons arising from patient care.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s)
+
+Context: No comparative outcome data are supplied. The interview does not prove robotics is better or necessary, and equipment availability alone does not establish training quality.
+
+Question to investigate (editorial): Will I learn indications, outcomes, complications and critical appraisal alongside access to new technology?
+
+#### He urges protected time and collaboration beyond one specialty
+
+The closing research discussion covers work with industry, other hospital departments, institutions and international colleagues, including consensus statements and basic-science collaboration. He recommends setting aside two to three hours each week to discuss research and looking beyond specialty boundaries.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s)
+
+Context: Aspirational advice from an established clinician; time and resources may be much tighter for residents. Garbled technical passages are not reconstructed, and no industry claim is independently validated.
+
+Question to investigate (editorial): Is there actual protected research time, ethical oversight, multidisciplinary access and support for collaboration?
 
 #### Vacancies do not alone make a rural job workable
 
@@ -70390,6 +70848,16 @@ Context: A historical admission story, not current eligibility advice or evidenc
 
 Question to investigate (editorial): Am I choosing the next course because it fits my goals, or because selection and peer expectations create momentum?
 
+#### Unsuccessful research can still answer a useful question
+
+He encourages recognising a real knowledge gap in everyday work and testing it, noting that a result showing an approach does not work can still add knowledge.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s)
+
+Context: The quotation attributed to Einstein is not verified here; the useful point is the research principle, not the quotation's authorship.
+
+Question to investigate (editorial): Does the unit value rigorous negative findings as well as positive results?
+
 #### Shortages, waiting and transfers require system-level support
 
 He links conflict to scarce beds, long waits and delays while moving a sick patient between hospitals. He describes doctors as shock absorbers between public frustration and service constraints.
@@ -70449,6 +70917,46 @@ Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are
 Context: This is a broad retrospective commentary, not a verified account of every region or a current preparedness audit.
 
 Question to investigate (editorial): What emergency-surge, oxygen, infection-control and staffing contingency plans are in place now?
+
+#### Research begins with methods and questions from clinical practice
+
+He recommends learning study design and sample-size reasoning during training, reading how studies apply those principles, and building usable clinical data. For a short visitor he suggests a focused systematic review or meta-analysis rather than assuming a brief placement can deliver a large original project.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s)
+
+Context: Examples involving diabetes, osteoarthritis or fracture surgery are proposed research questions, not clinical conclusions.
+
+Question to investigate (editorial): Will a mentor teach me sound methods, data quality and a feasible question rather than only requiring a publication?
+
+#### Robotics is presented as a question to investigate, not proven superiority
+
+He describes collaborating on infection profiles and resistance, and studying robotic versus conventional partial knee and hip replacement, including different approaches. He treats these as clinically relevant comparisons arising from patient care.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s)
+
+Context: No comparative outcome data are supplied. The interview does not prove robotics is better or necessary, and equipment availability alone does not establish training quality.
+
+Question to investigate (editorial): Will I learn indications, outcomes, complications and critical appraisal alongside access to new technology?
+
+#### Innovation can mean a cheaper useful device, not just a novel machine
+
+He describes clinician-engineer collaboration, matching material properties to an actual clinical need and work on biodegradable fixation rather than an implant intended to remain indefinitely. He also reports developing a lower-cost orthosis using local components.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s)
+
+Context: Device costs are his historical project claim, not current verified prices or a return-on-investment calculation. The caption track has an approximately 17-second gap near 43:56, and following text about an industry project is unclear; this cannot support a technical conclusion.
+
+Question to investigate (editorial): Does the department support collaboration that solves a patient problem and assesses affordability and outcomes?
+
+#### He urges protected time and collaboration beyond one specialty
+
+The closing research discussion covers work with industry, other hospital departments, institutions and international colleagues, including consensus statements and basic-science collaboration. He recommends setting aside two to three hours each week to discuss research and looking beyond specialty boundaries.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s)
+
+Context: Aspirational advice from an established clinician; time and resources may be much tighter for residents. Garbled technical passages are not reconstructed, and no industry claim is independently validated.
+
+Question to investigate (editorial): Is there actual protected research time, ethical oversight, multidisciplinary access and support for collaboration?
 
 #### The opening connects public respect for doctors with fear for their safety
 
@@ -72750,6 +73258,174 @@ Dr Anubhav, a former orthopaedics resident, with host Dr Nachiket Bhatia · [56:
 
 Context: A better rank or different brand cannot guarantee a supportive placement. Use multiple current sources, actual terms and a practical support plan.
 
+#### A trauma leadership role became a COVID hospital responsibility
+
+He says his 2017-23 trauma-centre leadership plans were interrupted by conversion into a COVID hospital. He describes moving ventilated and complex patients to the main hospital and then being asked to run the converted facility himself.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [4:57](https://www.youtube.com/watch?v=Zx89YL681lI&t=297s)
+
+Context: This is an exceptional pandemic leadership account, not a routine orthopaedic job description.
+
+#### Hospital safety depended on routes, logistics and continuous laboratory support
+
+He describes separating public and staff routes, patient entry and exit, mortuary access, document handling and sample transport while the laboratory worked around the clock. The example shows that service quality depends on systems and support staff as well as specialist knowledge.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [6:20](https://www.youtube.com/watch?v=Zx89YL681lI&t=380s)
+
+Context: Historical descriptions are not infection-control instructions or evidence of present-day arrangements.
+
+#### He tried to experience the equipment problems reported by staff
+
+Malhotra says he asked to use the PPE that staff complained about rather than receiving a special superior set for leadership rounds. His stated aim was to understand the practical problems and respond to them.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [7:42](https://www.youtube.com/watch?v=Zx89YL681lI&t=462s)
+
+Context: This is his account of leadership practice, not an independently audited safety outcome.
+
+#### Care included nurses, physiotherapists and nonclinical staff
+
+He recalls rounds involving nursing, physiotherapy, nutrition, electrical, plumbing and communications staff, alongside patient food choices and basic comforts. He describes the pandemic as a period of losses and emotional strain, ending with gratitude at having survived.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [9:00](https://www.youtube.com/watch?v=Zx89YL681lI&t=540s)
+
+Context: Specific pandemic-era devices and routines mentioned are recollections, not current treatment recommendations.
+
+#### Resources, academic freedom and research support shaped his institutional experience
+
+He describes small historical classes, coordinated teaching, access to facilities, admired faculty, freedom to work and research recognition with awards and funding. For anatomy he recalls the whole AIIMS cohort learning and dissecting the same region together, contrasting this with classmates at Maulana Azad doing different regions in separate groups. He sees leadership and deliberate institutional effort as central to maintaining the environment.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [13:56](https://www.youtube.com/watch?v=Zx89YL681lI&t=836s)
+
+Context: The undergraduate anatomy comparison is historical and the Maulana Azad side is peer-reported. It does not establish current MD/MS department quality or automatically transfer to newer AIIMS campuses and larger cohorts.
+
+#### The host alleges recruitment corruption; the guest does not claim firsthand knowledge
+
+When the host calls recruitment corruption obvious, Malhotra says he does not personally know about that allegation. He acknowledges pressure and argues that choosing an undeserving candidate harms the institution and personal integrity.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [14:26](https://www.youtube.com/watch?v=Zx89YL681lI&t=866s)
+
+Context: Keep the host's allegation distinct from the guest's response. This conversation does not establish corruption by a named institution or person.
+
+#### Academic brilliance and teamwork are different selection criteria
+
+He says the strongest examination or intellectual performer is not necessarily the best surgeon, worker or teammate. In his account, he sometimes preferred a slightly less brilliant candidate who would contribute more to the institution, and he criticises treating an institute name only as a career label.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [15:30](https://www.youtube.com/watch?v=Zx89YL681lI&t=930s)
+
+Context: Personal selection philosophy, not evidence that high-achieving trainees generally lack teamwork.
+
+#### His AIIMS preferences are personal and not department-specific rankings
+
+Asked to rank AIIMS campuses, he puts New Delhi first and Rishikesh second, says Rishikesh has done well, then names a third campus unclearly in the captions and discusses others without a clear ordered list. He acknowledges that the host may know more from speaking with aspirants.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [16:34](https://www.youtube.com/watch?v=Zx89YL681lI&t=994s)
+
+Context: An unsolicited ranking question elicits his opinion, not a transparent scored comparison or verified university ranking. The third campus is not named here because its caption rendering is unclear.
+
+#### He describes induction and high expectations for incoming residents
+
+Discussing pressure on residents, he says rigorous selection raises expectations and recalls orientation or induction systems at AIIMS and for DNB entrants at Apollo. He stresses the stakes of clinical errors compared with nonmedical work.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [17:48](https://www.youtube.com/watch?v=Zx89YL681lI&t=1068s)
+
+Context: His account does not verify current policy at every AIIMS or Apollo campus, and high stakes do not justify harassment.
+
+#### A transfusion-error story raises supervisory and system responsibility
+
+He describes changing public responses to errors and recounts a resident's sampling error that led to a wrong transfusion. He says he took public responsibility rather than naming the resident as the culprit, while warning the resident privately against repetition.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [20:07](https://www.youtube.com/watch?v=Zx89YL681lI&t=1207s)
+
+Context: The incident is an unverified recollection. His warning is not a complete or validated patient-safety investigation model.
+
+#### Overwork is acknowledged, but the quoted hours need verification
+
+The host raises 18-22-hour days and an alleged 540-hour monthly roster; the guest agrees that extreme work can impair anyone's capability. The exchange links fatigue to patient safety and the personal burden of an adverse outcome.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [20:53](https://www.youtube.com/watch?v=Zx89YL681lI&t=1253s)
+
+Context: The host's conversion of 540 hours per month to 22 hours per day is not generally correct: over 30 days it is 18 hours. The underlying roster claim has not been independently checked. These hours are not endorsed as safe.
+
+#### He treats resident distress and unchecked bullying as a system failure
+
+Malhotra describes a relative's intimidating seniors and a department that, in his account, did not intervene. He argues that a trainee suicide should not be reduced to an individual event and calls the situation a failure of the system.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [21:45](https://www.youtube.com/watch?v=Zx89YL681lI&t=1305s)
+
+Context: The unnamed department story is personal hearsay. A numerical claim about doctor suicide in America is unsupported in this interview and should not be repeated as an established risk estimate.
+
+#### He values mentors who notice a trainee's family and wellbeing
+
+He contrasts two admired mentors, remembering most warmly the one who asked about his wife and child and followed up on family difficulties. He says teachers should take responsibility for students becoming trained, able to communicate and settled in their careers.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [23:21](https://www.youtube.com/watch?v=Zx89YL681lI&t=1401s)
+
+Context: Support should be confidential and respectful; asking peers about private relationships or suspected substance use, as mentioned earlier, is not a substitute for appropriate professional support.
+
+#### Both speakers favour fairer pay without establishing a current stipend table
+
+The host raises low intern, JR and SR pay and financial dependence in young adulthood. Malhotra agrees that something should be done and compares the reluctance to pay a consultation fee with discretionary consumer spending.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [24:25](https://www.youtube.com/watch?v=Zx89YL681lI&t=1465s)
+
+Context: The host's state-wide percentages and stipend examples are unverified interview claims. They are not current institution-specific amounts.
+
+#### Urban job concentration and public-private differences shape opportunity
+
+He argues that many doctors compete for work in a limited set of preferred cities, while remote-area jobs may differ. He also describes disparities between government and private support-staff pay, workloads and benefits.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [25:12](https://www.youtube.com/watch?v=Zx89YL681lI&t=1512s)
+
+Context: These are workforce opinions without a labour-market dataset. A rural shortage does not by itself establish a safe, supported or well-paid job for a particular specialist.
+
+#### He sees medicine as a slowly developing career with a long working horizon
+
+He repeats a senior's view that medicine warms up late and values the judgement that can come with experience. His advice is to develop a needed skill and seek fair payment, using an ikigai-style combination of ability, demand and remuneration.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [27:30](https://www.youtube.com/watch?v=Zx89YL681lI&t=1650s)
+
+Context: A senior practitioner's philosophy, not a guarantee of later income, longevity, employment or improved judgement with age.
+
+#### He separates clinical income from business wealth and investment returns
+
+He argues that personal time limits how much a doctor can earn through consultations and operations alone. He distinguishes clinical fees from research payments, intellectual property, book royalties, innovation, investment returns and owning a hospital business, and says these are different skills.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [31:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=1896s)
+
+Context: His broad claim that medicine is poor for becoming rich is an opinion. These examples are not investment advice, promised income streams or endorsement of paid research without conflict safeguards.
+
+#### Location choice depends on family infrastructure, not vacancy alone
+
+Drawing on time in Australia, he argues that schools, healthcare, shops and family support make smaller communities viable. He discusses local connections and suitable roles for a partner as practical factors in recruitment and retention.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [32:43](https://www.youtube.com/watch?v=Zx89YL681lI&t=1963s)
+
+Context: Personal comparisons do not establish overseas licensing, immigration eligibility or uniform rural conditions in either country.
+
+#### His commitment message should not be read as approval of unsafe work
+
+Asked whether anyone should become a doctor, he says medicine requires commitment, sincerity and hard work and is unsuitable as a quick-money plan. He values a limited period for intensive training and refers to postgraduate and residency years.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [35:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2108s)
+
+Context: His six-year example is not a universal compulsory pathway or a justification for excessive hours. Verify the actual qualification, service obligations and options for the branch.
+
+#### Public and private settings may present different affordability and case mixes
+
+From having worked in both sectors, he describes public hospitals caring for patients with limited means and complex cases after other options have been exhausted. He notes that complex private treatment can be costly without adequate insurance and mentions public-hospital assistance funds.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [35:40](https://www.youtube.com/watch?v=Zx89YL681lI&t=2140s)
+
+Context: These are broad personal observations, not a quality ranking of central, state, deemed or private colleges; patients and funding differ within every sector.
+
+#### He says an institutional title did not automatically transfer a private practice
+
+His sequence is skill, reputation and then practice growth. He says that moving from a senior public role still required demonstrating results, behaviour and reliability to private-sector patients who did not necessarily know his previous position.
+
+Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · [36:44](https://www.youtube.com/watch?v=Zx89YL681lI&t=2204s)
+
+Context: The story does not guarantee that hard work produces wealth. His suggestion that competent residents face less harassment must not shift responsibility onto victims; harassment remains unacceptable regardless of performance.
+
 ### Index by decision aspect
 
 The same points may appear in several groups. Counts do not represent agreement between speakers.
@@ -72762,6 +73438,7 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [He wants medicine to occupy part of his life, not all of it · 21:26](https://www.youtube.com/watch?v=NRzteRdUA3U&t=1286s) — Dr Rahul Chawla, neurologist, writer and doctor-rights advocate; host claims distinguished; Hindi captions paraphrased in English · Full caption summary
 - [Writing remained a real interest despite rejected scripts · 22:58](https://www.youtube.com/watch?v=NRzteRdUA3U&t=1378s) — Dr Rahul Chawla, neurologist, writer and doctor-rights advocate; host claims distinguished; Hindi captions paraphrased in English · Full caption summary
 - [Peer pressure helped carry him into MD while UPSC remained unattempted · 25:43](https://www.youtube.com/watch?v=NRzteRdUA3U&t=1543s) — Dr Rahul Chawla, neurologist, writer and doctor-rights advocate; host claims distinguished; Hindi captions paraphrased in English · Full caption summary
+- [Unsuccessful research can still answer a useful question · 40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Clinical work & patient contact
 
 - [Death, expense and uncertainty can drive conflict, without excusing violence · 5:04](https://www.youtube.com/watch?v=3joVjeRWQPs&t=304s) — Dr Nachiket Bhatia, solo Hindi commentary with quoted news/doctor clips · Full caption summary
@@ -72773,11 +73450,20 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [Entitlement, paperwork and usable care are separate · 6:16](https://www.youtube.com/watch?v=D1JBRpYnmtw&t=376s) — Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are not independently verified · Full caption summary
 - [COVID is presented as a test of preparedness and coordination · 8:33](https://www.youtube.com/watch?v=D1JBRpYnmtw&t=513s) — Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are not independently verified · Full caption summary
 - [He wants medicine to occupy part of his life, not all of it · 21:26](https://www.youtube.com/watch?v=NRzteRdUA3U&t=1286s) — Dr Rahul Chawla, neurologist, writer and doctor-rights advocate; host claims distinguished; Hindi captions paraphrased in English · Full caption summary
+- [His surgical teaching exercise invites trainees to challenge the plan · 11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Research begins with methods and questions from clinical practice · 39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Robotics is presented as a question to investigate, not proven superiority · 42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Training, exams & qualifications
 
 - [He distinguishes willingness to study from willingness to endure abuse · 3:04](https://www.youtube.com/watch?v=NRzteRdUA3U&t=184s) — Dr Rahul Chawla, neurologist, writer and doctor-rights advocate; host claims distinguished; Hindi captions paraphrased in English · Full caption summary
 - [After DM he worked while exploring writing, teaching and counselling · 20:16](https://www.youtube.com/watch?v=NRzteRdUA3U&t=1216s) — Dr Rahul Chawla, neurologist, writer and doctor-rights advocate; host claims distinguished; Hindi captions paraphrased in English · Full caption summary
 - [Peer pressure helped carry him into MD while UPSC remained unattempted · 25:43](https://www.youtube.com/watch?v=NRzteRdUA3U&t=1543s) — Dr Rahul Chawla, neurologist, writer and doctor-rights advocate; host claims distinguished; Hindi captions paraphrased in English · Full caption summary
+- [His surgical teaching exercise invites trainees to challenge the plan · 11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Research begins with methods and questions from clinical practice · 39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Unsuccessful research can still answer a useful question · 40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Robotics is presented as a question to investigate, not proven superiority · 42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Innovation can mean a cheaper useful device, not just a novel machine · 43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [He urges protected time and collaboration beyond one specialty · 45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Lifestyle, duties & wellbeing
 
 - [The opening connects public respect for doctors with fear for their safety · 0:28](https://www.youtube.com/watch?v=3joVjeRWQPs&t=28s) — Dr Nachiket Bhatia, solo Hindi commentary with quoted news/doctor clips · Full caption summary
@@ -72794,6 +73480,7 @@ The same points may appear in several groups. Counts do not represent agreement 
 #### Practice setup & business
 
 - [Billing and commercial incentives need scrutiny · 4:53](https://www.youtube.com/watch?v=D1JBRpYnmtw&t=293s) — Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are not independently verified · Full caption summary
+- [Innovation can mean a cheaper useful device, not just a novel machine · 43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Employment, location & demand
 
 - [Shortages, waiting and transfers require system-level support · 6:44](https://www.youtube.com/watch?v=3joVjeRWQPs&t=404s) — Dr Nachiket Bhatia, solo Hindi commentary with quoted news/doctor clips · Full caption summary
@@ -72807,6 +73494,11 @@ The same points may appear in several groups. Counts do not represent agreement 
 
 - [Reported abuse, physical assault and under-reporting must not be conflated · 4:06](https://www.youtube.com/watch?v=3joVjeRWQPs&t=246s) — Dr Nachiket Bhatia, solo Hindi commentary with quoted news/doctor clips · Full caption summary
 - [COVID is presented as a test of preparedness and coordination · 8:33](https://www.youtube.com/watch?v=D1JBRpYnmtw&t=513s) — Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are not independently verified · Full caption summary
+- [Research begins with methods and questions from clinical practice · 39:28](https://www.youtube.com/watch?v=Zx89YL681lI&t=2368s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Unsuccessful research can still answer a useful question · 40:54](https://www.youtube.com/watch?v=Zx89YL681lI&t=2454s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Robotics is presented as a question to investigate, not proven superiority · 42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Innovation can mean a cheaper useful device, not just a novel machine · 43:32](https://www.youtube.com/watch?v=Zx89YL681lI&t=2612s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [He urges protected time and collaboration beyond one specialty · 45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### College & department selection
 
 - [Shortages, waiting and transfers require system-level support · 6:44](https://www.youtube.com/watch?v=3joVjeRWQPs&t=404s) — Dr Nachiket Bhatia, solo Hindi commentary with quoted news/doctor clips · Full caption summary
@@ -72816,6 +73508,9 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [Rapid response and legal support are separate from headline protection promises · 11:54](https://www.youtube.com/watch?v=3joVjeRWQPs&t=714s) — Dr Nachiket Bhatia, solo Hindi commentary with quoted news/doctor clips · Full caption summary
 - [Functioning staff, medicines, power and sanitation matter to a post · 3:48](https://www.youtube.com/watch?v=D1JBRpYnmtw&t=228s) — Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are not independently verified · Full caption summary
 - [System failures can be displaced onto front-line clinicians · 7:13](https://www.youtube.com/watch?v=D1JBRpYnmtw&t=433s) — Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are not independently verified · Full caption summary
+- [His surgical teaching exercise invites trainees to challenge the plan · 11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [Robotics is presented as a question to investigate, not proven superiority · 42:08](https://www.youtube.com/watch?v=Zx89YL681lI&t=2528s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
+- [He urges protected time and collaboration beyond one specialty · 45:55](https://www.youtube.com/watch?v=Zx89YL681lI&t=2755s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Culture, safety & inclusion
 
 - [The opening connects public respect for doctors with fear for their safety · 0:28](https://www.youtube.com/watch?v=3joVjeRWQPs&t=28s) — Dr Nachiket Bhatia, solo Hindi commentary with quoted news/doctor clips · Full caption summary
@@ -72829,6 +73524,7 @@ The same points may appear in several groups. Counts do not represent agreement 
 - [Vacancies do not alone make a rural job workable · 5:27](https://www.youtube.com/watch?v=D1JBRpYnmtw&t=327s) — Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are not independently verified · Full caption summary
 - [System failures can be displaced onto front-line clinicians · 7:13](https://www.youtube.com/watch?v=D1JBRpYnmtw&t=433s) — Dr Nachiket Bhatia, solo commentary; quoted clips and statistical assertions are not independently verified · Full caption summary
 - [He distinguishes willingness to study from willingness to endure abuse · 3:04](https://www.youtube.com/watch?v=NRzteRdUA3U&t=184s) — Dr Rahul Chawla, neurologist, writer and doctor-rights advocate; host claims distinguished; Hindi captions paraphrased in English · Full caption summary
+- [His surgical teaching exercise invites trainees to challenge the plan · 11:36](https://www.youtube.com/watch?v=Zx89YL681lI&t=696s) — Dr Rajesh Malhotra, with questions and some claims from host Dr Nachiket Bhatia · Full caption summary
 #### Ethics & legal responsibilities
 
 - [The opening connects public respect for doctors with fear for their safety · 0:28](https://www.youtube.com/watch?v=3joVjeRWQPs&t=28s) — Dr Nachiket Bhatia, solo Hindi commentary with quoted news/doctor clips · Full caption summary

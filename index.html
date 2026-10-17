@@ -9,6 +9,7 @@
   <script defer src="knowledge-data.js"></script>
   <script defer src="reading-view.js"></script>
   <script defer src="branch-view.js"></script>
+  <script defer src="conclusions-view.js"></script>
   <script defer src="app.js"></script>
 </head>
 <body>
@@ -18,6 +19,7 @@
       <button type="button" data-view="overview" aria-current="page">Branch themes</button>
       <button type="button" data-view="summaries">Video summaries</button>
       <button type="button" data-view="compare">Compare</button>
+      <button type="button" data-view="conclusions">Conclusions</button>
       <button type="button" data-view="library">Episode library</button>
       <button type="button" data-view="colleges">College worksheet</button>
     </nav>
@@ -57,8 +59,8 @@
   <dialog id="method-dialog">
     <form method="dialog"><button class="dialog-close" aria-label="Close methodology">×</button></form>
     <p class="eyebrow">Method & limits</p><h2>From captions to questions</h2>
-    <ol><li>The Videos tab and four playlists were catalogued. Shorts were not inventoried; the channel header shows about 1K total videos. Videos under two minutes were excluded from transcript collection.</li><li>Supadata’s native mode retrieved existing timestamped caption tracks. Manual versus automatic captions is unspecified. No AI audio transcription was requested.</li><li>Detailed video summaries follow reading the entire cached caption text, with a pinned source checksum and reading ranges. Excerpt notes use selected windows and keep that partial status. Every theme and note has an exact caption anchor, time range and source link validated against the saved text.</li><li>Summaries and notes are English paraphrases or translations. Captions may contain errors or omit spoken material; attribution is contextual because the API supplies no speaker labels. Audio has not been independently checked.</li><li>Branch pages group source perspectives across twelve decision aspects. They do not invent agreement or fill missing themes. Shared exam preparation and personal discussion are labelled separately in video summaries.</li><li>Chapter topics help navigation. Their labels are metadata, not reviewed findings or independent verification.</li></ol>
-    <p>Pros and cons reflect the speaker’s experience. Questions and college checklists are editorial prompts, not claims made by the guest. No salary promise, university ranking, recognition ruling or objective branch score is inferred.</p>
+    <ol><li>The Videos tab and four playlists were catalogued, with targeted updates for requested new videos. Shorts were not inventoried; the channel header shows about 1K total videos. Videos under two minutes were excluded from transcript collection.</li><li>Existing timestamped captions were retrieved through Supadata’s native mode, or youtube-transcript-api for the new Rajesh Malhotra interview. Caption type is unspecified for older provider tracks; the new interview uses an English auto-generated track. No AI audio transcription was requested.</li><li>Detailed video summaries follow reading the entire cached caption text, with a pinned source checksum and reading ranges. Excerpt notes use selected windows and keep that partial status. Every theme and note has an exact caption anchor, time range and source link validated against the saved text.</li><li>Summaries and notes are English paraphrases or translations. Captions may contain errors or omit spoken material; attribution is contextual because the API supplies no speaker labels. Audio has not been independently checked.</li><li>Branch pages group source perspectives across twelve decision aspects. They do not invent agreement or fill missing themes. Shared exam preparation and personal discussion are labelled separately in video summaries.</li><li>Chapter topics help navigation. Their labels are metadata, not reviewed findings or independent verification.</li></ol>
+    <p>Pros and cons reflect the speaker’s experience. Questions and college checklists are editorial prompts, not claims made by the guest. Conclusions add requested editorial ratings on explicit 1–5 scales, with reasoning, source passages and missing evidence labelled. These are AI-assisted interpretations, not objective branch scores, a doctor-certified assessment, channel consensus, salary promises or a university ranking. Attributed college preferences remain distinct from training experiences and concerns; sector labels do not establish quality or current recognition.</p>
     <p>Related episodes do not establish a dedicated interview for a specialty. Full transcripts are kept in the private local review page and excluded from the public hosting ZIP.</p>
     <p id="method-progress"></p>
     <p>Selected-caption briefs provide English highlights from inspected windows and keep full-transcript review pending. Important-section emphasis is an editorial navigation aid, not a measure of branch quality. Chapter labels remain unreviewed navigation metadata.</p>
