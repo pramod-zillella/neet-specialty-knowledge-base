@@ -1,6 +1,6 @@
 {
   "schema_version": 6,
-  "built_utc": "2026-10-18T05:59:17.809488+00:00",
+  "built_utc": "2026-10-18T06:19:16.272321+00:00",
   "channel": "https://www.youtube.com/@TheNachiketBhatiaShow",
   "stats": {
     "catalogued_videos": 134,
@@ -270640,7 +270640,7 @@
   },
   "careers": {
     "as_of": "2026-10-17",
-    "scope": "India: 14 requested postgraduate branches; dated evidence and editorial decision support, not individual career or financial guarantees.",
+    "scope": "India: 15 requested postgraduate branches; dated evidence and editorial decision support, not individual career or financial guarantees.",
     "sources": [
       {
         "id": "route-a-curriculum-pathology",
@@ -271279,6 +271279,66 @@
         "limitations": "Dated advertised post, not a currently open position or actual take-home pay. Basic pay excludes allowances and deductions; selection, registration and all notice conditions apply."
       },
       {
+        "id": "surg-nmc-ms",
+        "title": "Competency-based postgraduate training programme for MS in General Surgery",
+        "url": "https://www.nmc.org.in/storage/new/MS-Surgery.pdf",
+        "publisher": "National Medical Commission",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Official",
+        "evidence": "Learning objectives include diagnosing/managing common surgical ailments, pre/postoperative and follow-up care, urgent referral, trauma resuscitation, consent, audit, surgical records, research and teaching. Competencies and operative skills are specified in subsequent sections.",
+        "locator": "PDF pp1-2 learning objectives; competencies, operative skills and assessment sections",
+        "limitations": "Undated official curriculum, not evidence that every graduate has identical independent competence, procedure privileges, job access or earnings."
+      },
+      {
+        "id": "surg-fet2025",
+        "title": "FET 2025 information bulletin: General Surgery fellowship feeders",
+        "url": "https://www.nbe.edu.in/IB/FET%202025%20information%20bulletin%2012.01.2026_v2.pdf",
+        "publisher": "National Board of Examinations in Medical Sciences",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Official",
+        "evidence": "Annexure B permits MS/DNB General Surgery for Minimal Access, Colorectal, Hand & Micro Surgery, Head and Neck Oncology and Trauma & Acute Care Surgery. Bariatric Surgery requires at least three years' post-PG General/Minimal Access Surgery experience. Renal Transplant requires three years' experience at an approved renal transplant centre. Liver Transplantation requires GI Surgery SS; Minimal Access Urology requires Urology SS; Paediatric Urology requires Urology or Paediatric Surgery SS.",
+        "locator": "PDF pp25,30-33,130-132; Annexure B, Indian-candidate table",
+        "limitations": "Admission cycle 2025; linked filename is version 12 January 2026, not a NEET-SS 2026 document. Degree and experience conditions are strict; accreditation lists do not establish counselling seats. International-candidate feeders are a separate table."
+      },
+      {
+        "id": "surg-fnb-duration",
+        "title": "NBEMS Fellowship programme overview: duration and entry",
+        "url": "https://natboard.edu.in/dnbfellow",
+        "publisher": "NBEMS",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Official",
+        "evidence": "The official programme page states that FNB training lasts two years and admission follows FET and merit-based counselling.",
+        "locator": "Fellowship: programme overview and admission sections",
+        "limitations": "Generic duration/entry rule. The page's discipline count can lag the current bulletin; exact feeders and extra experience follow the 2025 FET bulletin. This is not a seat matrix or a guarantee of faculty eligibility."
+      },
+      {
+        "id": "surg-cmc2026",
+        "title": "CMC Vellore 2026-27 prospectus: General Surgery focused fellowships",
+        "url": "https://www.cmch-vellore.edu/wp-content/uploads/sites/14/2026/06/course-prospectus-final-01-06-26.pdf",
+        "publisher": "Christian Medical College, Vellore",
+        "published": "2026-06-01",
+        "retrieved": "2026-10-17",
+        "kind": "Institutional programme",
+        "evidence": "Tables list Breast & Endocrine Surgery, HPB Surgery and Oncology, Head & Neck Surgery including Microvascular Reconstruction, Upper GI & Bariatric Surgery and Abdominal Wall Reconstruction for MS/DNB General Surgery. The note says these fellowships are skills-development programmes, not equivalents/replacements for NMC-recognised courses.",
+        "locator": "PDF pp33-36 eligibility/duration; pp42,64-67 programme descriptions and hands-on training",
+        "limitations": "Institutional programme descriptions and listed intake are not open seats or independently audited case volumes. Some introductory/body figures differ from the intake table; current admissions notice governs. Fees, stipend, faculty recognition and privileges require exact checks."
+      },
+      {
+        "id": "surg-sgpgi2026",
+        "title": "SGPGIMS 2026 brochure: surgery PDCC and SRHS routes",
+        "url": "https://sgpgims.org.in/Home/er/2026/12.03.2026_Information%20Brochure%20for%20PDCC_PDAF_SRHS%20etc%202026.pdf",
+        "publisher": "SGPGIMS, Lucknow",
+        "published": "2026-03-12",
+        "retrieved": "2026-10-17",
+        "kind": "Institutional programme",
+        "evidence": "MS/DNB General Surgery is named for Breast Surgery PDCC, Trauma Surgery PDCC and Resuscitative Emergency Medicine PDCC. Named surgical SRHS departments accept General Surgery. PDCC lasts one year, with first-year SR emoluments for eligible non-sponsored candidates; sponsor pays sponsored candidates.",
+        "locator": "PDF pp4,6-10,12,16; PDCC qualifications, SRHS department rows, duration and pay",
+        "limitations": "Institutional selection and department-specific rules; a service SRHS appointment is not an MCh/DrNB award. PDCC does not create NEET-SS Critical Care eligibility. Availability, stipend status and exact degree acceptance must be rechecked."
+      },
+      {
         "id": "seat-nbems-2025",
         "title": "NEET-SS 2025 Information Bulletin",
         "url": "https://nbe.edu.in/IB/NEET-SS%202025%20information%20bulletin.pdf",
@@ -271817,6 +271877,102 @@
         "evidence": "10-20 years. Portal says Graduate and does not verify a recognised medical-specialist qualification; full credentials must be checked. Pay is not disclosed. Generic qualification field and unnamed hospital make this a weak lead; it supplies no numeric senior-career salary estimate.",
         "locator": "Job title, salary/experience header, Job Description and qualification fields",
         "limitations": "Undated consulted copy: retrieval date is not publication date. Advertised terms, employer and vacancy are unverified; not a salary survey or proof the role remains open. Annual header amounts are retained as annual and not corrected to monthly by assumption."
+      },
+      {
+        "id": "surg-aiims-bhub-sr",
+        "title": "AIIMS Bhubaneswar non-academic Senior Residents, General Surgery, 4 July 2026",
+        "url": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/07/SR_Advt-DFA_revised_approved.pdf",
+        "publisher": "AIIMS Bhubaneswar",
+        "published": "2026-07-04",
+        "retrieved": "2026-10-17",
+        "kind": "Official",
+        "evidence": "The three-year non-academic SR advertisement specifies Level 11 INR 67,700 plus NPA and other admissible allowances. Annexure I explicitly lists General Surgery with MS/DNB General Surgery qualification.",
+        "locator": "PDF pp1-2 tenure, eligibility and pay; p6 Annexure I General Surgery row",
+        "limitations": "Dated recruitment, not a current vacancy or an actual appointment. Basic pay excludes allowances/deductions; no take-home estimate or permanent job is inferred. All selection and registration conditions apply."
+      },
+      {
+        "id": "surg-pay-satna",
+        "title": "Consultant General Surgeon advert, Satna, Madhya Pradesh (PlacementIndia 1462771)",
+        "url": "https://www.placementindia.com/job-detail/general-surgeon-in-pace-consultants-at-satna-1462771.htm",
+        "publisher": "PlacementIndia; advertiser PACE Consultants / Pacific Asia Consulting Expertise named in copy; hospital client unnamed",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "Header 1-4 years; body says freshers/experienced. MS General Surgery; body explicitly asks for independent laparoscopic operating. Header INR 25-37.5 lakh/year conflicts with body INR 24-36 lakh/year. Numeric fields retain the header, not a reconciled estimate. Copy names two recruiter brands; employer and terms need confirmation. Relative label said 'Posted 26 days ago' at retrieval; no exact publication date established.",
+        "locator": "Job title, annual salary header, experience/education fields, Job Description and interview location where applicable",
+        "limitations": "Recruiter/advertiser listing; no independent confirmation of vacancy, appointment or payments. Retrieval and relative posting labels do not establish an exact publication date. Conflicts are retained. Annual budget is not monthly salary or net pay."
+      },
+      {
+        "id": "surg-pay-rajahmundry",
+        "title": "General Surgeon advert, Rajahmundry (Rajamahendravaram), Andhra Pradesh (PlacementIndia 1453299)",
+        "url": "https://www.placementindia.com/job-detail/general-surgeon-in-medico-hr-services-at-rajahmundry-1453299.htm",
+        "publisher": "PlacementIndia; advertiser Medico HR Services; unnamed employer",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "2-3 years. Postgraduate degree in surgery stated in body; exact MS/DNB and registration acceptance must be confirmed. Header INR 25-30 lakh/year. Body describes operative, patient assessment and postoperative duties; no named hospital or verified corporate employer. No reliable publication date was visible.",
+        "locator": "Job title, annual salary header, experience/education fields, Job Description and interview location where applicable",
+        "limitations": "Recruiter/advertiser listing; no independent confirmation of vacancy, appointment or payments. Retrieval and relative posting labels do not establish an exact publication date. Conflicts are retained. Annual budget is not monthly salary or net pay."
+      },
+      {
+        "id": "surg-pay-palakkad",
+        "title": "Consultant General Surgeon (hours/duties conflict) advert, Pattambi, Palakkad district, Kerala (PlacementIndia 1466277)",
+        "url": "https://www.placementindia.com/job-detail/general-surgeon-in-doctors-door-health-care-staffing-consultant-at-palakkad-1466277.htm",
+        "publisher": "PlacementIndia; advertiser Doctors Door Health Care Staffing and Consultant; clinic client unnamed",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "Header 1-6 years; body 1-10 years. MS/DNB General Surgery explicitly stated. Header INR 12-18 lakh/year; body says negotiable, part-time and OP duty at a clinic, while portal type says full-time and lists multiple operative skills. This cannot be treated as a verified full-time operating-job benchmark. Relative label said 'Posted 11 days ago'; exact publication date not established.",
+        "locator": "Job title, annual salary header, experience/education fields, Job Description and interview location where applicable",
+        "limitations": "Recruiter/advertiser listing; no independent confirmation of vacancy, appointment or payments. Retrieval and relative posting labels do not establish an exact publication date. Conflicts are retained. Annual budget is not monthly salary or net pay."
+      },
+      {
+        "id": "surg-pay-mumbai",
+        "title": "Laparoscopic General Surgeon advert, Mumbai metro; interview address Mumbra, Thane, Maharashtra (PlacementIndia 1273964)",
+        "url": "https://www.placementindia.com/job-detail/laparoscopic-surgeon-in-meddco-at-mumbai-1273964.htm",
+        "publisher": "PlacementIndia; advertiser Meddco (advertiser); clinical employer not independently verified",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "1-6 years. Body requires a medical degree and licensure as a General Surgeon, but portal education field says MBBS. Recognised surgical PG qualification must be confirmed. Header INR 20-32.5 lakh/year. Interview address says 'Tmc Hospital Kausa, Mumbra'; this is not established as Tata Memorial Centre. Advertiser is a healthcare IT/placement listing, not a verified corporate chain. Qualification field is weak and publication date was not exposed.",
+        "locator": "Job title, annual salary header, experience/education fields, Job Description and interview location where applicable",
+        "limitations": "Recruiter/advertiser listing; no independent confirmation of vacancy, appointment or payments. Retrieval and relative posting labels do not establish an exact publication date. Conflicts are retained. Annual budget is not monthly salary or net pay."
+      },
+      {
+        "id": "surg-pay-khammam",
+        "title": "General Surgery Professor (portal title; eligibility unverified) advert, Khammam, Telangana (PlacementIndia 1406950)",
+        "url": "https://www.placementindia.com/job-detail/general-surgeon-in-recmasters-at-khammam-1406950.htm",
+        "publisher": "PlacementIndia; advertiser Recmasters; unnamed medical college",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "Header 8-14 years; body says experience as per NMC norms. Portal education says MS but body says MD/DNB. Exact recognised General Surgery qualification and faculty eligibility must be verified. Header INR 25-35 lakh/year; body says negotiable. No college name, detailed faculty criteria or reliable publication date was visible. This is not evidence that anyone with the header's experience qualifies as Professor.",
+        "locator": "Job title, annual salary header, experience/education fields, Job Description and interview location where applicable",
+        "limitations": "Recruiter/advertiser listing; no independent confirmation of vacancy, appointment or payments. Retrieval and relative posting labels do not establish an exact publication date. Conflicts are retained. Annual budget is not monthly salary or net pay."
+      },
+      {
+        "id": "surg-pay-hisar-urology",
+        "title": "Consultant Urologist (MCh required; planned centre) advert, Hisar, Haryana (PlacementIndia 1457695)",
+        "url": "https://www.placementindia.com/job-detail/consultant-urologist-in-pacific-asia-consulting-expertise-at-hisar-1457695.htm",
+        "publisher": "PlacementIndia; advertiser Pacific Asia Consulting Expertise; unnamed planned hospital",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "Header 1-7 years; body asks for an experienced independent department lead. Body requires MCh for the Consultant Urologist post; MS General Surgery alone is insufficient. Header INR 45-100 lakh/year. Body says 'Rs 4-5 lakh' without a clear period, so these are not reconciled into a new number. Body describes a new setup planned for November 2026, after this research date; funded operational service and written terms need verification. Relative posting label '47 days ago' is not an exact publication date. Broad header ceiling is not a typical MCh salary or guaranteed fellowship premium.",
+        "locator": "Job title, annual salary header, experience/education fields, Job Description and interview location where applicable",
+        "limitations": "Recruiter/advertiser listing; no independent confirmation of vacancy, appointment or payments. Retrieval and relative posting labels do not establish an exact publication date. Conflicts are retained. Annual budget is not monthly salary or net pay."
+      },
+      {
+        "id": "surg-pay-mount-abu-urology",
+        "title": "Consultant Urologist advert, Mount Abu, Sirohi, Rajasthan (PlacementIndia 1448456)",
+        "url": "https://www.placementindia.com/job-detail/urologist-in-j-w-global-hospital-research-centre-at-mount-abu-sirohi-1448456.htm",
+        "publisher": "PlacementIndia; advertiser J.W. Global Hospital & Research Centre (portal advertiser)",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "Minimum 1 year in body; header 1-2 years. MCh Urology explicitly required. Pay not disclosed. Body offers suitable accommodation, but no amount is inferred. Advertiser, current availability and benefits have not been independently confirmed. No exact publication date was exposed.",
+        "locator": "Job title, annual salary header, experience/education fields, Job Description and interview location where applicable",
+        "limitations": "Recruiter/advertiser listing; no independent confirmation of vacancy, appointment or payments. Retrieval and relative posting labels do not establish an exact publication date. Conflicts are retained. Annual budget is not monthly salary or net pay."
       }
     ],
     "branches": [
@@ -277498,6 +277654,1019 @@
           "unlisted_award_options": []
         },
         "name": "Radiation Oncology"
+      },
+      {
+        "subject_id": "general-surgery",
+        "overview": "General Surgery is a clinical and operative career involving assessment, consent, preoperative preparation, surgery, perioperative care, emergencies and follow-up. MS/DNB can lead to parent-specialty practice, academic or hospital employment, focused training, or a later MCh/DrNB/DM route where specifically eligible. A further superspecialty is not automatically required for every General Surgery job. Your actual independent operating experience, complication management, referral network and hospital support should guide the first job; a prestigious degree or a short certificate is not a substitute for supervised competence.",
+        "after_md_ms": [
+          {
+            "role": "Senior resident / supported surgical clinician",
+            "setting": "Government, teaching or other supervised surgical hospital",
+            "description": "Consolidate operative decision-making, graded responsibility, emergency care and postoperative management. The September 2026 AIIMS Raebareli notice lists seven General Surgery SR vacancies. SGPGI accepts General Surgery for specified surgical SRHS departments; working in one of those departments does not award an MCh/DrNB.",
+            "source_ids": [
+              "surg-nmc-ms",
+              "gov-aiimsrbl-sr2026",
+              "surg-sgpgi2026"
+            ]
+          },
+          {
+            "role": "General surgeon / consultant general and laparoscopic surgeon",
+            "setting": "Private, trust, district or corporate hospital with suitable services and privileges",
+            "description": "The parent degree can support a General Surgery career within training, registration and privileges. Advertised consultant roles may expect independent laparoscopy, emergency laparotomy and complication management. Match the job to proven competence and senior/anaesthesia/ICU support rather than treating every 'fresher' advert as a safe first independent role.",
+            "source_ids": [
+              "surg-nmc-ms",
+              "surg-pay-satna",
+              "surg-pay-rajahmundry"
+            ]
+          },
+          {
+            "role": "Academic surgeon",
+            "setting": "Medical college or university surgical department",
+            "description": "Combine operating, patient care, teaching, audit and research. Current regulations and the exact advertisement govern faculty eligibility. AIIMS Raebareli's August 2026 matrix has General Surgery Professor and Associate Professor vacancies, with rank-specific experience requirements; these pay observations are not first-job salaries.",
+            "source_ids": [
+              "surg-nmc-ms",
+              "gov-aiimsrbl-faculty2026"
+            ]
+          },
+          {
+            "role": "Focused surgical skill development",
+            "setting": "Accredited FNB centre or verified institutional programme",
+            "description": "Develop a chosen area such as minimal-access, colorectal, abdominal-wall, breast/endocrine or head/neck surgery. Some FNBs require extra experience or a prior superspecialty. Compare actual trainee case logs, graded operating, complication rescue, credential and cost before selecting a programme.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-cmc2026",
+              "surg-sgpgi2026"
+            ]
+          },
+          {
+            "role": "Emergency / trauma surgical career",
+            "setting": "Hospital with funded acute-care work, anaesthesia, blood bank, imaging and critical-care backup",
+            "description": "The curriculum includes urgent referral, trauma and resuscitation. FNB Trauma & Acute Care Surgery and SGPGI's Trauma/Resuscitative Emergency PDCCs provide separately evidenced focused routes. Their existence does not establish universal privileges or NEET-SS Critical Care eligibility.",
+            "source_ids": [
+              "surg-nmc-ms",
+              "surg-fet2025",
+              "surg-sgpgi2026"
+            ]
+          },
+          {
+            "role": "Hospital-linked practice and later service leadership",
+            "setting": "A supported surgical service, with ownership or independent contracts considered separately",
+            "description": "A general surgeon's clinic still needs an appropriate operative/referral setting. Evaluate patient acquisition, theatre access, anaesthesia, complications and continuity before planning ownership. Clinical audit, consent, record keeping and continuing development are curriculum obligations; business revenue and procedure charges do not equal take-home earnings.",
+            "source_ids": [
+              "surg-nmc-ms"
+            ]
+          }
+        ],
+        "superspecialties": [
+          {
+            "name": "Plastic and Reconstructive Surgery",
+            "award": "MCh / DrNB",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. Reconstructive work, burns and later focused practice are distinct from simply adding cosmetic procedures to a General Surgery clinic.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Surgical Gastroenterology",
+            "award": "MCh / DrNB",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. A route to advanced GI surgery; also the specified prerequisite for FNB Liver Transplantation. Training should include supervised operating and perioperative/complication management.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Hepato Pancreato Biliary Surgery",
+            "award": "MCh",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. Dedicated HPB surgery is a separate eligible destination. An HPB fellowship and an MCh have different credentials and selection routes.",
+            "duration": "Confirm duration and all current conditions in the admitting institute's MCh/DM prospectus; DrNB duration is not used as proof for this different award.",
+            "source_ids": [
+              "seat-nbems-2025"
+            ]
+          },
+          {
+            "name": "Urology",
+            "award": "MCh / DrNB",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. A separate surgical specialty, with subsequent FNB Minimal Access Urology and eligible transplant/paediatric-urology options under their own feeder rules.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Vascular Surgery",
+            "award": "MCh / DrNB",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. Requires appropriate operative/endovascular exposure, imaging and hospital support. Matrix DrNB Peripheral Vascular Surgery is mapped to this destination.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Cardiovascular and Thoracic Surgery",
+            "award": "MCh / DrNB",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. MCC DrNB Cardio Thoracic Surgery is mapped here. Examine case allocation, bypass/ICU support, service workload and actual alumni consultant roles.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Thoracic Surgery",
+            "award": "DrNB",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. Thoracic Surgery is a separate DrNB destination; do not count it as an MCh award absent from the eligibility table.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Paediatric Cardiothoracic Vascular Surgery",
+            "award": "MCh",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. Explicitly eligible, but no corresponding award rows were found in the selected initial MCC matrices. Its seat count is unknown/not listed, not zero.",
+            "duration": "Confirm duration and all current conditions in the admitting institute's MCh/DM prospectus; DrNB duration is not used as proof for this different award.",
+            "source_ids": [
+              "seat-nbems-2025"
+            ]
+          },
+          {
+            "name": "Neurosurgery",
+            "award": "MCh / DrNB",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. This is the post-MS/DNB route. Direct six-year courses after MBBS are separate and are not counted as post-MS options here.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Paediatric Surgery",
+            "award": "MCh / DrNB",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. A distinct surgical specialty, not the MD Paediatrics feeder. FNB Paediatric Urology can follow the specified superspecialty qualification.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Surgical Oncology",
+            "award": "MCh / DrNB",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. A route to operative cancer care. It is distinct from DM Medical Oncology and depends on multidisciplinary and perioperative support.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Head and Neck Surgery",
+            "award": "MCh",
+            "entry_route": "NEET-SS 2025 ENT Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. General Surgery is an eligible feeder, but the required exam group is ENT, not Surgical Group. A similarly named institutional fellowship or FNB is a separate award.",
+            "duration": "Confirm duration and all current conditions in the admitting institute's MCh/DM prospectus; DrNB duration is not used as proof for this different award.",
+            "source_ids": [
+              "seat-nbems-2025"
+            ]
+          },
+          {
+            "name": "Endocrine Surgery",
+            "award": "MCh",
+            "entry_route": "NEET-SS 2025 Surgical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. Dedicated MCh Endocrine Surgery is separate from a Breast/Endocrine fellowship or a general surgeon's case mix.",
+            "duration": "Confirm duration and all current conditions in the admitting institute's MCh/DM prospectus; DrNB duration is not used as proof for this different award.",
+            "source_ids": [
+              "seat-nbems-2025"
+            ]
+          },
+          {
+            "name": "Medical Genetics",
+            "award": "DM / DrNB",
+            "entry_route": "NEET-SS 2025 Medical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "MS/DNB General Surgery is explicitly eligible in Annexure A p114 and the corresponding reverse Annexure B pp117-120. Any recognised MD/MS/DNB broad specialty can enter Medical Genetics. This is a substantive change of field; it does not open other medical DM destinations to MS Surgery.",
+            "duration": "DrNB: three years after the eligible postgraduate feeder. For MCh/DM, confirm duration and all current conditions in the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          }
+        ],
+        "fellowships": [
+          {
+            "name": "Minimal Access Surgery",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "MS/DNB General Surgery",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "A focused route for supervised laparoscopic/minimal-access competence; the degree alone is not evidence of adequate independent operating. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Colorectal Surgery",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "MS/DNB General Surgery",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "Separate FNB credential and selection; verify supervised operating, colorectal case mix and complication support. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Hand & Micro Surgery",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "MS/DNB General Surgery is an explicitly permitted feeder, alongside Orthopaedics and Plastic/Reconstructive Surgery",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "General Surgery eligibility does not guarantee equal pre-entry microsurgical exposure; verify the required skills and supervision. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Head and Neck Oncology",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "MS/DNB General Surgery is an explicitly permitted feeder; other named ENT/Surgical Oncology/Head and Neck qualifications are separately listed",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "Distinct from MCh Head and Neck Surgery and from an institutional Head/Neck fellowship. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Trauma & Acute Care Surgery",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "MS/DNB General Surgery; MS Traumatology and Surgery also listed",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "A focused FNB route; emergency duties, trauma operating, ICU backup and supervision require review. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Bariatric Surgery",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "MS/DNB General Surgery PLUS at least three years' post-PG experience in General Surgery / Minimal Access Surgery",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "Not a fresh-MS entry solely on the degree. Verify documentary evidence of the experience and the applicable date cutoff before applying. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Renal Transplant",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "MCh/DNB/DrNB Urology OR MS/DNB General Surgery with three years' experience in a renal-transplant centre approved by the Renal Transplant Specialty Board for that experience",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "Conditional post-MS route: ordinary surgical experience or an unapproved centre does not satisfy the stated requirement. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Liver Transplantation (after GI Surgery superspecialty)",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "DrNB/MCh GI Surgery; MS/DNB General Surgery alone is NOT the listed feeder",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "Sequence: eligible post-MS Surgical Gastroenterology superspecialty, then this FET route. Do not count this as immediately available after MS. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Minimal Access Urology (after Urology superspecialty)",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "MCh/DNB/DrNB Urology; MS/DNB General Surgery alone is NOT the listed feeder",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "A post-SS FNB route with its own admission/credential requirements, not a substitute for the Urology qualification. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Paediatric Urology (after Urology / Paediatric Surgery superspecialty)",
+            "provider": "NBEMS-accredited institution; verify the actual FET counselling matrix",
+            "award_type": "Fellowship National Board (FNB)",
+            "entry_route": "FET 2025 and NBEMS fellowship counselling; separate from NEET-SS",
+            "eligibility": "MCh/DNB/DrNB Urology OR MCh/DNB/DrNB Paediatric Surgery; MS/DNB General Surgery alone is NOT the listed feeder",
+            "duration": "2 years under the official FNB programme overview",
+            "recognition_note": "This is a later-stage option after the specified superspecialty, not direct post-MS training. FNB, MCh/DM/DrNB and institutional certificates are separate credentials. Verify current course-specific recognition, centre accreditation, clinical privileges and teaching appointment eligibility. Accredited seats are not necessarily offered counselling seats.",
+            "source_ids": [
+              "surg-fet2025",
+              "surg-fnb-duration"
+            ]
+          },
+          {
+            "name": "Breast & Endocrine Surgery",
+            "provider": "Christian Medical College, Vellore",
+            "award_type": "Institutional post-doctoral fellowship / skills-development programme",
+            "entry_route": "CMC's own application and selection; verify the current admission notice",
+            "eligibility": "MS/DNB General Surgery",
+            "duration": "1 year; table lists intake 1",
+            "recognition_note": "Breast and endocrine clinical/operative exposure and multidisciplinary attachments are described. The prospectus explicitly says the listed fellowships are skills-development programmes and should not be considered equivalent to or replacements for NMC-recognised courses. Current intake, fees/stipend, privileges and faculty eligibility must be checked.",
+            "source_ids": [
+              "surg-cmc2026"
+            ]
+          },
+          {
+            "name": "HPB Surgery and Oncology",
+            "provider": "Christian Medical College, Vellore",
+            "award_type": "Institutional post-doctoral fellowship / skills-development programme",
+            "entry_route": "CMC's own application and selection; verify the current admission notice",
+            "eligibility": "MS/DNB General Surgery",
+            "duration": "1 year; table lists intake 1",
+            "recognition_note": "The description specifies assisting HPB operations and performing basic operations under supervision. Do not reinterpret exposure as independent mastery of every major HPB procedure. The prospectus explicitly says the listed fellowships are skills-development programmes and should not be considered equivalent to or replacements for NMC-recognised courses. Current intake, fees/stipend, privileges and faculty eligibility must be checked.",
+            "source_ids": [
+              "surg-cmc2026"
+            ]
+          },
+          {
+            "name": "Head & Neck Surgery including Microvascular Reconstructive Surgery",
+            "provider": "Christian Medical College, Vellore",
+            "award_type": "Institutional post-doctoral fellowship / skills-development programme",
+            "entry_route": "CMC's own application and selection; verify the current admission notice",
+            "eligibility": "MS/DNB General Surgery or ENT",
+            "duration": "2 years; table lists intake 3",
+            "recognition_note": "Multidisciplinary head/neck oncology, reconstruction, microvascular training and a research project are described. The prospectus explicitly says the listed fellowships are skills-development programmes and should not be considered equivalent to or replacements for NMC-recognised courses. Current intake, fees/stipend, privileges and faculty eligibility must be checked.",
+            "source_ids": [
+              "surg-cmc2026"
+            ]
+          },
+          {
+            "name": "Upper GI & Bariatric Surgery",
+            "provider": "Christian Medical College, Vellore",
+            "award_type": "Institutional post-doctoral fellowship / skills-development programme",
+            "entry_route": "CMC's own application and selection; verify the current admission notice",
+            "eligibility": "MS/DNB General Surgery OR MCh/DNB GI Surgery",
+            "duration": "1 year; table lists intake 2",
+            "recognition_note": "Hands-on, graded and supervised training is described, with a focus on malignant Upper GI disease as well as bariatric-team exposure. The prospectus explicitly says the listed fellowships are skills-development programmes and should not be considered equivalent to or replacements for NMC-recognised courses. Current intake, fees/stipend, privileges and faculty eligibility must be checked.",
+            "source_ids": [
+              "surg-cmc2026"
+            ]
+          },
+          {
+            "name": "Abdominal Wall Reconstruction",
+            "provider": "Christian Medical College, Vellore",
+            "award_type": "Institutional post-doctoral fellowship / skills-development programme",
+            "entry_route": "CMC's own application and selection; verify the current admission notice",
+            "eligibility": "MS/DNB General Surgery",
+            "duration": "1 year; table lists intake 2",
+            "recognition_note": "Hernia/AWR training, open and minimal-access approaches, multidisciplinary work and an operative logbook are described. The prospectus explicitly says the listed fellowships are skills-development programmes and should not be considered equivalent to or replacements for NMC-recognised courses. Current intake, fees/stipend, privileges and faculty eligibility must be checked.",
+            "source_ids": [
+              "surg-cmc2026"
+            ]
+          },
+          {
+            "name": "Breast Surgery",
+            "provider": "SGPGIMS, Lucknow",
+            "award_type": "Post-Doctoral Certificate Course (PDCC)",
+            "entry_route": "SGPGI 2026 institutional selection and counselling; separate from NEET-SS",
+            "eligibility": "MS/DNB General Surgery",
+            "duration": "1 year under the brochure's PDCC rule",
+            "recognition_note": "Course-specific feeder evidence is in pp6-7. PDCC trainees also perform SR duties. Eligible non-sponsored emoluments follow first-year SR rules; sponsored trainees are paid by their sponsor. This is a certificate, not MCh/DrNB or a new NEET-SS feeder. Verify current offered seats, supervision and privileges.",
+            "source_ids": [
+              "surg-sgpgi2026"
+            ]
+          },
+          {
+            "name": "Trauma Surgery",
+            "provider": "SGPGIMS, Lucknow",
+            "award_type": "Post-Doctoral Certificate Course (PDCC)",
+            "entry_route": "SGPGI 2026 institutional selection and counselling; separate from NEET-SS",
+            "eligibility": "MS/DNB Trauma Surgery / General Surgery",
+            "duration": "1 year under the brochure's PDCC rule",
+            "recognition_note": "Course-specific feeder evidence is in pp6-7. PDCC trainees also perform SR duties. Eligible non-sponsored emoluments follow first-year SR rules; sponsored trainees are paid by their sponsor. This is a certificate, not MCh/DrNB or a new NEET-SS feeder. Verify current offered seats, supervision and privileges.",
+            "source_ids": [
+              "surg-sgpgi2026"
+            ]
+          },
+          {
+            "name": "Resuscitative Emergency Medicine",
+            "provider": "SGPGIMS, Lucknow",
+            "award_type": "Post-Doctoral Certificate Course (PDCC)",
+            "entry_route": "SGPGI 2026 institutional selection and counselling; separate from NEET-SS",
+            "eligibility": "MD/MS/DNB in one of the named feeders, including General Surgery",
+            "duration": "1 year under the brochure's PDCC rule",
+            "recognition_note": "Course-specific feeder evidence is in pp6-7. PDCC trainees also perform SR duties. Eligible non-sponsored emoluments follow first-year SR rules; sponsored trainees are paid by their sponsor. This is a certificate, not MCh/DrNB or a new NEET-SS feeder. Verify current offered seats, supervision and privileges.",
+            "source_ids": [
+              "surg-sgpgi2026"
+            ]
+          }
+        ],
+        "other_routes": [
+          {
+            "name": "Build a durable General Surgery practice without mandatory MCh",
+            "description": "General Surgery itself has defined clinical and surgical competencies. A supported job plus targeted skill consolidation can be a coherent route. Whether it succeeds in your city depends on patient/referral access, case allocation, hospital support and demonstrated competence; neither guaranteed independent success nor compulsory superspecialisation is established by these sources.",
+            "source_ids": [
+              "surg-nmc-ms",
+              "surg-pay-rajahmundry",
+              "surg-pay-satna"
+            ]
+          },
+          {
+            "name": "Three exam groups for the complete eligible NEET-SS set",
+            "description": "Twelve destination subjects use Surgical Group. Head and Neck Surgery uses ENT Group; Medical Genetics uses Medical Group. Select and prepare for the appropriate paper(s). A single Surgical Group score does not open all 14 listed subjects, and seats are shared with other eligible feeders where applicable.",
+            "source_ids": [
+              "seat-nbems-2025"
+            ]
+          },
+          {
+            "name": "Higher-stage transplant and focused urology fellowships",
+            "description": "FNB Liver Transplantation needs MCh/DrNB GI Surgery; Minimal Access Urology needs Urology SS; Paediatric Urology needs Urology or Paediatric Surgery SS. FNB Renal Transplant separately permits General Surgery with three years at an approved renal-transplant centre. Degree labels and documented experience must match the FET table.",
+            "source_ids": [
+              "surg-fet2025"
+            ]
+          },
+          {
+            "name": "SRHS, research and patient-safety work",
+            "description": "SGPGI lists General Surgery feeders for several surgical SRHS services and Resuscitative Emergency Medicine. Its Patient Safety including Infection Control PDCC admits any broad specialty under the stated rule. These can supply service, training or quality-development experience, but do not convert the qualification into the host department's superspecialty degree.",
+            "source_ids": [
+              "surg-sgpgi2026",
+              "surg-nmc-ms"
+            ]
+          },
+          {
+            "name": "International training and professional-college qualifications",
+            "description": "Overseas exams, fellowships, registration and independent specialist recognition are separate requirements. Verify the destination regulator, training accreditation, licence and funded post. This research does not establish an automatic overseas specialist licence, MRCS/FRCS equivalence to an Indian MCh, or an international salary route.",
+            "source_ids": [
+              "surg-nmc-ms"
+            ]
+          }
+        ],
+        "saturation": {
+          "assessment": "My shortlisting judgement: General Surgery preserves many later training choices and can also be a long-term parent-specialty career, but its value depends heavily on real operating exposure, judgement and access to a supported surgical service. I would favour it for someone who actively wants operative work, perioperative responsibility and emergencies, and can tolerate a variable early transition to independent practice. A high number of SS seats is an option set, not a guarantee of a job or a reason that every graduate must superspecialise. Competition must be assessed by city, hospital and case/referral access.",
+          "evidence_limits": "The evidence is curricula, official eligibility/matrices, recruitment notices and a small, unverified convenience sample of adverts. No representative national General Surgery unemployment rate, realised earnings distribution or causal city-tier pay comparison was established. Portal adverts frequently disagree on salary, work hours, qualification or location. National 'saturated' or 'shortage' labels and a fixed fellowship/MCh income premium cannot be inferred.",
+          "practical_checks": [
+            "Ask residents for individual primary-operator and assisted case logs, not total department volume: hernia, appendicectomy, gallbladder, bowel, breast/thyroid and emergency work as applicable to the curriculum and local privileges.",
+            "Check how cases are divided among MS/DNB trainees, senior residents, fellows and MCh trainees; observe whether you perform supervised operations or mostly observe and complete ward work.",
+            "Assess open and laparoscopic exposure, conversion/complication rescue, postoperative care and supervision. Robotic equipment or a high case count does not establish trainee console/operating access.",
+            "Compare anaesthesia, blood bank, ICU/HDU, imaging, endoscopy, nursing, referral arrangements and out-of-hours senior cover at both the training institution and proposed employer.",
+            "Ask recent alumni about the first supported role, time until independent operating, moves between cities and actual fixed pay. Do not substitute a recruiter budget for these outcomes.",
+            "For every offer, separate fixed salary, retainer, per-case fees and collections incentives. Verify OP/OT allocation, patient numbers, call roster, emergency duties, leave, indemnity and complication responsibility in writing.",
+            "For focused practice, investigate local case/referral demand and how hospitals credential the exact fellowship. A certificate does not automatically change faculty eligibility or authorise every procedure.",
+            "Compare further training's fees, stipend, bond and delayed earnings with entering a supported General Surgery job. Pick an MCh/FNB for the work and training, not solely a headline package.",
+            "Consider physical stamina, disrupted sleep, exposure to emergencies and the emotional responsibility for surgical complications; shortlisting for 'lifestyle' requires checking the actual roster."
+          ],
+          "source_ids": [
+            "surg-nmc-ms",
+            "surg-fet2025",
+            "surg-cmc2026",
+            "surg-sgpgi2026",
+            "surg-pay-satna",
+            "surg-pay-mumbai",
+            "gov-aiimsrbl-sr2026"
+          ]
+        },
+        "shortlist_notes": [
+          "Prioritise liking operative work and perioperative care. I would not choose General Surgery only as an indirect route to one highly competitive superspecialty.",
+          "The strongest department for you may be central, state, deemed or private: compare supervised operating responsibility, faculty continuity, emergency mix, infrastructure, costs and graduate outcomes. This research does not independently rank surgical departments.",
+          "A broad MS/DNB job and an MCh/DrNB career are different valid pathways. Training quality and funded demand determine how useful either is in your chosen geography.",
+          "Distinguish direct post-MS fellowships, experience-conditional FNB entry and post-superspecialty FNBs. Do not plan Liver Transplant FNB as direct entry from a fresh MS.",
+          "The initial baseline lists 2,677 seats across 22 listed awards; one further eligible award has no matching matrix entry. These seats are not reserved for General Surgery alone and are not current vacancies.",
+          "Do not equate a corporate brand with hands-on training, or rural/non-metro location with guaranteed surgical volume, safety or higher disposable income."
+        ],
+        "gaps": [
+          "No representative General Surgery salary survey by city, experience, sector and actual realised pay was established.",
+          "No verified named corporate-chain salary grid or matched pre/post-fellowship earnings comparison was found. Unnamed recruiter clients are kept Private.",
+          "Private adverts retain contradictions and retrieval dates. Relative 'posted days ago' text is not promoted to an exact publication date; other copies provide none.",
+          "An advertised Urology role requiring MCh is a post-SS example, not a General Surgery salary or evidence of a universal MCh premium; other SS destination salaries remain unestablished.",
+          "The selected initial NEET-SS 2025 matrices omit an eligible Paediatric Cardiothoracic Vascular Surgery MCh entry. Its national intake is not assumed zero. Later changes and INI-SS are excluded.",
+          "No FET 2025 counselling seat totals have been reconstructed here; the fellowship list is an evidenced selection, not a national exhaustive register or list of open seats.",
+          "Independent privileges, current faculty recognition, exact qualification equivalence, training bonds and overseas licensing require programme/employer/regulator checks."
+        ],
+        "seats": {
+          "subject_id": "general-surgery",
+          "verified_courses": [
+            {
+              "name": "Plastic and Reconstructive Surgery",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 307,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "PRSS"
+              ],
+              "listed_rows": 95,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Plastic and Reconstructive Surgery",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 44,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DPSY"
+              ],
+              "listed_rows": 20,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Surgical Gastroenterology",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 95,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "SGTY"
+              ],
+              "listed_rows": 35,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Surgical Gastroenterology",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 104,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DSGY"
+              ],
+              "listed_rows": 51,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Hepato Pancreato Biliary Surgery",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 13,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "HPBS"
+              ],
+              "listed_rows": 5,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Urology",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 399,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "URGY"
+              ],
+              "listed_rows": 121,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Urology",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 264,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DGUS"
+              ],
+              "listed_rows": 135,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Vascular Surgery",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 25,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "VARS"
+              ],
+              "listed_rows": 10,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Vascular Surgery",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 44,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DPVS"
+              ],
+              "listed_rows": 23,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Cardiovascular and Thoracic Surgery",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 213,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "CTVS"
+              ],
+              "listed_rows": 64,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Cardiovascular and Thoracic Surgery",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 24,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DCTS"
+              ],
+              "listed_rows": 15,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Thoracic Surgery",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 13,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DTSY"
+              ],
+              "listed_rows": 7,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Paediatric Cardiothoracic Vascular Surgery",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": null,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch",
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [],
+              "listed_rows": 0,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee.",
+                "No matching award rows were found in the two initial matrices. Seat count is unknown/not listed, not zero; this is not proof that the course is unavailable everywhere."
+              ]
+            },
+            {
+              "name": "Neurosurgery",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 385,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "NSGY"
+              ],
+              "listed_rows": 120,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Neurosurgery",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 113,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DNSY"
+              ],
+              "listed_rows": 62,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Paediatric Surgery",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 216,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "PSGY"
+              ],
+              "listed_rows": 71,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Paediatric Surgery",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 9,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DPDS"
+              ],
+              "listed_rows": 6,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Surgical Oncology",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 195,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "SUOG"
+              ],
+              "listed_rows": 48,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Surgical Oncology",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 160,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DSOY"
+              ],
+              "listed_rows": 78,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Head and Neck Surgery",
+              "award": "MCh",
+              "entry_route": "NEET-SS: ENT Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 31,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "HNSG"
+              ],
+              "listed_rows": 11,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Endocrine Surgery",
+              "award": "MCh",
+              "entry_route": "NEET-SS: Surgical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 10,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "ESGY"
+              ],
+              "listed_rows": 5,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Medical Genetics",
+              "award": "DM",
+              "entry_route": "NEET-SS: Medical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 9,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "DMMG"
+              ],
+              "listed_rows": 3,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee.",
+                "Any recognised MD/MS/DNB broad specialty is eligible; Medical Group question paper is required. This does not open the other Medical Group destinations."
+              ]
+            },
+            {
+              "name": "Medical Genetics",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Medical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 4,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DMGN"
+              ],
+              "listed_rows": 2,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee.",
+                "Any recognised MD/MS/DNB broad specialty is eligible; Medical Group question paper is required. This does not open the other Medical Group destinations."
+              ]
+            }
+          ],
+          "unverified_or_ineligible": [
+            {
+              "name": "Direct six-year courses / extra DM feeders",
+              "note": "Direct six-year MCh/DrNB courses after MBBS are separate from these post-MS/DNB routes. General Surgery is not a universal feeder for medical DM courses. Only the 14 named NEET-SS destination subjects are verified here.",
+              "source_ids": [
+                "seat-nbems-2025"
+              ]
+            },
+            {
+              "name": "FNB Liver Transplantation / Minimal Access Urology / Paediatric Urology",
+              "note": "These FET fellowships require their specified GI Surgery, Urology or Paediatric Surgery superspecialty qualification; MS/DNB General Surgery alone is insufficient. FNB Renal Transplant has a separate conditional experienced-General-Surgery route. FNB seats are excluded from this NEET-SS matrix.",
+              "source_ids": [
+                "seat-nbems-2025"
+              ]
+            }
+          ],
+          "notes": [
+            "Counts may overlap across eligible parent branches. The same destination seat is not reserved separately for each feeder specialty.",
+            "The figures describe NEET-SS 2025 / academic session 2025, whose start was 10 April 2026. They are not NEET-SS 2026 seat counts.",
+            "Head and Neck Surgery requires the ENT Group paper; Medical Genetics requires Medical Group. The other 12 destination subjects use Surgical Group. Surgical Group questions alone do not cover all eligible routes.",
+            "Paediatric Cardiothoracic Vascular Surgery MCh is eligible in Annexures A/B but absent from the selected initial matrices; its count remains unknown/not listed, not zero.",
+            "Matrix DrNB labels Genito Urinary Surgery, Peripheral Vascular Surgery and Cardio Thoracic Surgery are mapped to the corresponding Urology, Vascular Surgery and Cardiovascular and Thoracic Surgery destinations."
+          ],
+          "destination_subject_count": 14,
+          "award_option_count": 23,
+          "listed_award_option_count": 22,
+          "listed_seat_total": 2677,
+          "unlisted_award_options": [
+            "MCh Paediatric Cardiothoracic Vascular Surgery"
+          ]
+        },
+        "name": "General Surgery"
       }
     ],
     "seat_methodology": {
@@ -277676,7 +278845,8 @@
           "pediatrics",
           "nuclear-medicine",
           "radiology",
-          "radiation-oncology"
+          "radiation-oncology",
+          "general-surgery"
         ],
         "role": "Associate Professor (regular/deputation pay scale)",
         "employer": "AIIMS Raebareli",
@@ -277711,7 +278881,8 @@
           "pediatrics",
           "nuclear-medicine",
           "radiology",
-          "radiation-oncology"
+          "radiation-oncology",
+          "general-surgery"
         ],
         "role": "Associate Professor (contractual appointment)",
         "employer": "AIIMS Raebareli",
@@ -277813,7 +278984,8 @@
           "ent",
           "pediatrics",
           "pharmacology",
-          "radiology"
+          "radiology",
+          "general-surgery"
         ],
         "role": "Professor (regular/deputation pay scale)",
         "employer": "AIIMS Raebareli",
@@ -277847,7 +279019,8 @@
           "ent",
           "pediatrics",
           "pharmacology",
-          "radiology"
+          "radiology",
+          "general-surgery"
         ],
         "role": "Professor (contractual appointment)",
         "employer": "AIIMS Raebareli",
@@ -277884,7 +279057,8 @@
           "pediatrics",
           "pharmacology",
           "radiology",
-          "radiation-oncology"
+          "radiation-oncology",
+          "general-surgery"
         ],
         "role": "Senior Resident (ad-hoc)",
         "employer": "AIIMS Raebareli",
@@ -277919,7 +279093,8 @@
           "biochemistry",
           "nuclear-medicine",
           "radiology",
-          "radiation-oncology"
+          "radiation-oncology",
+          "general-surgery"
         ],
         "role": "Senior Resident (Hospital Services)",
         "employer": "SGPGIMS Lucknow",
@@ -277927,7 +279102,7 @@
         "city": "Lucknow, Uttar Pradesh",
         "tier": "Tier 2",
         "career_stage": "Post-MD/MS/DNB senior residency",
-        "qualification": "Course-specific recognised postgraduate qualification: medicine/paediatrics clinical departments; pathology/lab-medicine routes; Nuclear Medicine; Radiodiagnosis; MD/DNB Radiotherapy for Radiotherapy SRHS, as listed in pp7-10.",
+        "qualification": "Course-specific recognised postgraduate qualification: medicine/paediatrics clinical departments; pathology/lab-medicine routes; Nuclear Medicine; Radiodiagnosis; MD/DNB Radiotherapy for Radiotherapy SRHS; MS/DNB General Surgery for named surgical SRHS departments, as listed in pp7-10.",
         "experience": "Postgraduate entry criteria are department-specific; any superspecialty or other additional requirement must be checked in the brochure.",
         "pay_low": 67700,
         "pay_high": 67700,
@@ -277952,7 +279127,8 @@
           "pediatrics",
           "pathology",
           "radiology",
-          "radiation-oncology"
+          "radiation-oncology",
+          "general-surgery"
         ],
         "role": "DM/MCh trainee, year 1",
         "employer": "Tata Memorial Centre / Tata Memorial Hospital",
@@ -277990,7 +279166,8 @@
           "pediatrics",
           "pathology",
           "radiology",
-          "radiation-oncology"
+          "radiation-oncology",
+          "general-surgery"
         ],
         "role": "DM/MCh trainee, year 2",
         "employer": "Tata Memorial Centre / Tata Memorial Hospital",
@@ -278028,7 +279205,8 @@
           "pediatrics",
           "pathology",
           "radiology",
-          "radiation-oncology"
+          "radiation-oncology",
+          "general-surgery"
         ],
         "role": "DM/MCh trainee, year 3",
         "employer": "Tata Memorial Centre / Tata Memorial Hospital",
@@ -279057,6 +280235,241 @@
           "4 July 2026 three-year SR advertisement; INR 67,700 monthly Level 11 basic plus NPA and other admissible allowances. No take-home calculation.",
           "Radiation Oncology is explicitly present in the vacancy annexure. This dated notice does not establish present availability or permanent employment."
         ]
+      },
+      {
+        "id": "surg-private-satna",
+        "subject_ids": [
+          "general-surgery"
+        ],
+        "role": "Consultant General Surgeon",
+        "employer": "PACE Consultants / Pacific Asia Consulting Expertise named in copy; hospital client unnamed",
+        "sector": "Private",
+        "city": "Satna, Madhya Pradesh",
+        "tier": "Other / smaller city",
+        "career_stage": "General Surgery consultant advert; independent laparoscopy expected",
+        "qualification": "MS General Surgery; body explicitly asks for independent laparoscopic operating.",
+        "experience": "Header 1-4 years; body says freshers/experienced.",
+        "pay_low": 2500000,
+        "pay_high": 3750000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "surg-pay-satna"
+        ],
+        "notes": [
+          "Header INR 25-37.5 lakh/year conflicts with body INR 24-36 lakh/year. Numeric fields retain the header, not a reconciled estimate. Copy names two recruiter brands; employer and terms need confirmation. Relative label said 'Posted 26 days ago' at retrieval; no exact publication date established.",
+          "Observed 17 October 2026; advertised terms, employer and current availability are unverified. This is not take-home pay, a national average or proof of a salary increase after further training."
+        ]
+      },
+      {
+        "id": "surg-private-rajahmundry",
+        "subject_ids": [
+          "general-surgery"
+        ],
+        "role": "General Surgeon",
+        "employer": "Medico HR Services; unnamed employer",
+        "sector": "Private",
+        "city": "Rajahmundry (Rajamahendravaram), Andhra Pradesh",
+        "tier": "Tier 2",
+        "career_stage": "General Surgery role with 2-3 years' experience",
+        "qualification": "Postgraduate degree in surgery stated in body; exact MS/DNB and registration acceptance must be confirmed.",
+        "experience": "2-3 years.",
+        "pay_low": 2500000,
+        "pay_high": 3000000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "surg-pay-rajahmundry"
+        ],
+        "notes": [
+          "Header INR 25-30 lakh/year. Body describes operative, patient assessment and postoperative duties; no named hospital or verified corporate employer. No reliable publication date was visible.",
+          "Observed 17 October 2026; advertised terms, employer and current availability are unverified. This is not take-home pay, a national average or proof of a salary increase after further training."
+        ]
+      },
+      {
+        "id": "surg-private-palakkad",
+        "subject_ids": [
+          "general-surgery"
+        ],
+        "role": "Consultant General Surgeon (hours/duties conflict)",
+        "employer": "Doctors Door Health Care Staffing and Consultant; clinic client unnamed",
+        "sector": "Private",
+        "city": "Pattambi, Palakkad district, Kerala",
+        "tier": "Other / smaller city",
+        "career_stage": "Post-MS/DNB General Surgery advertised role",
+        "qualification": "MS/DNB General Surgery explicitly stated.",
+        "experience": "Header 1-6 years; body 1-10 years.",
+        "pay_low": 1200000,
+        "pay_high": 1800000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "surg-pay-palakkad"
+        ],
+        "notes": [
+          "Header INR 12-18 lakh/year; body says negotiable, part-time and OP duty at a clinic, while portal type says full-time and lists multiple operative skills. This cannot be treated as a verified full-time operating-job benchmark. Relative label said 'Posted 11 days ago'; exact publication date not established.",
+          "Observed 17 October 2026; advertised terms, employer and current availability are unverified. This is not take-home pay, a national average or proof of a salary increase after further training."
+        ]
+      },
+      {
+        "id": "surg-private-mumbai",
+        "subject_ids": [
+          "general-surgery"
+        ],
+        "role": "Laparoscopic General Surgeon",
+        "employer": "Meddco (advertiser); clinical employer not independently verified",
+        "sector": "Private",
+        "city": "Mumbai metro; interview address Mumbra, Thane, Maharashtra",
+        "tier": "Tier 1",
+        "career_stage": "General Surgeon advert; postgraduate qualification not verified",
+        "qualification": "Body requires a medical degree and licensure as a General Surgeon, but portal education field says MBBS. Recognised surgical PG qualification must be confirmed.",
+        "experience": "1-6 years.",
+        "pay_low": 2000000,
+        "pay_high": 3250000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "surg-pay-mumbai"
+        ],
+        "notes": [
+          "Header INR 20-32.5 lakh/year. Interview address says 'Tmc Hospital Kausa, Mumbra'; this is not established as Tata Memorial Centre. Advertiser is a healthcare IT/placement listing, not a verified corporate chain. Qualification field is weak and publication date was not exposed.",
+          "Observed 17 October 2026; advertised terms, employer and current availability are unverified. This is not take-home pay, a national average or proof of a salary increase after further training."
+        ]
+      },
+      {
+        "id": "surg-private-khammam",
+        "subject_ids": [
+          "general-surgery"
+        ],
+        "role": "General Surgery Professor (portal title; eligibility unverified)",
+        "employer": "Recmasters; unnamed medical college",
+        "sector": "Private",
+        "city": "Khammam, Telangana",
+        "tier": "Other / smaller city",
+        "career_stage": "Experienced academic-role advert",
+        "qualification": "Portal education says MS but body says MD/DNB. Exact recognised General Surgery qualification and faculty eligibility must be verified.",
+        "experience": "Header 8-14 years; body says experience as per NMC norms.",
+        "pay_low": 2500000,
+        "pay_high": 3500000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "surg-pay-khammam"
+        ],
+        "notes": [
+          "Header INR 25-35 lakh/year; body says negotiable. No college name, detailed faculty criteria or reliable publication date was visible. This is not evidence that anyone with the header's experience qualifies as Professor.",
+          "Observed 17 October 2026; advertised terms, employer and current availability are unverified. This is not take-home pay, a national average or proof of a salary increase after further training."
+        ]
+      },
+      {
+        "id": "surg-private-hisar-urology",
+        "subject_ids": [
+          "general-surgery"
+        ],
+        "role": "Consultant Urologist (MCh required; planned centre)",
+        "employer": "Pacific Asia Consulting Expertise; unnamed planned hospital",
+        "sector": "Private",
+        "city": "Hisar, Haryana",
+        "tier": "Tier 2",
+        "career_stage": "After Urology superspecialty; not an MS-only salary",
+        "qualification": "Body requires MCh for the Consultant Urologist post; MS General Surgery alone is insufficient.",
+        "experience": "Header 1-7 years; body asks for an experienced independent department lead.",
+        "pay_low": 4500000,
+        "pay_high": 10000000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "surg-pay-hisar-urology"
+        ],
+        "notes": [
+          "Header INR 45-100 lakh/year. Body says 'Rs 4-5 lakh' without a clear period, so these are not reconciled into a new number. Body describes a new setup planned for November 2026, after this research date; funded operational service and written terms need verification. Relative posting label '47 days ago' is not an exact publication date. Broad header ceiling is not a typical MCh salary or guaranteed fellowship premium.",
+          "Observed 17 October 2026; advertised terms, employer and current availability are unverified. This is not take-home pay, a national average or proof of a salary increase after further training."
+        ]
+      },
+      {
+        "id": "surg-private-mount-abu-urology",
+        "subject_ids": [
+          "general-surgery"
+        ],
+        "role": "Consultant Urologist",
+        "employer": "J.W. Global Hospital & Research Centre (portal advertiser)",
+        "sector": "Private",
+        "city": "Mount Abu, Sirohi, Rajasthan",
+        "tier": "Other / smaller city",
+        "career_stage": "After MCh Urology",
+        "qualification": "MCh Urology explicitly required.",
+        "experience": "Minimum 1 year in body; header 1-2 years.",
+        "pay_low": null,
+        "pay_high": null,
+        "currency": "INR",
+        "period": null,
+        "basis": "Not disclosed",
+        "source_ids": [
+          "surg-pay-mount-abu-urology"
+        ],
+        "notes": [
+          "Pay not disclosed. Body offers suitable accommodation, but no amount is inferred. Advertiser, current availability and benefits have not been independently confirmed. No exact publication date was exposed.",
+          "Observed 17 October 2026; advertised terms, employer and current availability are unverified. This is not take-home pay, a national average or proof of a salary increase after further training."
+        ]
+      },
+      {
+        "id": "surg-sgpgi-pdcc",
+        "subject_ids": [
+          "general-surgery"
+        ],
+        "role": "Eligible surgical PDCC trainee (non-sponsored)",
+        "employer": "SGPGIMS Lucknow",
+        "sector": "Government",
+        "city": "Lucknow, Uttar Pradesh",
+        "tier": "Tier 2",
+        "career_stage": "One-year focused training after MS/DNB",
+        "qualification": "General Surgery in the named Breast Surgery, Trauma Surgery or Resuscitative Emergency Medicine PDCC feeder rows; full course conditions apply.",
+        "experience": "Programme-specific qualification and selection; not a post-fellowship consultant role.",
+        "pay_low": 67700,
+        "pay_high": 67700,
+        "currency": "INR",
+        "period": "month",
+        "basis": "Training stipend",
+        "source_ids": [
+          "surg-sgpgi2026",
+          "gov-sgpgi2026"
+        ],
+        "notes": [
+          "PDCC emoluments equal first-year SR. INR 67,700 is the monthly basic reference; applicable allowances are separate and net pay is not calculated.",
+          "Sponsored candidates receive no SGPGI salary/stipend; sponsor pays. SR duties also apply. This is training income, not the consultant salary after completing PDCC."
+        ]
+      },
+      {
+        "id": "surg-aiims-bhub-sr-entry",
+        "subject_ids": [
+          "general-surgery"
+        ],
+        "role": "General Surgery Senior Resident (Non-Academic)",
+        "employer": "AIIMS Bhubaneswar",
+        "sector": "Government",
+        "city": "Bhubaneswar, Odisha",
+        "tier": "Tier 2",
+        "career_stage": "Post-MS/DNB senior residency",
+        "qualification": "MS/DNB General Surgery explicitly listed in Annexure I; registration and full notice conditions apply.",
+        "experience": "Recognised postgraduate qualification and all recruitment/age conditions.",
+        "pay_low": 67700,
+        "pay_high": 67700,
+        "currency": "INR",
+        "period": "month",
+        "basis": "Pay-matrix basic",
+        "source_ids": [
+          "surg-aiims-bhub-sr"
+        ],
+        "notes": [
+          "4 July 2026 notice lists General Surgery in the vacancy annexure. Pay is INR 67,700 monthly Level 11 basic plus NPA and other admissible allowances; no gross/net calculation.",
+          "Three-year SR advertisement; current vacancy, appointment and permanent employment are not inferred."
+        ]
       }
     ],
     "salary_methodology": [
@@ -279115,6 +280528,44 @@
         }
       ],
       "branches": {
+        "general-surgery": {
+          "positioning": "My shortlisting opinion: choose General Surgery if you want operative work, perioperative responsibility and the ability to develop a broad practice or later surgical focus. Its many SS options are valuable flexibility, but they do not compensate for weak hands-on MS/DNB training. I would place supervised primary-operator experience, judgement, complication rescue and recent graduate outcomes ahead of central/state/deemed/private ownership or a robot on a prospectus.",
+          "earnings_levers": [
+            "Independent competence supported by training, registration and employer privileges; the ability to select cases safely matters as much as procedure counts.",
+            "Theatre access, anaesthesia/ICU support, patient/referral flow, fair case allocation and continuity of follow-up.",
+            "The chosen employment model: fixed salary, retainer, per-case work or ownership have different income stability, costs and liabilities.",
+            "A focused fellowship/MCh with real supervised skills and funded demand; no automatic qualification-based income premium is established."
+          ],
+          "career_stages": [
+            {
+              "stage": "After MS/DNB",
+              "focus": "Compare supported SR or surgical roles against your actual operating readiness. Government SR notices give INR 67,700 monthly basic plus applicable allowances. Do not benchmark a fresh MS against a consultant advert that expects independent laparoscopy."
+            },
+            {
+              "stage": "FNB / institutional focused training",
+              "focus": "Review direct post-MS options separately from experience-conditional Bariatric/Renal Transplant FNB and later post-SS fellowships. Check logbook, operating allocation, fees/stipend, recognition, bond and delayed earnings."
+            },
+            {
+              "stage": "MCh/DrNB/DM training",
+              "focus": "The selected NEET-SS 2025 baseline verifies 14 subjects and 23 award options, with 2,677 listed seats. One eligible award is not listed. Surgical Group, ENT Group and Medical Group apply to different destinations; INI-SS and direct six-year entry are separate."
+            },
+            {
+              "stage": "Established general surgeon / post-SS surgeon",
+              "focus": "A parent-specialty practice and a focused surgical career can both be viable, depending on competence and local funded work. Compare real written offers and case access. A Urology MCh advert is not an MS-only salary or evidence of what every other MCh earns."
+            },
+            {
+              "stage": "Academic or service leadership",
+              "focus": "Government faculty scales and contracts follow rank-specific eligibility and experience. Private Professor adverts with conflicting qualifications require verification; a title or years field alone does not establish faculty eligibility."
+            }
+          ],
+          "verify": [
+            "Ask current trainees for primary-operator logs and follow graduates from several recent batches: first supported job, independence, city moves and fixed pay.",
+            "Check who handles bleeding, conversion, bowel injury, postoperative sepsis and night emergencies; examine the backup available to a new surgeon.",
+            "Obtain written salary, procedure incentives, duty roster, indemnity, case allocation, leave and restrictive clauses; hospital billings are not personal income.",
+            "Validate exact fellowship entry requirements and recognised centre experience before budgeting for a route; general surgical experience alone does not qualify for every transplant FNB.",
+            "No representative saturation measure, verified named-chain salary grid or matched fellowship/MCh pay uplift is established here. Recheck actual local offers before committing to high training costs."
+          ]
+        },
         "radiation-oncology": {
           "positioning": "My shortlisting opinion: consider Radiation Oncology if you enjoy cancer medicine, treatment planning, imaging anatomy and sustained patient relationships, and are willing to work where treatment infrastructure and a funded role exist. I would not choose it solely as a presumed route to Medical Oncology or assume a new machine guarantees a job. A strong, functioning department with hands-on supervision would weigh more heavily for me than central/state/deemed/private ownership alone.",
           "earnings_levers": [
