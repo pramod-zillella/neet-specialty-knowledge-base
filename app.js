@@ -121,13 +121,30 @@
   }
   function collegeChecks(s) {return `<ul class="checklist">${s.college_checks.map(q=>`<li>${esc(q)}</li>`).join('')}<li>Verify current tuition, compulsory charges, stipend payment, bond terms, recognition and exit rules using dated official documents.</li><li>Speak independently with residents in different years; verify duty rosters, supervision, grievance support and the time available for learning.</li></ul><p class="route-note">${esc(s.route_note)}</p>`;}
   const conclusions = window.createConclusionsView({data,state,esc,time,subjects,episodes,videoReviews,visibleSubjects,getPersonal:()=>personal});
+  const careers = window.createCareerView({data,state,esc,subjects});
+  const careerIds = new Set((data.careers?.branches || []).map(b=>b.subject_id));
   function render() {
     document.querySelectorAll('[data-view]').forEach(button=>{if(button.dataset.view===state.view)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');});
-    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges,conclusions}[state.view]||overview)();
+    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges,conclusions,careers}[state.view]||overview)();
     topicSidebar();
   }
-  function go(view,subject=state.subject) { if(subjects.has(subject))state.subject=subject; state.view=view; const hash=`#${view}/${state.subject}${view==='summaries'&&state.video?'/'+state.video:view==='conclusions'?'/'+(state.conclusionTab||'advice'):''}`; if(location.hash===hash)render();else location.hash=hash; }
-  function readHash() {const [view,id,vid]=location.hash.slice(1).split('/');state.view=['overview','summaries','compare','library','colleges','conclusions'].includes(view)?view:'overview';if(subjects.has(id))state.subject=id;if(view==='conclusions'&&['advice','ratings','institutions'].includes(vid))state.conclusionTab=vid;if(episodes.has(vid)){state.video=vid;const subject=subjects.get(state.subject);if(![...subject.episode_ids,...subject.related_episode_ids].includes(vid))state.summaryAll=true;}render();}
+  function go(view,subject=state.subject) {
+    if(view==='careers') {subject=careerIds.has(subject)?subject:'radiology';state.careerBranch=subject;}
+    if(subjects.has(subject))state.subject=subject;
+    state.view=view;
+    const suffix=view==='summaries'&&state.video?state.video:view==='conclusions'?(state.conclusionTab||'advice'):view==='careers'?(state.careerTab||'routes'):'';
+    const hash=`#${view}/${state.subject}${suffix?'/'+suffix:''}`;
+    if(location.hash===hash)render();else location.hash=hash;
+  }
+  function readHash() {
+    const [view,id,vid]=location.hash.slice(1).split('/');
+    state.view=['overview','summaries','compare','library','colleges','conclusions','careers'].includes(view)?view:'overview';
+    if(subjects.has(id))state.subject=id;
+    if(view==='conclusions'&&['advice','ratings','institutions'].includes(vid))state.conclusionTab=vid;
+    if(view==='careers') {state.careerBranch=careerIds.has(id)?id:'radiology';state.subject=state.careerBranch;state.careerTab=['routes','seats','salary','shortlist'].includes(vid)?vid:'routes';}
+    if(episodes.has(vid)){state.video=vid;const subject=subjects.get(state.subject);if(![...subject.episode_ids,...subject.related_episode_ids].includes(vid))state.summaryAll=true;}
+    render();
+  }
   function exportFile(name, value) { const blob=new Blob([JSON.stringify(value,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const link=document.createElement('a');link.href=url;link.download=name;link.click();setTimeout(()=>URL.revokeObjectURL(url),1000); }
   const stats=data.stats;
   if (!stats.episodes_with_selected_caption_briefs) document.querySelector('a[href="exports/video-briefs.md"]')?.remove();
@@ -143,7 +160,8 @@
   document.addEventListener('click',event=>{
     const b=event.target.closest('button');if(!b)return;
     if(b.dataset.view){if(b.dataset.view==='summaries'&&!state.summaryAll){const subject=subjects.get(state.subject);if(![...subject.episode_ids,...subject.related_episode_ids].includes(state.video))state.video='';}go(b.dataset.view);}
-    if(b.dataset.subject)go(state.view==='conclusions'&&!b.dataset.openBranch?'conclusions':'overview',b.dataset.subject);
+    if(b.dataset.subject)go(state.view==='careers'&&careerIds.has(b.dataset.subject)?'careers':state.view==='conclusions'&&!b.dataset.openBranch?'conclusions':'overview',b.dataset.subject);
+    if(b.dataset.careerTab){state.careerTab=b.dataset.careerTab;go('careers',state.careerBranch);}
     if(b.dataset.conclusionTab){state.conclusionTab=b.dataset.conclusionTab;go('conclusions');}
     if(b.hasAttribute('data-conclusion-profile')){state.conclusionProfile=b.dataset.conclusionProfile;state.conclusionTab='ratings';go('conclusions');}
     if(b.dataset.conclusionTopic){state.conclusionTab='ratings';go('conclusions',b.dataset.conclusionTopic);setTimeout(()=>{const target=document.getElementById(b.dataset.conclusionDimension?'score-'+b.dataset.conclusionDimension:'conclusion-detail');target?.scrollIntoView({behavior:'smooth',block:'start'});},60);}
@@ -164,6 +182,9 @@
     if(event.target.dataset.collegeNote){const c=personal.colleges.find(c=>c.id===event.target.dataset.collegeNote);if(c){c.notes=event.target.value;c.updated=new Date().toISOString();save();}}
   });
   document.addEventListener('change',event=>{
+    if(event.target.id==='career-branch'){state.careerSector='';state.careerTier='';go('careers',event.target.value);}
+    if(event.target.id==='career-sector'){state.careerSector=event.target.value;render();}
+    if(event.target.id==='career-tier'){state.careerTier=event.target.value;render();}
     const conclusionControls={'conclusion-sort':'conclusionSort','institution-subject':'institutionSubject','institution-sector':'institutionSector','institution-stance':'institutionStance'};
     if(conclusionControls[event.target.id]){state[conclusionControls[event.target.id]]=event.target.value;render();}
     if(event.target.id==='library-status'){state.libraryStatus=event.target.value;render();}
