@@ -1,0 +1,14 @@
+# This clone publishes only the prepared public site.
+.env
+.env.*
+!.env.example
+.deps/
+.venv/
+__pycache__/
+private/
+sources/
+transcripts/
+.preview/
+*.log
+*-site.zip
+batch-*-of-*.zip

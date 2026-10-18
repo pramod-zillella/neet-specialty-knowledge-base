@@ -2,9 +2,11 @@
 
 Checked 2026-10-18.
 
-18 preferred states/UTs; ordinary non-in-service MD/MS planning with explicit qualification, quota and institution limits.
+Your route: ordinary non-in-service MD/MS through MCC 50% All India Quota in state government colleges, across 18 preferred states/UTs. Central, deemed, DNB, AFMS and INI routes have separate contracts.
 
-**Do not assume Delhi is free of post-PG service bonds. MAMC circular dated 7 August 2025 expressly introduces one year / Rs20 lakh for PG entrants from 2025–26 onwards, AIQ and state quota. DU's 2026 Rs10 lakh surety is a separate course-exit bond. Other Delhi campuses need their own current authority/cohort check.**
+**MCC allotment does not waive an applicable service bond. Read the AIQ-specific years and evidence column first. In Andhra Pradesh, the checked one-year undertaking explicitly names State/CQ seats, so an AIQ duration remains unconfirmed. Delhi has no single duration: MAMC is one year from 2025–26 onwards; other campuses require their own rule.**
+
+Do not assume Delhi is free of post-PG service bonds. MAMC circular dated 7 August 2025 expressly introduces one year / Rs20 lakh for PG entrants from 2025–26 onwards, AIQ and state quota. DU's 2026 Rs10 lakh surety is a separate course-exit bond. Other Delhi campuses need their own current authority/cohort check.
 
 A mixed-date evidence comparison, not a fully verified 2026 national bond schedule or a legal enforceability opinion. Unresolved terms remain unknown, never zero. Sources checked 18 October 2026; apply subsequent amendments.
 
@@ -17,36 +19,42 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 - This comparison concerns ordinary non-in-service MD/MS entrants unless a row says otherwise. Diploma, DNB/DrNB, direct six-year courses, sponsored and in-service obligations are not interchangeable.
 - An old form, missing upload or silent prospectus is not proof of no bond. A checked 2026 rule is an admission-cycle snapshot, not a guarantee of the rule when a future graduate finishes.
 
-## Comparison at a glance
+## Your MCC AIQ comparison
 
-| State / UT | Evidence / cycle | Service | Default terms |
+| State / UT | Post-course service | AIQ evidence | Applies to / limits |
 |---|---|---|---|
-| Telangana | 2026 prospectus / 2026–27 competent-authority admissions | One year in Telangana government institutions, if required by government. | MD/MS degree bond Rs20 lakh; diploma Rs10 lakh is a different qualification. |
-| Andhra Pradesh | 2026 prospectus / 2026–27 competent-authority admissions | One year of service, completed within 18 months after obtaining the PG degree. | Rs40 lakh if not joining/completing the required service, citing GO251 of 2 October 2022. |
-| Tamil Nadu | 2026 prospectus / 2026–27 | Two years within three years after PG completion, if government requires services. | Degree Rs40 lakh or proportionate unserved liability, plus specified interest from demand. Diploma Rs20 lakh separately. |
-| Karnataka | 2026 report + older primary forms / 2026 reported order; 2024 forms checked | Three years for the government-seat obligation. The March 2026 report describes credit for a completed one-year statutory service, leaving two additional years. | Degree Rs50 lakh under the three-year undertaking; diploma Rs25 lakh separately. Current order and exact quota/cohort require confirmation. |
-| Kerala | 2026 prospectus / 2026 | One continuous year immediately after completing the course, in the permitted government service roles. | Rs50 lakh bond; prospectus also calls for stipend/salary, government study expenditure and specified interest for failure of service. Rs50 lakh is not a verified all-inclusive cap. |
-| Goa | Older primary rule / 2020 amendment; 2026 continuation unconfirmed | 2020 amendment changes PG government service from three years to one year. | Rs50 lakh under the PG default/discontinuation clause. This is not the Rs1 crore neurosurgery superspecialty clause. |
-| Maharashtra | 2026 prospectus / NEET-PG 2026 | One year social-responsibility service in a permitted employer category. | Rs50 lakh for service default under clause 20.4. |
-| Madhya Pradesh | Primary form; cycle needs confirmation / Form cites amendments through September 2025; year blank | Ordinary non-in-service entrant: one year rural service. | Rs10 lakh ordinary-entrant rural-service default, as written in the checked form. |
-| Delhi | College-specific primary evidence / MAMC: 2025–26 onwards; DU exit form: 2026 | MAMC: minimum one year in GNCT Delhi health facilities immediately after course completion. | MAMC PG service bond Rs20 lakh. Annexure has both 12% interest wording and a stated total-obligation cap; confirm the current PG-specific form rather than assuming an all-inclusive payable amount. |
-| Odisha | 2026 rule; terms incomplete / 2026–27 | Service-bond submission confirmed; ordinary entrant's full duration not established from the checked operative terms. | Numeric post-PG default formula not established; do not substitute the Rs10 lakh exit penalty. |
-| Puducherry | Unresolved / Current MD/MS terms not established | No current state/campus-specific post-MD/MS service rule verified in this research. | Not established from the checked material; obtain the current college/order clause. |
-| Jharkhand | Older primary rule / 2018 resolution cited; 2026 continuation unconfirmed | Three years government service in the checked RIMS form. | Rs30 lakh plus stipend and other payments during the course under the checked service-default resolution. |
-| Rajasthan | Primary form; cycle needs confirmation / SMS pack / specialty-value order: 2025–26 | Duration not established from the specialty-value order; obtain current service undertaking. | 2025 table: Radiodiagnosis/Dermatology/Medicine/OBG Rs1.5 crore; Ophthalmology/Paediatrics/General Surgery (and listed others) Rs1 crore; ENT/Radiation Oncology/Pathology/Nuclear Medicine/Palliative Medicine (and others) Rs50 lakh; Biochemistry/Pharmacology (and others) Rs25 lakh. |
-| Uttar Pradesh | Older primary rule / 2018 order cited; 2026 continuation unconfirmed | Two years government service under the checked form. | MD/MS Rs40 lakh; diploma Rs20 lakh separately. |
-| Uttarakhand | Conflicting older forms / Mixed 2021–22 / 2017-linked schemes; 2026 unresolved | Both older schemes describe two years in government facilities in hilly areas, conditional on the applicable scheme. | Conflicting formulas: Doon 2021–22 Rs2.5 crore; subsidised-fee scheme full-course fees less fees paid plus compound interest. No single verified 2026 principal assigned. |
-| West Bengal | 2026 rule; terms incomplete / 2026 | PG degree: three years; PG diploma: two years is a separate qualification. | Penalty as fixed by government; numeric service-default amount not established from this bulletin. |
-| Chhattisgarh | Primary form; cycle needs confirmation / November 2025 gazette / 2025 joining form | Two years of state government service in the checked form. | Principal penalty field is blank in the upload; stipend recovery is stated. Amount must be obtained from the applicable notification/category, not guessed. |
-| Bihar | 2025 prospectus / 2025 with incorporated 2017/2019 resolutions | Three years under the state government after PG completion. | Rs25 lakh plus salary received in the service period under the checked resolution; not a verified all-inclusive cap. |
+| Telangana | 1 year · confirm cohort | College / older rule: confirm AIQ cohort | Plan for one year if required at Gandhi/Osmania. Their MCC service forms are older; 2026 CQ rules corroborate the duration but do not by themselves settle all AIQ campuses. |
+| Andhra Pradesh | AIQ not established | State/CQ scope only | The one-year / Rs40 lakh Annexure A explicitly covers State/CQ seats. Obtain the government-college AIQ undertaking; do not infer either one year or zero for AIQ. |
+| Tamil Nadu | 2 years | Explicit AIQ: 2026 prospectus | Government medical colleges, non-service MD/MS, explicitly including 50% AIQ; two years within three years if services required. |
+| Karnataka | 3 years · current order needed | Older AIQ form + 2026 secondary report | Government-subsidised seats including AIQ. Reported March 2026 order credits an already completed statutory year, leaving two additional years; do not add these as four. Obtain the operative order. |
+| Kerala | 1 year minimum | Explicit AIQ: 2026 prospectus | Government medical-college AIQ explicitly included in clause 11-1(b); continuous SR service for not less than one year. Conditional appointment/SS relief is separate. |
+| Goa | 1 year · older rule | College / older rule: confirm AIQ cohort | Goa Medical College 2020 PG amendment uploaded on MCC changes three years to one. Current continuation and original rule’s AIQ scope require the current college contract. |
+| Maharashtra | 1 year | Explicit AIQ: 2026 prospectus | Government/municipal colleges; clause 20.4 expressly includes All India PG quota. Private unaided prohibition and AFMS obligations have separate scopes. |
+| Madhya Pradesh | 1 year · confirm cohort | College / older rule: confirm AIQ cohort | GMC Bhopal MCC form: ordinary entrant one-year rural service. Form cites amendments through September 2025; confirm current college/year and private scope. |
+| Delhi | MAMC: 1 year; others vary | Explicit AIQ: MAMC 2025–26 onwards | MAMC circular expressly includes AIQ and state quota. No uniform Delhi duration: UCMS, LHMC, VMMC, ABVIMS/RML need their own applicable policy. |
+| Odisha | 2 years · confirm cohort | College / older rule: confirm AIQ cohort | SCB government-college bond supplied on MCC specifies two years; AIQ not separately named and year blank. January 2026 placement guidance corroborates two years for a graduating cohort. |
+| Puducherry | Campus / route unresolved | Current AIQ terms unresolved | Separate a genuine state-government MD/MS AIQ seat from deemed paid seats and DNB. JIPMER MD/MS is an INI-CET route outside this MCC AIQ table. No current universal zero-year finding. |
+| Jharkhand | 3 years · older rule | College / older rule: confirm AIQ cohort | RIMS Ranchi MCC-uploaded 2018 resolution. Confirm current RIMS/other state-college AIQ contract; this is not a rule for central AIIMS Deoghar. |
+| Rajasthan | 2 years · confirm cohort | College / older rule: confirm AIQ cohort | Dr SN Jodhpur non-service form explicitly names AIQ. The page with five years is in-service. Values differ by branch; other campus/current relief orders require checking. |
+| Uttar Pradesh | 2 years · older rule | College / older rule: confirm AIQ cohort | State government/autonomous colleges under the KGMU form citing the 2018 order. Central BHU/AMU, AIIMS and private/DNB are separate; geography does not transfer this bond. |
+| Uttarakhand | 2 years · scheme dependent | Conditional subsidised-fee scheme | Older undertaking expressly includes Central quota but links service to opting for subsidised tuition. Mixed Doon/Haldwani documents do not establish a universal current two-year obligation or exemption for full-fee seats. |
+| West Bengal | 3 years · confirm AIQ cohort | College / older rule: confirm AIQ cohort | Three years corroborated by 2026 open/non-service bulletin and Burdwan MCC bond. Confirm college AIQ cohort; open means non-in-service, not only UR reservation. |
+| Chhattisgarh | 2 years · 2025 form | College / older rule: confirm AIQ cohort | Pt JNM Raipur form expressly includes AIQ/state, cites November 2025 gazette and fills admission year 2025. Confirm current form; do not apply to AIIMS Raipur. |
+| Bihar | 3 years · 2025 prospectus | College / older rule: confirm AIQ cohort | State-government PG bonds in 2025 prospectus. Specified already-government-employed AIQ entrants have a 2019 exception; ordinary AIQ admission alone is not that exception. |
 
 ## Applicability and separate exit terms
 
 ### Telangana
 
-**Evidence:** 2026 prospectus · 2026–27 competent-authority admissions
+**Your AIQ route:** 1 year · confirm cohort · College / older rule: confirm AIQ cohort
 
-**Applies to:** KNRUHS competent-authority PG entrants; non-in-service service clause. Obtain separate AIQ/management/deemed/central/DNB applicability.
+Plan for one year if required at Gandhi/Osmania. Their MCC service forms are older; 2026 CQ rules corroborate the duration but do not by themselves settle all AIQ campuses.
+
+**AIQ source IDs:** mcc-700481-BM, mcc-700483-BM, ts-cq2026
+
+**Wider state evidence:** 2026 prospectus · 2026–27 competent-authority admissions
+
+**Applies to:** 2026–27 competent-authority rule plus Gandhi/Osmania government-college bonds uploaded to MCC. College forms support AIQ planning but their 2025–26 / 2023–24 dates need updating.
 
 **Service:** One year in Telangana government institutions, if required by government.
 
@@ -58,15 +66,21 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 **Higher studies:** Not established from the checked material; obtain the current college/order clause.
 
-**Posting / release:** Not established from the checked material; obtain the current college/order clause.
+**Posting / release:** Gandhi 2025–26 form: one year as SR if required, completed within 18 months. This is a completion window, not a verified automatic release if no appointment is offered.
 
-**Source IDs:** ts-cq2026
+**Source IDs:** ts-cq2026, mcc-700481-BM, mcc-700483-BM
 
 ### Andhra Pradesh
 
-**Evidence:** 2026 prospectus · 2026–27 competent-authority admissions
+**Your AIQ route:** AIQ not established · State/CQ scope only
 
-**Applies to:** Section 5 non-service PG entrants in checked CQ prospectus; confirm exact college/quota. SVIMS has its own appended terms.
+The one-year / Rs40 lakh Annexure A explicitly covers State/CQ seats. Obtain the government-college AIQ undertaking; do not infer either one year or zero for AIQ.
+
+**AIQ source IDs:** ap-cq2026
+
+**Wider state evidence:** 2026 prospectus · 2026–27 competent-authority admissions
+
+**Applies to:** 2026–27 Annexure A explicitly names State Quota / Competent Authority seats in government/private colleges. It is not a verified AIQ service undertaking. SVIMS has separate terms.
 
 **Service:** One year of service, completed within 18 months after obtaining the PG degree.
 
@@ -74,7 +88,7 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 **Course exit:** MQ prospectus states Rs3 lakh plus stipend refund and three-year debarment. CQ exit clause has a PG Dental wording carryover; obtain the correct MD/MS form.
 
-**Exceptions / in-service:** In-service: ten years; Rs50 lakh plus pay/allowances and applicable interest. Do not apply this to ordinary entrants. MQ exit terms do not prove MQ post-PG service.
+**Exceptions / in-service:** In-service: ten years; Rs50 lakh plus pay/allowances and applicable interest. Do not apply this to ordinary entrants. MQ exit terms do not prove MQ post-PG service. For this applicant’s MCC AIQ route, do not assign one year or Rs40 lakh from the State/CQ-only Annexure A. Neither a separate AIQ obligation nor an explicit AIQ exemption is established here.
 
 **Higher studies:** In-service SS deferment is described; ordinary-entrant SS/fellowship deferral not established.
 
@@ -84,7 +98,13 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Tamil Nadu
 
-**Evidence:** 2026 prospectus · 2026–27
+**Your AIQ route:** 2 years · Explicit AIQ: 2026 prospectus
+
+Government medical colleges, non-service MD/MS, explicitly including 50% AIQ; two years within three years if services required.
+
+**AIQ source IDs:** tn-gq2026
+
+**Wider state evidence:** 2026 prospectus · 2026–27
 
 **Applies to:** Non-service candidates joining government medical colleges, explicitly including 50% AIQ.
 
@@ -104,7 +124,13 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Karnataka
 
-**Evidence:** 2026 report + older primary forms · 2026 reported order; 2024 forms checked
+**Your AIQ route:** 3 years · current order needed · Older AIQ form + 2026 secondary report
+
+Government-subsidised seats including AIQ. Reported March 2026 order credits an already completed statutory year, leaving two additional years; do not add these as four. Obtain the operative order.
+
+**AIQ source IDs:** kar-kea-forms2024, kar-news
+
+**Wider state evidence:** 2026 report + older primary forms · 2026 reported order; 2024 forms checked
 
 **Applies to:** Government-subsidised seats including AIQ in checked undertaking; separate broad one-year Act form includes private/deemed/NRI/management categories.
 
@@ -124,9 +150,15 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Kerala
 
-**Evidence:** 2026 prospectus · 2026
+**Your AIQ route:** 1 year minimum · Explicit AIQ: 2026 prospectus
 
-**Applies to:** General-merit/non-service government-medical-college PG entrants, including AIQ. Confirm private/self-financing seat applicability independently.
+Government medical-college AIQ explicitly included in clause 11-1(b); continuous SR service for not less than one year. Conditional appointment/SS relief is separate.
+
+**AIQ source IDs:** kerala-pg2026
+
+**Wider state evidence:** 2026 prospectus · 2026
+
+**Applies to:** 2026 prospectus introduction and clause 11-1(b) expressly include AIQ candidates in government medical colleges. Self-financing colleges are covered only for admission procedures in the introduction.
 
 **Service:** One continuous year immediately after completing the course, in the permitted government service roles.
 
@@ -134,9 +166,9 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 **Course exit:** Separate discontinuation bond and Rs50 lakh stray-vacancy damages provisions; do not treat these as the service obligation or automatically add all amounts.
 
-**Exceptions / in-service:** In-service: ten years or up to superannuation, with separate salary-based damages. Annexures carry 2025–26 labels inside the 2026 PDF.
+**Exceptions / in-service:** In-service: ten years or up to superannuation, with separate salary-based damages. Annexures carry 2025–26 labels inside the 2026 PDF. Clause 11-1(c): relief for a regular Kerala/other-state/central/UT/qualifying PSU appointment if the appointing authority refuses joining-time extension; evidence and joining order within one month required. This is conditional relief, not an exemption at admission.
 
-**Higher studies:** Relief for recognised SS degree; combined specialty/SS bonded service capped at two years under the clause. This relief explicitly excludes fellowship/observership. Certain regular public-service appointments have documentary release conditions.
+**Higher studies:** Clause 11-1(c): SS degree selection permits release to join; combined specialty/SS service capped at two years under those terms. This relief does not cover observership/fellowship. Do not assume a fellowship is an SS degree.
 
 **Posting / release:** Clause 11-1(k): absolution if government cannot offer qualifying work within one year after course completion. Obtain written discharge. Maternity clause describes a maximum 18-month stipendiary period including up to six months maternity leave; confirm the resulting completion date.
 
@@ -144,7 +176,13 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Goa
 
-**Evidence:** Older primary rule · 2020 amendment; 2026 continuation unconfirmed
+**Your AIQ route:** 1 year · older rule · College / older rule: confirm AIQ cohort
+
+Goa Medical College 2020 PG amendment uploaded on MCC changes three years to one. Current continuation and original rule’s AIQ scope require the current college contract.
+
+**AIQ source IDs:** mcc-700479-BM
+
+**Wider state evidence:** Older primary rule · 2020 amendment; 2026 continuation unconfirmed
 
 **Applies to:** Goa Medical College PG degree/diploma under the cited Goa University admission rules.
 
@@ -164,7 +202,13 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Maharashtra
 
-**Evidence:** 2026 prospectus · NEET-PG 2026
+**Your AIQ route:** 1 year · Explicit AIQ: 2026 prospectus
+
+Government/municipal colleges; clause 20.4 expressly includes All India PG quota. Private unaided prohibition and AFMS obligations have separate scopes.
+
+**AIQ source IDs:** maha-pg2026-brochure
+
+**Wider state evidence:** 2026 prospectus · NEET-PG 2026
 
 **Applies to:** Government/municipal-corporation PG colleges; expressly both AIQ and state quota.
 
@@ -184,7 +228,13 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Madhya Pradesh
 
-**Evidence:** Primary form; cycle needs confirmation · Form cites amendments through September 2025; year blank
+**Your AIQ route:** 1 year · confirm cohort · College / older rule: confirm AIQ cohort
+
+GMC Bhopal MCC form: ordinary entrant one-year rural service. Form cites amendments through September 2025; confirm current college/year and private scope.
+
+**AIQ source IDs:** mcc-700296-BM
+
+**Wider state evidence:** Primary form; cycle needs confirmation · Form cites amendments through September 2025; year blank
 
 **Applies to:** GMC Bhopal MCC form: state/AIQ MD/MS; the form also explicitly describes execution for private-college entrants.
 
@@ -204,7 +254,13 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Delhi
 
-**Evidence:** College-specific primary evidence · MAMC: 2025–26 onwards; DU exit form: 2026
+**Your AIQ route:** MAMC: 1 year; others vary · Explicit AIQ: MAMC 2025–26 onwards
+
+MAMC circular expressly includes AIQ and state quota. No uniform Delhi duration: UCMS, LHMC, VMMC, ABVIMS/RML need their own applicable policy.
+
+**AIQ source IDs:** delhi-mamc-service-notice, du-pg2026, mcc-700122-BM
+
+**Wider state evidence:** College-specific primary evidence · MAMC: 2025–26 onwards; DU exit form: 2026
 
 **Applies to:** MAMC MD/MS, both AIQ and state quota, under its 7 August 2025 circular. Other Delhi institutions require their own current policies.
 
@@ -224,27 +280,39 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Odisha
 
-**Evidence:** 2026 rule; terms incomplete · 2026–27
+**Your AIQ route:** 2 years · confirm cohort · College / older rule: confirm AIQ cohort
+
+SCB government-college bond supplied on MCC specifies two years; AIQ not separately named and year blank. January 2026 placement guidance corroborates two years for a graduating cohort.
+
+**AIQ source IDs:** mcc-700336-BM, odisha-postpg-guidelines2026, odisha-pg2026-guidelines
+
+**Wider state evidence:** 2026 guideline + undated college form · 2026–27
 
 **Applies to:** DMET guideline J(5) requires a service bond except for candidates opting for private medical colleges.
 
-**Service:** Service-bond submission confirmed; ordinary entrant's full duration not established from the checked operative terms.
+**Service:** Two years in the checked SCB government-college service bond. Placement guidance counts the two-year posting as SR; relevant peripheral rotation is included within it.
 
-**Service default:** Numeric post-PG default formula not established; do not substitute the Rs10 lakh exit penalty.
+**Service default:** SCB Annexure A: twice the stipend/salary received for three years of study. Variable formula, not a fixed Rs10 lakh service bond; Rs10 lakh is the separate course-exit principal.
 
 **Course exit:** J(3): Rs10 lakh plus stipend/salary refund; fees not refunded, under the specified exit conditions.
 
-**Exceptions / in-service:** Private-college exception to J(5) is explicit. In-service M(4) two-year wording must not be used as proof of an ordinary entrant's duration. Central AIIMS and DNB require their own rules.
+**Exceptions / in-service:** 2026 guideline J(5) excepts private medical colleges from that service-bond submission. Pre/para-clinical placement in medical colleges is not a service exemption. AIIMS/INI and private/DNB contracts need their own applicable rules; do not assign the government MD/MS rule by geography alone.
 
-**Higher studies:** Not established from the checked material; obtain the current college/order clause.
+**Higher studies:** SCB form: recognised higher study temporarily suspends the bond, which resumes after completion. Its definition excludes outside-state residency/fellowship.
 
-**Posting / release:** Not established from the checked material; obtain the current college/order clause.
+**Posting / release:** Join within 30 days of receipt of appointment in the SCB form. Qualifying government work inside Odisha counts. No verified automatic no-posting release deadline.
 
-**Source IDs:** odisha-pg2026-guidelines
+**Source IDs:** odisha-pg2026-guidelines, mcc-700336-BM, odisha-postpg-guidelines2026
 
 ### Puducherry
 
-**Evidence:** Unresolved · Current MD/MS terms not established
+**Your AIQ route:** Campus / route unresolved · Current AIQ terms unresolved
+
+Separate a genuine state-government MD/MS AIQ seat from deemed paid seats and DNB. JIPMER MD/MS is an INI-CET route outside this MCC AIQ table. No current universal zero-year finding.
+
+**AIQ source IDs:** Unresolved
+
+**Wider state evidence:** Unresolved · Current MD/MS terms not established
 
 **Applies to:** State-government, private/deemed and central JIPMER are separate admission/employment systems.
 
@@ -264,7 +332,13 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Jharkhand
 
-**Evidence:** Older primary rule · 2018 resolution cited; 2026 continuation unconfirmed
+**Your AIQ route:** 3 years · older rule · College / older rule: confirm AIQ cohort
+
+RIMS Ranchi MCC-uploaded 2018 resolution. Confirm current RIMS/other state-college AIQ contract; this is not a rule for central AIIMS Deoghar.
+
+**AIQ source IDs:** mcc-700418-BM
+
+**Wider state evidence:** Older primary rule · 2018 resolution cited; 2026 continuation unconfirmed
 
 **Applies to:** RIMS Ranchi PG bond form; verify latest institution/state conditions.
 
@@ -284,11 +358,17 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Rajasthan
 
-**Evidence:** Primary form; cycle needs confirmation · SMS pack / specialty-value order: 2025–26
+**Your AIQ route:** 2 years · confirm cohort · College / older rule: confirm AIQ cohort
 
-**Applies to:** SMS Jaipur pack labels MD/MS service bond for AIQ and state-quota PG students. Values differ by specialty.
+Dr SN Jodhpur non-service form explicitly names AIQ. The page with five years is in-service. Values differ by branch; other campus/current relief orders require checking.
 
-**Service:** Duration not established from the specialty-value order; obtain current service undertaking.
+**AIQ source IDs:** mcc-700308-BM, mcc-sms-bond
+
+**Wider state evidence:** Primary form; cycle needs confirmation · SMS pack / specialty-value order: 2025–26
+
+**Applies to:** Dr SN Jodhpur undertaking expressly covers AIQ and state non-service MD/MS entrants in government, government-society and RUHS colleges; confirm each campus/current cohort.
+
+**Service:** Two years for AIQ/state non-service entrants, explicit in Dr SN Jodhpur service undertaking p.2. Five years on p.3 belongs to the separate in-service form.
 
 **Service default:** 2025 table: Radiodiagnosis/Dermatology/Medicine/OBG Rs1.5 crore; Ophthalmology/Paediatrics/General Surgery (and listed others) Rs1 crore; ENT/Radiation Oncology/Pathology/Nuclear Medicine/Palliative Medicine (and others) Rs50 lakh; Biochemistry/Pharmacology (and others) Rs25 lakh.
 
@@ -300,11 +380,17 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 **Posting / release:** Not established from the checked material; obtain the current college/order clause.
 
-**Source IDs:** mcc-sms-bond
+**Source IDs:** mcc-sms-bond, mcc-700308-BM
 
 ### Uttar Pradesh
 
-**Evidence:** Older primary rule · 2018 order cited; 2026 continuation unconfirmed
+**Your AIQ route:** 2 years · older rule · College / older rule: confirm AIQ cohort
+
+State government/autonomous colleges under the KGMU form citing the 2018 order. Central BHU/AMU, AIIMS and private/DNB are separate; geography does not transfer this bond.
+
+**AIQ source IDs:** mcc-700366-BM
+
+**Wider state evidence:** Older primary rule · 2018 order cited; 2026 continuation unconfirmed
 
 **Applies to:** KGMU form names state government/autonomous MD/MS institutions under the cited UP order.
 
@@ -324,7 +410,13 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Uttarakhand
 
-**Evidence:** Conflicting older forms · Mixed 2021–22 / 2017-linked schemes; 2026 unresolved
+**Your AIQ route:** 2 years · scheme dependent · Conditional subsidised-fee scheme
+
+Older undertaking expressly includes Central quota but links service to opting for subsidised tuition. Mixed Doon/Haldwani documents do not establish a universal current two-year obligation or exemption for full-fee seats.
+
+**AIQ source IDs:** mcc-700386-BM
+
+**Wider state evidence:** Conflicting older forms · Mixed 2021–22 / 2017-linked schemes; 2026 unresolved
 
 **Applies to:** Mixed MCC attachment contains a Doon 2021–22 form and a separate optional subsidised-fee scheme; it is not one clean current Haldwani policy.
 
@@ -344,13 +436,19 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### West Bengal
 
-**Evidence:** 2026 rule; terms incomplete · 2026
+**Your AIQ route:** 3 years · confirm AIQ cohort · College / older rule: confirm AIQ cohort
+
+Three years corroborated by 2026 open/non-service bulletin and Burdwan MCC bond. Confirm college AIQ cohort; open means non-in-service, not only UR reservation.
+
+**AIQ source IDs:** wb-pg2026-bulletin, mcc-700388-BM
+
+**Wider state evidence:** 2026 rule; terms incomplete · 2026
 
 **Applies to:** Open/non-in-service category under WBMCC clause 12, subject to government order and institution applicability.
 
 **Service:** PG degree: three years; PG diploma: two years is a separate qualification.
 
-**Service default:** Penalty as fixed by government; numeric service-default amount not established from this bulletin.
+**Service default:** Burdwan MCC form: Rs10 lakh per defaulting year; three wholly unserved years imply Rs30 lakh principal under that form. Current college formula/cohort must be confirmed; not a universal all-inclusive demand.
 
 **Course exit:** PG degree discontinuation Rs5 lakh; diploma Rs2 lakh. Bulletin says no DNB discontinuation bond at present; that does not establish no DNB post-course service bond.
 
@@ -360,11 +458,17 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 **Posting / release:** Not established from the checked material; obtain the current college/order clause.
 
-**Source IDs:** wb-pg2026-bulletin
+**Source IDs:** wb-pg2026-bulletin, mcc-700388-BM
 
 ### Chhattisgarh
 
-**Evidence:** Primary form; cycle needs confirmation · November 2025 gazette / 2025 joining form
+**Your AIQ route:** 2 years · 2025 form · College / older rule: confirm AIQ cohort
+
+Pt JNM Raipur form expressly includes AIQ/state, cites November 2025 gazette and fills admission year 2025. Confirm current form; do not apply to AIIMS Raipur.
+
+**AIQ source IDs:** mcc-raipur-bond
+
+**Wider state evidence:** Primary form; cycle needs confirmation · November 2025 gazette / 2025 joining form
 
 **Applies to:** Pt JNM Raipur form describes state/AIQ and general/reserved entrants to government MD/MS.
 
@@ -384,7 +488,13 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 
 ### Bihar
 
-**Evidence:** 2025 prospectus · 2025 with incorporated 2017/2019 resolutions
+**Your AIQ route:** 3 years · 2025 prospectus · College / older rule: confirm AIQ cohort
+
+State-government PG bonds in 2025 prospectus. Specified already-government-employed AIQ entrants have a 2019 exception; ordinary AIQ admission alone is not that exception.
+
+**AIQ source IDs:** bihar-pg2025
+
+**Wider state evidence:** 2025 prospectus · 2025 with incorporated 2017/2019 resolutions
 
 **Applies to:** State-government medical-college PG entrants covered by Annexure 4 resolutions.
 
@@ -410,6 +520,16 @@ A mixed-date evidence comparison, not a fully verified 2026 national bond schedu
 - **AIIMS campuses, JIPMER, PGIMER and other INIs:** Check the exact INI-CET Part B, admission-year joining contract and sponsorship status. State geography alone does not establish the INI obligation or exemption. No current blanket no-bond finding is made in this dataset.
 - **Maharashtra private unaided institutions:** 2026 clause 20.6 expressly prohibits post-PG service bonds within its scope. Course-exit/remaining-fee liabilities are separate; special trust/central/deemed contracts need independent checks.
 - **Private, deemed, charitable and DNB hospitals:** Check the exact quota and signed institutional contract. Some state terms extend beyond government campuses; Karnataka has a broad statutory form and MP form names private colleges. DNB is not automatically governed by an MD/MS table.
+- **Andhra Pradesh government colleges: State/CQ versus AIQ:** The current NTRUHS Annexure A is explicitly State/CQ, one year / Rs40 lakh. It does not establish that obligation for an AIQ entrant. Ask the chosen college for its AIQ service order; no positive AIQ exemption is claimed either.
+- **SVIMS Tirupati:** The AP prospectus expressly assigns SVIMS its own tuition, training, stipend, bonds and service norms. Do not substitute the general AP State/CQ rule or label it bond-free without the SVIMS current admission contract.
+- **Gandhi Secunderabad / Osmania Hyderabad:** MCC college bonds support one-year service if required. Gandhi form is 2025–26; Osmania service form is 2023–24. Confirm 2026–27 execution. A Rs50 lakh course-exit bond is distinct from Rs20 lakh MD/MS service liability.
+- **Kerala government colleges: conditional relief:** AIQ is expressly included in the one-year requirement. Qualifying regular government/PSU appointment can permit release if joining-time extension is refused, with documentary conditions. SS degree relief exists; fellowship/observership is excluded from that relief.
+- **Odisha private colleges / government pre- and para-clinical departments:** 2026 admission guideline J(5) excepts private colleges from that bond-submission clause. In government colleges, pre/para-clinical doctors are assigned to medical colleges rather than the peripheral rotation; this is a placement distinction, not abolition of the two-year bond.
+- **Dr SN Jodhpur / Rajasthan state and society colleges:** AIQ non-service undertaking specifies two years. Its separate 2026–27 five-year / Rs80 lakh form is for in-service candidates. SMS 2025 branch values range Rs25 lakh to Rs1.5 crore. Do not transfer an outdated flat Rs25 lakh to every branch or assume an unverified government-job waiver.
+- **BHU / AMU and other central institutions in Uttar Pradesh:** The UP state-college two-year bond is not evidence for a central university. BHU’s checked 2025 junior-resident agreement concerns the three-year training and course-exit damages; it is not an affirmative current no-service certificate. Obtain the central institution’s own contract.
+- **Uttarakhand government colleges: subsidised tuition option:** Older Central/state-quota undertaking links two years of hill service to a subsidised-fee option. Its separate Doon form has different financial terms. Obtain the chosen campus’s current full-fee and subsidised-fee terms; do not assign historical fees, penalties or a zero-year option to every campus.
+- **Bihar: already-government-employed AIQ entrants:** 2019 resolution describes a limited exception for AIQ entrants already employed by central/other-state government or an instrumentality. It is not an exemption for an ordinary applicant simply joining via AIQ.
+- **AFMS institutions / AFMC Pune: Priority-V civilian PG entrants:** Separate AFMS route in MCC bulletin: five years of Armed Forces service on Short Service Commission, subject to commissioning/medical and age conditions. The checked bond specifies Rs60.5 lakh plus applicable interest under its default triggers. Do not replace this with Maharashtra’s ordinary one-year bond.
 
 ## Written college confirmation checklist
 
@@ -488,9 +608,9 @@ SHA-256: 0890a351048bf8ad1073d165d0dbc5816cb3cbd168c140226ddc3b5892558e1e
 
 Dr NTR University of Health Sciences · 2026–27 · retrieved 2026-10-18
 
-PDF p.12 section 5; in-service pp.10–11; SVIMS p.18; exit p.19
+PDF p.29 Annexure A State/CQ-specific bond; p.12 section 5; in-service pp.10–11; SVIMS p.18; exit p.19
 
-Official publication. Section 13.2 has a PG Dental wording carryover in this medical prospectus. Exit amount is therefore not treated as an unqualified MD/MS confirmation; SVIMS has separate appended terms.
+Official publication. Annexure A explicitly limits the one-year bond to State/CQ seats: not verified AIQ scope or a positive AIQ exemption. Section 13.2 has a PG Dental wording carryover; SVIMS has separate terms.
 
 
 
@@ -530,7 +650,7 @@ SHA-256: 1df689a9c740a77488f712a7eec4c6671943e44120cbcd4b9cf61d4fb85b9682
 
 CEE / Government of Kerala · 2026 · retrieved 2026-10-18
 
-PDF pp.35–38 clauses 11–12; Annexure XV pp.74–76 and XVI pp.77–79
+Introduction; PDF pp.35–38 clauses 11–12, including explicit AIQ clause 11-1(b) and relief 11-1(c); Annexure XV pp.74–76 and XVI pp.77–79
 
 Official publication. Government-college annexures retain 2025–26 wording within the 2026 PDF. Obtain the current executed form. Private/self-financing applicability must be checked separately.
 
@@ -544,7 +664,7 @@ SHA-256: b6dd48ecccf79d21036602b544f25817307114e31ff09c2a7aa1d60ba9c60c77
 
 State CET Cell, Maharashtra · 2026 · retrieved 2026-10-18
 
-PDF p.47 clauses 20.3–20.7; private unaided circular Annexure X
+PDF p.47 clause 20.4 expressly covers AIQ/state, 20.5 permitted service, 20.6 private unaided exception; Annexure X
 
 Official publication. Private unaided exception has the exact scope of clause 20.6. Special institutions and in-service contracts require their own terms.
 
@@ -733,3 +853,115 @@ Official publication. Exit surety does not settle a separate post-PG service pol
 Page 1 visually reviewed: Rs3 lakh, non-joining/discontinuation/cancellation triggers.
 
 SHA-256: d061eac3a8f9149f895d5f2430946da171d585dcd27a1df7064de63a3b4263e2
+
+### mcc-bulletin2026
+
+[MCC NEET-PG counselling information bulletin 2026](https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610082121348550.pdf)
+
+Medical Counselling Committee / DGHS · 2026 · retrieved 2026-10-18
+
+PDF p.7 clause 2.14; p.41 DNB; p.57 FAQ 23; pp.119–122 AFMS bond
+
+Official publication. MCC counselling includes AIQ, central, deemed and DNB routes. AFMS Priority-V civilian service is a distinct route, not the ordinary state AIQ bond. PDF carries a draft-version label on its cover.
+
+
+
+SHA-256: c3fd152169d36fc74c6ac17ab40f66836e2eb5e877bf7b56b527529f25048564
+
+### mcc-700481-BM
+
+[Gandhi Medical College Secunderabad PG bond forms on MCC](https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700481&Type=BM)
+
+Gandhi Medical College / Telangana DME · 2025–26 college form on 2026 MCC portal · retrieved 2026-10-18
+
+PDF p.3 Annexure II, for all candidates; p.4 service sureties; pp.1–2 exit bond
+
+Official publication. College upload supports a one-year planning assumption for this AIQ college; the form is dated 2025–26. Obtain its 2026–27 replacement; it does not independently establish every Telangana campus contract.
+
+Page 3 visually checked: all candidates, one year as SR if required, within 18 months, Rs20 lakh MD/MS.
+
+SHA-256: 39c98e501441548ce34f8ee3efc20e6878d28343f398f8effbf48fad7bf5c6b9
+
+### mcc-700483-BM
+
+[Osmania Medical College PG bond forms on MCC](https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700483&Type=BM)
+
+Osmania Medical College / Telangana DME · 2023–24 form on 2026 MCC portal · retrieved 2026-10-18
+
+PDF pp.3–4 service agreement; p.1 separate Rs50 lakh exit undertaking
+
+Official publication. Historical college form; do not call its portal retrieval date the admission year. Supports the service obligation, not a verified 2026 signed contract.
+
+Pages 3–4 visually reviewed: 2023–24, one year for non-service candidates, Rs20 lakh PG degree / Rs10 lakh diploma; GO155 dated 18 November 2021.
+
+SHA-256: c7b90e8cb66d9c2de260a556c77c8cc43a4edf08092d0e947b46f635c52eb7db
+
+### mcc-700336-BM
+
+[SCB Medical College Cuttack government service bond on MCC](https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700336&Type=BM)
+
+SCB Medical College / Government of Odisha · Undated form on 2026 MCC portal · retrieved 2026-10-18
+
+PDF pp.1–3 Annexure A: two-year service, double-stipend default, higher study and qualifying work
+
+Official publication. Admission-year field is blank and AIQ is not named separately; this is a government-college form published for MCC candidates. Confirm current college execution. Not an Odisha private/deemed/central blanket rule.
+
+All three pages visually reviewed: two years after completion; default twice three years of stipend/salary; join within 30 days of appointment. Higher study temporarily suspends the bond; outside-state residency/fellowship excluded from that definition. Qualifying state-government work inside Odisha counts.
+
+SHA-256: e0eab29378165f9ee1abe494bfb91320244be72a3f9143c88246ad9318eae858
+
+### odisha-postpg-guidelines2026
+
+[Odisha post-PG bonded doctor placement notification](https://dmetodisha.in/POST_PG_Static/DOWNLOADSPGM_22/GUIDELINES FOR POST PG BOND SR DOCTORS_02_01_2026.pdf)
+
+Odisha Health & Family Welfare Department / DMET · Posted in January 2026 for the 2022 admission batch · retrieved 2026-10-18
+
+PDF p.1 clauses 1–5; two-year SR placement and one-year peripheral rotation
+
+Official publication. Placement guidance for a graduating cohort, not a standalone 2026 entrant contract. One-year peripheral deployment is within the two-year obligation; do not add it as a third year. Pre/para-clinical doctors are posted in medical colleges, not exempted from all service.
+
+
+
+SHA-256: 4879a5364cf3bf450f724c9ff932c7fe5c728674375d7c556d3b39ed7b218936
+
+### mcc-700308-BM
+
+[Dr SN Medical College Jodhpur AIQ/state PG service undertaking](https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700308&Type=BM)
+
+Dr SN Medical College / Government of Rajasthan · Mixed forms on 2026 MCC portal; non-service year blank · retrieved 2026-10-18
+
+PDF p.2 AIQ/state non-service undertaking clause 1; p.3 separate 2026–27 in-service form
+
+Official publication. Two years is explicit for non-service entrants. The five-year clause on p.3 is for in-service entrants. Four specialty-dependent default amounts are listed; obtain current branch allocation and any subsequent relief order.
+
+
+
+SHA-256: 32c800e03f4f29110318d3578150cc107e636fc86309504a28060ad7c4e77e79
+
+### mcc-700388-BM
+
+[Burdwan Medical College PG exit and service bond on MCC](https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700388&Type=BM)
+
+Burdwan Medical College / Government of West Bengal · Undated form citing 2013/2014 notifications · retrieved 2026-10-18
+
+PDF p.2 indemnity for non-sponsored trainees; p.1 separate exit undertaking
+
+Official publication. MCC college-upload evidence for AIQ planning; year blank and older orders cited. Current WBMCC bulletin corroborates three years but a current college AIQ contract still needs checking.
+
+Page 2 visually reviewed: three continuous years; Rs10 lakh for each defaulting year; names state medical teaching institutions and SR designation. Page 1 exit: Rs5 lakh degree / Rs2 lakh diploma.
+
+SHA-256: 1d49448163592ff63a80cbf1ac3821158ed1eeca62ac95dbc4ca24a10b1333fd
+
+### mcc-bhu-bond
+
+[BHU agreement for MD/MS/MDS junior residents on MCC](https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700323&Type=BM)
+
+Institute of Medical Sciences, Banaras Hindu University · 2025 agreement · retrieved 2026-10-18
+
+PDF pp.1–7, especially p.5 clause 12 course exit; full agreement checked
+
+Official publication. Three-year training appointment and Rs5 lakh course-exit damages. Silence on a separate post-PG service policy is not affirmative proof of exemption or zero years.
+
+
+
+SHA-256: 61c738aaebca9a3f5a64ac20a17f9d59dc833cc5de7ca994d3e816d90c48b08f

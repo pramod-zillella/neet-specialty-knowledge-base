@@ -124,16 +124,18 @@
   const careers = window.createCareerView({data,state,esc,subjects});
   const institutions = window.createInstitutionView({data,state,esc,render,go});
   const bonds = window.createBondView({data,state,esc,render});
+  const accreditations = window.createAccreditationView({data,state,esc,render});
   const institutionIds = new Set((data.institutions?.subjects || []).map(s=>s.id));
   const careerIds = new Set((data.careers?.branches || []).map(b=>b.subject_id));
   function render() {
-    document.querySelector('.workspace').classList.toggle('institution-workspace',['institutions','bonds'].includes(state.view));
+    document.querySelector('.workspace').classList.toggle('institution-workspace',['institutions','bonds','accreditations'].includes(state.view));
     document.querySelectorAll('[data-view]').forEach(button=>{if(button.dataset.view===state.view)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');});
-    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges,conclusions,careers,institutions,bonds}[state.view]||overview)();
+    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges,conclusions,careers,institutions,bonds,accreditations}[state.view]||overview)();
     topicSidebar();
   }
   function go(view,subject=state.subject) {
-    if(view==='bonds'){state.view=view;state.bondEvidence='';state.bondPriority='';const hash='#bonds';if(location.hash===hash){state.bondState='';render();}else location.hash=hash;return;}
+    if(view==='accreditations'){state.view=view;state.accFocus='';const hash='#accreditations';if(location.hash===hash)render();else location.hash=hash;return;}
+    if(view==='bonds'){state.view=view;state.bondEvidence='';state.bondPriority='';state.bondAiq='';const hash='#bonds';if(location.hash===hash){state.bondState='';render();}else location.hash=hash;return;}
     if(view==='institutions'){const id=institutionIds.has(subject)?subject:(state.shortlistBranch||'radiology');state.shortlistBranch=id;const hash=`#institutions/${id}`;state.view=view;if(location.hash===hash)render();else location.hash=hash;return;}
     if(view==='careers') {subject=careerIds.has(subject)?subject:'radiology';state.careerBranch=subject;}
     if(subjects.has(subject))state.subject=subject;
@@ -144,7 +146,11 @@
   }
   function readHash() {
     const [view,id,vid]=location.hash.slice(1).split('/');
-    state.view=['overview','summaries','compare','library','colleges','conclusions','careers','institutions','bonds'].includes(view)?view:'overview';
+    state.view=['overview','summaries','compare','library','colleges','conclusions','careers','institutions','bonds','accreditations'].includes(view)?view:'overview';
+    if(view==='accreditations'){
+      state.accFocus=data.accreditations.institutions.some(i=>i.id===id)?id:'';
+      if(state.accFocus){for(const key of ['accState','accBody','accCategory','accValidity','accEvidence','accMatrix','accPresence','accManagement','accQuery'])state[key]='';}
+    }
     if(view==='bonds')state.bondState=data.state_bonds.rows.some(r=>r.id===id)?id:'';
     if(subjects.has(id))state.subject=id;
     if(view==='institutions'){

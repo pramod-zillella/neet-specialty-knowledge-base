@@ -1,0 +1,19 @@
+﻿state,institution_records,matrix_records,supplied_2026_records,allotment_only_records,prior_profile_only,records_with_matched_evidence,records_without_confirmed_match,NMC_matched_institution_records,NBEMS_matched_institution_records,NABH_matched_institution_records,NABL_matched_institution_records,CAP_matched_institution_records,NQAS_matched_institution_records,NAAC_matched_institution_records,JCI_matched_institution_records
+Andhra Pradesh,142,96,88,46,0,89,53,17,67,21,10,0,0,0,0
+Bihar,75,62,62,13,0,40,35,10,33,11,3,0,0,0,0
+Chhattisgarh,51,39,39,12,0,39,12,3,33,23,2,0,0,0,0
+Delhi,129,92,87,36,1,98,31,8,83,53,35,0,3,0,3
+Goa,7,4,4,3,0,7,0,2,5,0,1,0,0,0,0
+Jharkhand,32,22,22,10,0,28,4,4,23,14,9,0,0,0,0
+Karnataka,244,173,164,71,0,183,61,33,143,79,23,1,0,8,2
+Kerala,167,118,116,49,0,145,22,17,123,78,23,0,0,1,7
+Madhya Pradesh,72,60,51,12,0,45,27,12,29,18,7,0,0,0,0
+Maharashtra,252,200,186,52,0,198,54,30,161,97,36,2,0,2,12
+Odisha,68,49,49,18,1,34,34,3,32,15,6,0,0,1,0
+Puducherry,14,11,11,2,1,10,4,2,6,4,3,0,0,1,0
+Rajasthan,125,93,88,32,0,71,54,10,51,37,9,0,0,0,2
+Tamil Nadu,246,178,170,66,2,198,48,32,146,89,34,0,0,3,3
+Telangana,163,115,99,47,1,122,41,13,105,44,10,0,0,0,3
+Uttar Pradesh,230,177,167,53,0,173,57,24,137,60,22,0,3,1,2
+Uttarakhand,22,16,15,6,0,14,8,1,8,10,0,0,0,0,0
+West Bengal,162,129,115,33,0,101,61,13,83,31,18,0,1,0,4
