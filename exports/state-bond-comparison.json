@@ -1,0 +1,780 @@
+{
+  "as_of": "2026-10-18",
+  "scope": "18 preferred states/UTs; ordinary non-in-service MD/MS planning with explicit qualification, quota and institution limits.",
+  "delhi_answer": "Do not assume Delhi is free of post-PG service bonds. MAMC circular dated 7 August 2025 expressly introduces one year / Rs20 lakh for PG entrants from 2025–26 onwards, AIQ and state quota. DU's 2026 Rs10 lakh surety is a separate course-exit bond. Other Delhi campuses need their own current authority/cohort check.",
+  "limitation": "A mixed-date evidence comparison, not a fully verified 2026 national bond schedule or a legal enforceability opinion. Unresolved terms remain unknown, never zero. Sources checked 18 October 2026; apply subsequent amendments.",
+  "definitions": [
+    "Service bond: work owed after successful completion. The quoted amount is a default liability, not an annual fee or a charge automatically payable by every graduate.",
+    "Exit bond: liability for non-joining, resignation or discontinuation at specified stages. This is separate from compulsory service and counselling security-deposit forfeiture.",
+    "A bank guarantee or surety secures an obligation. Do not add it again to the underlying bond amount. Do not automatically add service and exit penalties; their triggers and interaction need the executed contract.",
+    "AIQ/MCC admission does not itself exempt a candidate from the admitting institution's applicable state service bond. Central/INI, private/deemed, state government and DNB contracts must be checked separately.",
+    "This comparison concerns ordinary non-in-service MD/MS entrants unless a row says otherwise. Diploma, DNB/DrNB, direct six-year courses, sponsored and in-service obligations are not interchangeable.",
+    "An old form, missing upload or silent prospectus is not proof of no bond. A checked 2026 rule is an admission-cycle snapshot, not a guarantee of the rule when a future graduate finishes."
+  ],
+  "checks": [
+    "Obtain the latest government order, admission-year prospectus, corrigenda and the exact unsigned college bond before choice locking.",
+    "Confirm campus, qualification, branch, quota, admission year and whether any prior MBBS bond remains. Ask for the applicable clause in writing.",
+    "Confirm service duration, who posts you, location, specialty use, remuneration and whether a posting is guaranteed. A service obligation is not a guaranteed permanent government job.",
+    "Confirm maternity/medical leave, safety, housing, transfer and extension rules. Do not assume the service will be in Hyderabad or near home.",
+    "Confirm the deadline for offering/accepting a posting, release if no posting is made, and the process for obtaining a written discharge/NOC.",
+    "Confirm whether NEET-SS/INI-SS admission permits deferment, the bank guarantee required, and whether fellowship/observership has different treatment.",
+    "Confirm the financial formula: principal, pro-rata reduction, stipend/salary refund, interest, study expenditure and recovery costs. Ask how overlapping obligations interact.",
+    "Check exit dates, non-joining rules, remaining-course tuition, counselling deposit forfeiture and debarment separately.",
+    "Ask which originals, guarantees and sureties are requested and when they are released. A document describing retention is not an independent assessment of its legal enforceability.",
+    "Retain the signed contract and written answers. Recheck amendments before joining; seek qualified advice on an actual disputed demand."
+  ],
+  "rows": [
+    {
+      "id": "telangana",
+      "state": "Telangana",
+      "priority": "Primary",
+      "evidence_status": "2026 prospectus",
+      "admission_cycle": "2026–27 competent-authority admissions",
+      "applicability": "KNRUHS competent-authority PG entrants; non-in-service service clause. Obtain separate AIQ/management/deemed/central/DNB applicability.",
+      "service_years": 1,
+      "service_requirement": "One year in Telangana government institutions, if required by government.",
+      "service_default_principal_inr": 2000000,
+      "service_default_terms": "MD/MS degree bond Rs20 lakh; diploma Rs10 lakh is a different qualification.",
+      "course_exit_terms": "Rs50 lakh plus stipend/salary refund for failure to complete training; after free-exit date, Rs50 lakh and three-year KNRUHS PG counselling debarment stated separately.",
+      "exceptions_and_in_service": "In-service candidates have separate government-employment rules; not the default applicant category.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Not established from the checked material; obtain the current college/order clause.",
+      "source_ids": [
+        "ts-cq2026"
+      ]
+    },
+    {
+      "id": "andhra-pradesh",
+      "state": "Andhra Pradesh",
+      "priority": "Primary",
+      "evidence_status": "2026 prospectus",
+      "admission_cycle": "2026–27 competent-authority admissions",
+      "applicability": "Section 5 non-service PG entrants in checked CQ prospectus; confirm exact college/quota. SVIMS has its own appended terms.",
+      "service_years": 1,
+      "service_requirement": "One year of service, completed within 18 months after obtaining the PG degree.",
+      "service_default_principal_inr": 4000000,
+      "service_default_terms": "Rs40 lakh if not joining/completing the required service, citing GO251 of 2 October 2022.",
+      "course_exit_terms": "MQ prospectus states Rs3 lakh plus stipend refund and three-year debarment. CQ exit clause has a PG Dental wording carryover; obtain the correct MD/MS form.",
+      "exceptions_and_in_service": "In-service: ten years; Rs50 lakh plus pay/allowances and applicable interest. Do not apply this to ordinary entrants. MQ exit terms do not prove MQ post-PG service.",
+      "higher_studies": "In-service SS deferment is described; ordinary-entrant SS/fellowship deferral not established.",
+      "posting_and_release": "18 months is a service-completion window, not a verified automatic-release deadline if no posting is offered.",
+      "source_ids": [
+        "ap-cq2026",
+        "ap-mq2026"
+      ]
+    },
+    {
+      "id": "tamil-nadu",
+      "state": "Tamil Nadu",
+      "priority": "Primary",
+      "evidence_status": "2026 prospectus",
+      "admission_cycle": "2026–27",
+      "applicability": "Non-service candidates joining government medical colleges, explicitly including 50% AIQ.",
+      "service_years": 2,
+      "service_requirement": "Two years within three years after PG completion, if government requires services.",
+      "service_default_principal_inr": 4000000,
+      "service_default_terms": "Degree Rs40 lakh or proportionate unserved liability, plus specified interest from demand. Diploma Rs20 lakh separately.",
+      "course_exit_terms": "Discontinuation fee under clause 24(c) plus stipend received; timing and amount must be checked separately.",
+      "exceptions_and_in_service": "In-service candidates: service until superannuation; a separate five-year rule applies when less than five years remain. Private/deemed seats are not automatically covered by this government-college row.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Paid on par with fresh Tamil Nadu Medical Service recruits. Check posting, three-year window and written discharge; no guaranteed permanent appointment.",
+      "source_ids": [
+        "tn-gq2026"
+      ]
+    },
+    {
+      "id": "karnataka",
+      "state": "Karnataka",
+      "priority": "Primary",
+      "evidence_status": "2026 report + older primary forms",
+      "admission_cycle": "2026 reported order; 2024 forms checked",
+      "applicability": "Government-subsidised seats including AIQ in checked undertaking; separate broad one-year Act form includes private/deemed/NRI/management categories.",
+      "service_years": 3,
+      "service_requirement": "Three years for the government-seat obligation. The March 2026 report describes credit for a completed one-year statutory service, leaving two additional years.",
+      "service_default_principal_inr": 5000000,
+      "service_default_terms": "Degree Rs50 lakh under the three-year undertaking; diploma Rs25 lakh separately. Current order and exact quota/cohort require confirmation.",
+      "course_exit_terms": "Not established from the checked material; obtain the current college/order clause.",
+      "exceptions_and_in_service": "Do not add one year plus three years automatically. The older broad one-year form exempts candidates who already completed qualifying MBBS compulsory rural service; confirm current Act, rules and exemptions.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Reported contract posting through counselling against vacancies, not a permanent-job guarantee. Current 2026 original order remains a gap.",
+      "source_ids": [
+        "kar-kea-forms2024",
+        "kar-news"
+      ]
+    },
+    {
+      "id": "kerala",
+      "state": "Kerala",
+      "priority": "Primary",
+      "evidence_status": "2026 prospectus",
+      "admission_cycle": "2026",
+      "applicability": "General-merit/non-service government-medical-college PG entrants, including AIQ. Confirm private/self-financing seat applicability independently.",
+      "service_years": 1,
+      "service_requirement": "One continuous year immediately after completing the course, in the permitted government service roles.",
+      "service_default_principal_inr": 5000000,
+      "service_default_terms": "Rs50 lakh bond; prospectus also calls for stipend/salary, government study expenditure and specified interest for failure of service. Rs50 lakh is not a verified all-inclusive cap.",
+      "course_exit_terms": "Separate discontinuation bond and Rs50 lakh stray-vacancy damages provisions; do not treat these as the service obligation or automatically add all amounts.",
+      "exceptions_and_in_service": "In-service: ten years or up to superannuation, with separate salary-based damages. Annexures carry 2025–26 labels inside the 2026 PDF.",
+      "higher_studies": "Relief for recognised SS degree; combined specialty/SS bonded service capped at two years under the clause. This relief explicitly excludes fellowship/observership. Certain regular public-service appointments have documentary release conditions.",
+      "posting_and_release": "Clause 11-1(k): absolution if government cannot offer qualifying work within one year after course completion. Obtain written discharge. Maternity clause describes a maximum 18-month stipendiary period including up to six months maternity leave; confirm the resulting completion date.",
+      "source_ids": [
+        "kerala-pg2026"
+      ]
+    },
+    {
+      "id": "goa",
+      "state": "Goa",
+      "priority": "Primary",
+      "evidence_status": "Older primary rule",
+      "admission_cycle": "2020 amendment; 2026 continuation unconfirmed",
+      "applicability": "Goa Medical College PG degree/diploma under the cited Goa University admission rules.",
+      "service_years": 1,
+      "service_requirement": "2020 amendment changes PG government service from three years to one year.",
+      "service_default_principal_inr": 5000000,
+      "service_default_terms": "Rs50 lakh under the PG default/discontinuation clause. This is not the Rs1 crore neurosurgery superspecialty clause.",
+      "course_exit_terms": "The same PG amendment describes Rs50 lakh for resignation/discontinuation as well; obtain the operative contract and triggers.",
+      "exceptions_and_in_service": "Historical institutional/state rule; not every institution in Goa.",
+      "higher_studies": "Government may permit higher-study deferment with Rs10 lakh degree / Rs7 lakh diploma bank guarantee, valid one year beyond studies; report back within a month.",
+      "posting_and_release": "Not established from the checked material; obtain the current college/order clause.",
+      "source_ids": [
+        "mcc-700479-BM"
+      ]
+    },
+    {
+      "id": "maharashtra",
+      "state": "Maharashtra",
+      "priority": "Primary",
+      "evidence_status": "2026 prospectus",
+      "admission_cycle": "NEET-PG 2026",
+      "applicability": "Government/municipal-corporation PG colleges; expressly both AIQ and state quota.",
+      "service_years": 1,
+      "service_requirement": "One year social-responsibility service in a permitted employer category.",
+      "service_default_principal_inr": 5000000,
+      "service_default_terms": "Rs50 lakh for service default under clause 20.4.",
+      "course_exit_terms": "Unaided private/minority seat resignation after the prescribed date: three years' fees. Government and special-institution exit terms need their applicable clause.",
+      "exceptions_and_in_service": "Clause 20.6 expressly says private unaided institutions shall not impose post-PG service bonds. Do not extend that exception to all deemed, central, trust or DNB institutions. In-service one-year medical-college service is additional to applicable DHS obligations.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Clause 20.5 lists permitted government/public employers within Maharashtra and Defence. Special institutions require their own contract.",
+      "source_ids": [
+        "maha-pg2026-brochure"
+      ]
+    },
+    {
+      "id": "madhya-pradesh",
+      "state": "Madhya Pradesh",
+      "priority": "Primary",
+      "evidence_status": "Primary form; cycle needs confirmation",
+      "admission_cycle": "Form cites amendments through September 2025; year blank",
+      "applicability": "GMC Bhopal MCC form: state/AIQ MD/MS; the form also explicitly describes execution for private-college entrants.",
+      "service_years": 1,
+      "service_requirement": "Ordinary non-in-service entrant: one year rural service.",
+      "service_default_principal_inr": 1000000,
+      "service_default_terms": "Rs10 lakh ordinary-entrant rural-service default, as written in the checked form.",
+      "course_exit_terms": "Government MD/MS seat-leaving form: Rs30 lakh after the prescribed cutoff; private-college form describes course/remaining-course tuition. Separate from Rs10 lakh service bond.",
+      "exceptions_and_in_service": "In-service: five years / Rs50 lakh. Exact 2026 private college/seat scope and amendments require confirmation; private does not automatically mean exempt.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Not established from the checked material; obtain the current college/order clause.",
+      "source_ids": [
+        "mcc-700296-BM"
+      ]
+    },
+    {
+      "id": "delhi",
+      "state": "Delhi",
+      "priority": "Primary",
+      "evidence_status": "College-specific primary evidence",
+      "admission_cycle": "MAMC: 2025–26 onwards; DU exit form: 2026",
+      "applicability": "MAMC MD/MS, both AIQ and state quota, under its 7 August 2025 circular. Other Delhi institutions require their own current policies.",
+      "service_years": 1,
+      "service_requirement": "MAMC: minimum one year in GNCT Delhi health facilities immediately after course completion.",
+      "service_default_principal_inr": 2000000,
+      "service_default_terms": "MAMC PG service bond Rs20 lakh. Annexure has both 12% interest wording and a stated total-obligation cap; confirm the current PG-specific form rather than assuming an all-inclusive payable amount.",
+      "course_exit_terms": "DU MD/MS: separate Rs10 lakh surety for specified surrender, course-leaving or cancellation triggers. VMMC/GGSIPU undated form: separate Rs3 lakh exit surety; confirm year. These are not annual fees.",
+      "exceptions_and_in_service": "Delhi is not uniformly free of bonds. DU affiliation does not remove a college service circular. Do not export MAMC rules to AIIMS, central MoHFW colleges, UCMS, LHMC, VMMC or RML without their own authority/cohort evidence.",
+      "higher_studies": "No blanket SS/fellowship waiver established. MAMC also names SS students; verify deferment and any cumulative obligation for an MD/MS entrant.",
+      "posting_and_release": "MAMC notice states the minimum service and admission-year scope. Current written posting/pay/release conditions remain essential.",
+      "source_ids": [
+        "delhi-mamc-service-notice",
+        "du-pg2026",
+        "du-surety2026",
+        "mcc-700122-BM"
+      ]
+    },
+    {
+      "id": "odisha",
+      "state": "Odisha",
+      "priority": "Primary",
+      "evidence_status": "2026 rule; terms incomplete",
+      "admission_cycle": "2026–27",
+      "applicability": "DMET guideline J(5) requires a service bond except for candidates opting for private medical colleges.",
+      "service_years": null,
+      "service_requirement": "Service-bond submission confirmed; ordinary entrant's full duration not established from the checked operative terms.",
+      "service_default_principal_inr": null,
+      "service_default_terms": "Numeric post-PG default formula not established; do not substitute the Rs10 lakh exit penalty.",
+      "course_exit_terms": "J(3): Rs10 lakh plus stipend/salary refund; fees not refunded, under the specified exit conditions.",
+      "exceptions_and_in_service": "Private-college exception to J(5) is explicit. In-service M(4) two-year wording must not be used as proof of an ordinary entrant's duration. Central AIIMS and DNB require their own rules.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Not established from the checked material; obtain the current college/order clause.",
+      "source_ids": [
+        "odisha-pg2026-guidelines"
+      ]
+    },
+    {
+      "id": "puducherry",
+      "state": "Puducherry",
+      "priority": "Primary",
+      "evidence_status": "Unresolved",
+      "admission_cycle": "Current MD/MS terms not established",
+      "applicability": "State-government, private/deemed and central JIPMER are separate admission/employment systems.",
+      "service_years": null,
+      "service_requirement": "No current state/campus-specific post-MD/MS service rule verified in this research.",
+      "service_default_principal_inr": null,
+      "service_default_terms": "Not established from the checked material; obtain the current college/order clause.",
+      "course_exit_terms": "Not established from the checked material; obtain the current college/order clause.",
+      "exceptions_and_in_service": "No verified rule is not a finding of no bond. JIPMER uses its own INI-CET prospectus/contract; do not assume the UT government rule governs it.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Not established from the checked material; obtain the current college/order clause.",
+      "source_ids": []
+    },
+    {
+      "id": "jharkhand",
+      "state": "Jharkhand",
+      "priority": "Secondary",
+      "evidence_status": "Older primary rule",
+      "admission_cycle": "2018 resolution cited; 2026 continuation unconfirmed",
+      "applicability": "RIMS Ranchi PG bond form; verify latest institution/state conditions.",
+      "service_years": 3,
+      "service_requirement": "Three years government service in the checked RIMS form.",
+      "service_default_principal_inr": 3000000,
+      "service_default_terms": "Rs30 lakh plus stipend and other payments during the course under the checked service-default resolution.",
+      "course_exit_terms": "Non-joining/discontinuation clauses also contain Rs30 lakh liability; get separate exact trigger and repayment wording.",
+      "exceptions_and_in_service": "Do not assign this RIMS/state rule to AIIMS Deoghar or every private/DNB institution.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Form says bond ceases if state appointment is not made within six months after passing. Confirm the current rule and written discharge.",
+      "source_ids": [
+        "mcc-700418-BM"
+      ]
+    },
+    {
+      "id": "rajasthan",
+      "state": "Rajasthan",
+      "priority": "Secondary",
+      "evidence_status": "Primary form; cycle needs confirmation",
+      "admission_cycle": "SMS pack / specialty-value order: 2025–26",
+      "applicability": "SMS Jaipur pack labels MD/MS service bond for AIQ and state-quota PG students. Values differ by specialty.",
+      "service_years": null,
+      "service_requirement": "Duration not established from the specialty-value order; obtain current service undertaking.",
+      "service_default_principal_inr": null,
+      "service_default_terms": "2025 table: Radiodiagnosis/Dermatology/Medicine/OBG Rs1.5 crore; Ophthalmology/Paediatrics/General Surgery (and listed others) Rs1 crore; ENT/Radiation Oncology/Pathology/Nuclear Medicine/Palliative Medicine (and others) Rs50 lakh; Biochemistry/Pharmacology (and others) Rs25 lakh.",
+      "course_exit_terms": "Separate course-exit surety Rs10 lakh. A Rs1.5 lakh bank guarantee / Rs8.5 lakh surety split appears in the pack; it is not the branch-specific service bond.",
+      "exceptions_and_in_service": "The displayed service amounts are from a 2025 order, not a verified unchanged 2026 schedule. Do not use one statewide Rs25 lakh default for all branches.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Not established from the checked material; obtain the current college/order clause.",
+      "source_ids": [
+        "mcc-sms-bond"
+      ]
+    },
+    {
+      "id": "uttar-pradesh",
+      "state": "Uttar Pradesh",
+      "priority": "Secondary",
+      "evidence_status": "Older primary rule",
+      "admission_cycle": "2018 order cited; 2026 continuation unconfirmed",
+      "applicability": "KGMU form names state government/autonomous MD/MS institutions under the cited UP order.",
+      "service_years": 2,
+      "service_requirement": "Two years government service under the checked form.",
+      "service_default_principal_inr": 4000000,
+      "service_default_terms": "MD/MS Rs40 lakh; diploma Rs20 lakh separately.",
+      "course_exit_terms": "Not established from the checked material; obtain the current college/order clause.",
+      "exceptions_and_in_service": "Do not apply a state KGMU form automatically to central BHU, AIIMS or private/DNB institutions.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Historical order clause 2(6): release if not posted within three months of successful completion; it also describes deferment when selected for a higher course. Obtain current written rules before relying on either.",
+      "source_ids": [
+        "mcc-700366-BM"
+      ]
+    },
+    {
+      "id": "uttarakhand",
+      "state": "Uttarakhand",
+      "priority": "Secondary",
+      "evidence_status": "Conflicting older forms",
+      "admission_cycle": "Mixed 2021–22 / 2017-linked schemes; 2026 unresolved",
+      "applicability": "Mixed MCC attachment contains a Doon 2021–22 form and a separate optional subsidised-fee scheme; it is not one clean current Haldwani policy.",
+      "service_years": 2,
+      "service_requirement": "Both older schemes describe two years in government facilities in hilly areas, conditional on the applicable scheme.",
+      "service_default_principal_inr": null,
+      "service_default_terms": "Conflicting formulas: Doon 2021–22 Rs2.5 crore; subsidised-fee scheme full-course fees less fees paid plus compound interest. No single verified 2026 principal assigned.",
+      "course_exit_terms": "Discontinuation also has scheme-specific liability; obtain the actual current selected-fee-route contract.",
+      "exceptions_and_in_service": "Check whether service bond is linked to an optional subsidised tuition route and whether an earlier MBBS bond adds obligations. Do not use a historical amount as a current universal rule.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Not established from the checked material; obtain the current college/order clause.",
+      "source_ids": [
+        "mcc-700386-BM"
+      ]
+    },
+    {
+      "id": "west-bengal",
+      "state": "West Bengal",
+      "priority": "Secondary",
+      "evidence_status": "2026 rule; terms incomplete",
+      "admission_cycle": "2026",
+      "applicability": "Open/non-in-service category under WBMCC clause 12, subject to government order and institution applicability.",
+      "service_years": 3,
+      "service_requirement": "PG degree: three years; PG diploma: two years is a separate qualification.",
+      "service_default_principal_inr": null,
+      "service_default_terms": "Penalty as fixed by government; numeric service-default amount not established from this bulletin.",
+      "course_exit_terms": "PG degree discontinuation Rs5 lakh; diploma Rs2 lakh. Bulletin says no DNB discontinuation bond at present; that does not establish no DNB post-course service bond.",
+      "exceptions_and_in_service": "In-service TR rules are separate. Open category is not synonymous with unreserved caste category. Confirm private/deemed/AIQ and institution-specific scope before applying.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Not established from the checked material; obtain the current college/order clause.",
+      "source_ids": [
+        "wb-pg2026-bulletin"
+      ]
+    },
+    {
+      "id": "chhattisgarh",
+      "state": "Chhattisgarh",
+      "priority": "Secondary",
+      "evidence_status": "Primary form; cycle needs confirmation",
+      "admission_cycle": "November 2025 gazette / 2025 joining form",
+      "applicability": "Pt JNM Raipur form describes state/AIQ and general/reserved entrants to government MD/MS.",
+      "service_years": 2,
+      "service_requirement": "Two years of state government service in the checked form.",
+      "service_default_principal_inr": null,
+      "service_default_terms": "Principal penalty field is blank in the upload; stipend recovery is stated. Amount must be obtained from the applicable notification/category, not guessed.",
+      "course_exit_terms": "Not established from the checked material; obtain the current college/order clause.",
+      "exceptions_and_in_service": "Current admission year/category terms need confirmation; no automatic application to central AIIMS Raipur or private/DNB institutions.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Form clause 9 says bond automatically ceases if appointment order not issued within twelve months after the university completion information is received. Verify the precise current trigger and obtain discharge.",
+      "source_ids": [
+        "mcc-raipur-bond"
+      ]
+    },
+    {
+      "id": "bihar",
+      "state": "Bihar",
+      "priority": "Secondary",
+      "evidence_status": "2025 prospectus",
+      "admission_cycle": "2025 with incorporated 2017/2019 resolutions",
+      "applicability": "State-government medical-college PG entrants covered by Annexure 4 resolutions.",
+      "service_years": 3,
+      "service_requirement": "Three years under the state government after PG completion.",
+      "service_default_principal_inr": 2500000,
+      "service_default_terms": "Rs25 lakh plus salary received in the service period under the checked resolution; not a verified all-inclusive cap.",
+      "course_exit_terms": "Rs15 lakh plus stipend for leaving the PG course under the checked resolution.",
+      "exceptions_and_in_service": "2019 relief is for specified AIQ entrants already employed by central/other-state government or an instrumentality. It is not a general AIQ exemption. 2026 continuation must be checked.",
+      "higher_studies": "Not established from the checked material; obtain the current college/order clause.",
+      "posting_and_release": "Not established from the checked material; obtain the current college/order clause.",
+      "source_ids": [
+        "bihar-pg2025"
+      ]
+    }
+  ],
+  "institution_exceptions": [
+    {
+      "institution_group": "MAMC, Delhi",
+      "finding": "Positive service obligation, 2025–26 onwards: one year / Rs20 lakh for PG. DU Rs10 lakh exit surety is a separate obligation with different triggers.",
+      "source_ids": [
+        "delhi-mamc-service-notice",
+        "du-surety2026"
+      ]
+    },
+    {
+      "institution_group": "UCMS, LHMC and other DU-affiliated Delhi colleges",
+      "finding": "DU 2026 course-exit surety established. Exact separate GNCT/college service implementation and admission cohort still need their own current order; no blanket no-service label.",
+      "source_ids": [
+        "du-pg2026",
+        "du-surety2026"
+      ]
+    },
+    {
+      "institution_group": "VMMC/Safdarjung and ABVIMS/RML",
+      "finding": "VMMC/GGSIPU uploaded Rs3 lakh form concerns course exit. A current post-PG service determination for either institution is not established here; a RML DNB accreditation attachment is not a bond policy.",
+      "source_ids": [
+        "mcc-700122-BM"
+      ]
+    },
+    {
+      "institution_group": "AIIMS campuses, JIPMER, PGIMER and other INIs",
+      "finding": "Check the exact INI-CET Part B, admission-year joining contract and sponsorship status. State geography alone does not establish the INI obligation or exemption. No current blanket no-bond finding is made in this dataset.",
+      "source_ids": []
+    },
+    {
+      "institution_group": "Maharashtra private unaided institutions",
+      "finding": "2026 clause 20.6 expressly prohibits post-PG service bonds within its scope. Course-exit/remaining-fee liabilities are separate; special trust/central/deemed contracts need independent checks.",
+      "source_ids": [
+        "maha-pg2026-brochure"
+      ]
+    },
+    {
+      "institution_group": "Private, deemed, charitable and DNB hospitals",
+      "finding": "Check the exact quota and signed institutional contract. Some state terms extend beyond government campuses; Karnataka has a broad statutory form and MP form names private colleges. DNB is not automatically governed by an MD/MS table.",
+      "source_ids": [
+        "kar-kea-forms2024",
+        "mcc-700296-BM"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "delhi-mamc-service-notice",
+      "title": "MAMC compulsory service circular and forms, 7 August 2025",
+      "publisher": "Maulana Azad Medical College / GNCT Delhi",
+      "cycle": "2025–26 onwards",
+      "url": "https://medicaldialogues.in/pdf_upload/1326200011-297479.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "accbf835abbd79c79571fcdaa7490c761780b886a0ec40dcf992dc56dc5df6dc",
+      "locator": "Circular pp.1–2; bond pp.3–4; undertaking p.5; F.No.426(09)/2025/MC/ACA/13262",
+      "evidence_type": "Primary institutional document on a secondary host",
+      "short_anchors": [
+        "academic session 2025-26 onwards",
+        "immediately after completion of their course"
+      ],
+      "visual_review": "Page 1 visually checked: 07/08/25, one year, PG Rs 20,00,000 and AIQ/state scope.",
+      "limitation": "Primary institutional circular hosted by Medical Dialogues; original college-hosted copy was not accessible. The annexure mixes UG/PG wording and contains both 12% interest and a stated obligation cap; obtain the current PG-specific form."
+    },
+    {
+      "id": "du-pg2026",
+      "title": "DU MD/MS bulletin 2026–27",
+      "publisher": "Faculty of Medical Sciences, University of Delhi",
+      "cycle": "2026–27",
+      "url": "https://storage.googleapis.com/dudocsfmsc/1791803818376-1791371447114-BOI_2026.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "0c714d460b888c3f2d5de7ad554078c7ae89a6227b1382da8cbda833fc39aa86",
+      "locator": "PDF p.18, surety bond / surrender and discontinuation conditions",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "10.00 lacs"
+      ],
+      "visual_review": "",
+      "limitation": "Course-exit surety, not evidence that every DU-affiliated college has no service bond."
+    },
+    {
+      "id": "du-surety2026",
+      "title": "DU MD/MS/MDS surety form 2026",
+      "publisher": "Faculty of Medical Sciences, University of Delhi",
+      "cycle": "2026",
+      "url": "https://storage.googleapis.com/dudocsfmsc/1791364219273-SURETY_BOND_MD_MS_MDS__1_.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "908c116277b21de45ff93e6c5e4a018f6f1f0ba559b13fa87b7a3306b1d37aba",
+      "locator": "pp.1–2, circumstances triggering surety payment",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "10 LAKHS"
+      ],
+      "visual_review": "",
+      "limitation": "A separate college/government service policy may coexist."
+    },
+    {
+      "id": "ts-cq2026",
+      "title": "KNRUHS competent-authority PG prospectus",
+      "publisher": "KNRUHS, Telangana",
+      "cycle": "2026–27",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261014110317_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-PROSPECTUS.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "0890a351048bf8ad1073d165d0dbc5816cb3cbd168c140226ddc3b5892558e1e",
+      "locator": "PDF pp.21–22, admission clauses ii–iv; p.27 clause 18",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "Rs.20,00,000",
+        "for a period of one year",
+        "Rs.50,00,000"
+      ],
+      "visual_review": "",
+      "limitation": "Checked competent-authority prospectus. Do not extend this row to every management/deemed, central or DNB seat without the applicable rules."
+    },
+    {
+      "id": "ap-cq2026",
+      "title": "Dr NTRUHS competent-authority PG prospectus",
+      "publisher": "Dr NTR University of Health Sciences",
+      "cycle": "2026–27",
+      "url": "https://drntr.uhsap.in/index/notification/20261014153141837.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "f556af0eb30eb65e9a3362020881cbdafa4f782833b01fe44c2426440986c68d",
+      "locator": "PDF p.12 section 5; in-service pp.10–11; SVIMS p.18; exit p.19",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "maximum period of 18 months",
+        "penalty of Rs.40,00,000"
+      ],
+      "visual_review": "",
+      "limitation": "Section 13.2 has a PG Dental wording carryover in this medical prospectus. Exit amount is therefore not treated as an unqualified MD/MS confirmation; SVIMS has separate appended terms."
+    },
+    {
+      "id": "ap-mq2026",
+      "title": "Dr NTRUHS management-quota PG prospectus",
+      "publisher": "Dr NTR University of Health Sciences",
+      "cycle": "2026–27",
+      "url": "https://drntr.uhsap.in/index/notification/20261017182730260.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "76d09024182ea555bb91b4542f3b9cddd2aee939882bb6db27f24b128155a774",
+      "locator": "PDF p.18, course-discontinuation and stipend-refund clauses",
+      "evidence_type": "Official publication",
+      "short_anchors": [],
+      "visual_review": "",
+      "limitation": "Exit conditions do not independently establish a post-completion service requirement for management seats."
+    },
+    {
+      "id": "tn-gq2026",
+      "title": "Tamil Nadu government-quota PG prospectus",
+      "publisher": "Selection Committee, DME, Tamil Nadu",
+      "cycle": "2026–27",
+      "url": "https://tnmedicalselection.net/news/08102026235127.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "1df689a9c740a77488f712a7eec4c6671943e44120cbcd4b9cf61d4fb85b9682",
+      "locator": "PDF pp.28–30, clause 37; non-service and 50% AIQ conditions",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "2 years within the period of 3 years",
+        "₹40,00,000/-"
+      ],
+      "visual_review": "",
+      "limitation": "Non-service government-medical-college service conditions. Private/deemed contracts must not be inferred from the state label."
+    },
+    {
+      "id": "kerala-pg2026",
+      "title": "Kerala PG Medical prospectus",
+      "publisher": "CEE / Government of Kerala",
+      "cycle": "2026",
+      "url": "https://cee.kerala.gov.in/pgm2026/pdf/Prospectus.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "b6dd48ecccf79d21036602b544f25817307114e31ff09c2a7aa1d60ba9c60c77",
+      "locator": "PDF pp.35–38 clauses 11–12; Annexure XV pp.74–76 and XVI pp.77–79",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "not less than One year",
+        "within one year after completion of the course",
+        "Rs.50,00,000/-"
+      ],
+      "visual_review": "",
+      "limitation": "Government-college annexures retain 2025–26 wording within the 2026 PDF. Obtain the current executed form. Private/self-financing applicability must be checked separately."
+    },
+    {
+      "id": "maha-pg2026-brochure",
+      "title": "Maharashtra NEET-PG information brochure",
+      "publisher": "State CET Cell, Maharashtra",
+      "cycle": "2026",
+      "url": "https://statecetcell.s3.ap-south-1.amazonaws.com/2026/PGM/PGM-26_IB.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "a55a9985a49f21534382ed73d629952d276e1e4662dcb3bea9cbce60897ac7bf",
+      "locator": "PDF p.47 clauses 20.3–20.7; private unaided circular Annexure X",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "period of one year (Social",
+        "50,00,000/-",
+        "Bond Service shall not be imposed"
+      ],
+      "visual_review": "",
+      "limitation": "Private unaided exception has the exact scope of clause 20.6. Special institutions and in-service contracts require their own terms."
+    },
+    {
+      "id": "wb-pg2026-bulletin",
+      "title": "West Bengal PG medical counselling bulletin",
+      "publisher": "WBMCC / Department of Health & Family Welfare",
+      "cycle": "2026",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/10/2026101495338605.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "68ec1b97681a4ebc3b6bf7d55e5341fa1891e85b22d414d84b68d7101004aeb6",
+      "locator": "PDF p.4 clause 12, open-category degree/diploma and DNB distinction",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "bond period of 3 years",
+        "no discontinuation bond for DNB"
+      ],
+      "visual_review": "",
+      "limitation": "Numeric post-PG default penalty not established here. Open-category means non-in-service in this context, not only UR reservation. PDF has some 2025 carryover dates."
+    },
+    {
+      "id": "odisha-pg2026-guidelines",
+      "title": "Odisha PG Medical admission guidelines",
+      "publisher": "DMET Odisha",
+      "cycle": "2026–27",
+      "url": "https://dmetodisha.in/PGMCC_Static/DOWNLOADSPGM_22/Guidelines-for-admission-of-candidates-for-post-graduate-medical-courses-in-govt-and-private-medical-college-of-state-2026-27.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "5069ad296af592c9965c5354fdbff7d30a90cdc97ced5d3a5a06f99c4a614abc",
+      "locator": "PDF p.12 J(5), private-college exception; J(3) exit conditions; M(4) in-service terms",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "except those opting for seat in private medical colleges"
+      ],
+      "visual_review": "",
+      "limitation": "Current service-bond submission established, but the general entrant's full duration and default formula need the operative bond/order. Do not use the in-service two-year clause as general-entrant evidence."
+    },
+    {
+      "id": "mcc-700296-BM",
+      "title": "Gandhi Medical College Bhopal bond forms on MCC",
+      "publisher": "Gandhi Medical College / MP Medical Education",
+      "cycle": "Form cites amendments through 3 September 2025; retrieved in 2026",
+      "url": "https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700296&Type=BM",
+      "retrieved": "2026-10-18",
+      "document_sha256": "814579fe95367d6b516f54812a138b450531f09d731df57d0846a62a37dbb1f0",
+      "locator": "PDF p.1 rural-service form 2(kh); p.2 course-exit form 2(ka)",
+      "evidence_type": "Official publication",
+      "short_anchors": [],
+      "visual_review": "Both Hindi pages visually reviewed: ordinary entrant 1 year / Rs10 lakh, private-college execution clause; in-service 5 years / Rs50 lakh; government exit Rs30 lakh.",
+      "limitation": "Published form is useful primary evidence, but its admission-year field is blank. Confirm 2026 amendments and the exact private-college scope. MCC attachment availability is not a guarantee of currency."
+    },
+    {
+      "id": "mcc-700479-BM",
+      "title": "Goa Gazette, PG medical admission amendment",
+      "publisher": "Government of Goa / Goa Medical College",
+      "cycle": "9 April 2020 amendment",
+      "url": "https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700479&Type=BM",
+      "retrieved": "2026-10-18",
+      "document_sha256": "4fc36a0e71ed1cfd805d38513bc4e02951ac18c8b0e1aa973823da8e42206ce7",
+      "locator": "PDF pp.2–3, PG degree/diploma rule 6; exclude the separate neurosurgery amendment",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "words “one year”",
+        "50,00,000/-"
+      ],
+      "visual_review": "",
+      "limitation": "Historical primary rule, not independently confirmed as unchanged for 2026. Do not confuse PG Rs50 lakh with the separate SS Rs1 crore clause."
+    },
+    {
+      "id": "mcc-700418-BM",
+      "title": "Jharkhand bond resolution uploaded by RIMS on MCC",
+      "publisher": "RIMS / Government of Jharkhand",
+      "cycle": "2018 resolution",
+      "url": "https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700418&Type=BM",
+      "retrieved": "2026-10-18",
+      "document_sha256": "9632abc34e5e157069f800111aad10106b6bb5c94fa190f34fde141b3b6702c9",
+      "locator": "PDF pp.1–2; resolution 179(9), 24 April 2018",
+      "evidence_type": "Official publication",
+      "short_anchors": [],
+      "visual_review": "Both Hindi resolution pages visually reviewed: three years; Rs30 lakh plus stipend/other course payments; six-month appointment condition. Page 2 continues the resolution and records signature/date and document conditions.",
+      "limitation": "Historical primary resolution; current 2026 continuation/amendments not verified."
+    },
+    {
+      "id": "mcc-700366-BM",
+      "title": "KGMU government-service bond on MCC",
+      "publisher": "KGMU / Government of Uttar Pradesh",
+      "cycle": "7 March 2018 order cited",
+      "url": "https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700366&Type=BM",
+      "retrieved": "2026-10-18",
+      "document_sha256": "e6af0c63b44702b378c12cfc5562ab1d74d1b9bd20e0f1c19b6fc60bb58f5d2d",
+      "locator": "PDF p.1, order 950/71-2-82/2017; continuation pp.2–3",
+      "evidence_type": "Official publication",
+      "short_anchors": [],
+      "visual_review": "Page 1 visually reviewed: state government/autonomous MD/MS two years / Rs40 lakh; diploma Rs20 lakh.",
+      "limitation": "Historical state-college form. Does not automatically establish rules at central BHU or AIIMS, or private institutions."
+    },
+    {
+      "id": "mcc-700386-BM",
+      "title": "Uttarakhand mixed PG bond forms on MCC",
+      "publisher": "Uttarakhand government-college forms",
+      "cycle": "Mixed: 2021–22 form and subsidised-fee scheme referencing 2017 orders",
+      "url": "https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700386&Type=BM",
+      "retrieved": "2026-10-18",
+      "document_sha256": "ef3ea835fe9bd317828ed2fd035d916853bd5779fdf673d2eb33c756bb594a35",
+      "locator": "PDF pp.1–2 Doon form; pp.3 onward optional subsidised-fee bond",
+      "evidence_type": "Official publication",
+      "short_anchors": [
+        "2,50,00,000",
+        "subsidized tuition fees"
+      ],
+      "visual_review": "",
+      "limitation": "Attachment contains different colleges/schemes and conflicting financial formulas. Do not assign the 2021–22 Rs2.5 crore form to a 2026 Haldwani entrant."
+    },
+    {
+      "id": "mcc-sms-bond",
+      "title": "SMS Jaipur PG joining pack and specialty bond-value order",
+      "publisher": "SMS Medical College / Rajasthan Medical Education",
+      "cycle": "2025–26 joining pack; 1 September 2025 specialty-value order",
+      "url": "https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700327&Type=BM",
+      "retrieved": "2026-10-18",
+      "document_sha256": "f35c5915b076718181c1232b4bb3fc9034a715956e1e2e599ab4488697378e2b",
+      "locator": "PDF pp.7–10 exit/surety; p.11 MD/MS service-value table, continuation p.12",
+      "evidence_type": "Official publication",
+      "short_anchors": [],
+      "visual_review": "Pages 7–12 visually reviewed. Page 11: Radiodiagnosis/Dermatology/OBG/Medicine Rs1.5 crore; Ophthalmology/Paediatrics/General Surgery and others Rs1 crore; ENT/Radiation Oncology/Pathology/Nuclear Medicine and others Rs50 lakh; Biochemistry/Pharmacology and others Rs25 lakh.",
+      "limitation": "Service duration is not stated by this table. Current 2026 order and scheme-specific forms must be confirmed; Rs10 lakh elsewhere in this pack is an exit/surety amount."
+    },
+    {
+      "id": "mcc-raipur-bond",
+      "title": "Pt JNM Raipur compulsory service bond on MCC",
+      "publisher": "Chhattisgarh government / Pt JNM Medical College",
+      "cycle": "Gazette 7 November 2025; admission year filled as 2025",
+      "url": "https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700316&Type=BM",
+      "retrieved": "2026-10-18",
+      "document_sha256": "2cb6cfebaffa8e727c5650a60806b7757847ab536b10c31548b1fdbad2bfac51",
+      "locator": "PDF p.1 clauses 3,5,6,9; p.2 execution",
+      "evidence_type": "Official publication",
+      "short_anchors": [],
+      "visual_review": "Page 1 visually reviewed: AIQ/state quota, ordinary/reserved categories; two-year service; penalty amount is a blank; stipend recovery; twelve-month appointment clause.",
+      "limitation": "Cannot infer a single rupee amount from a blank field or mark this a verified 2026 contract."
+    },
+    {
+      "id": "bihar-pg2025",
+      "title": "Bihar PGMAC prospectus and government bond resolutions",
+      "publisher": "BCECEB / Bihar Health Department",
+      "cycle": "2025 prospectus incorporates 2017/2019 resolutions",
+      "url": "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_PGMAC25.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "abb494acc6c6903f7e8fc008fdd812d08ae09e3a1f065325dada005b7946170a",
+      "locator": "PDF pp.48–51 (printed pp.46–49), Annexure 4,4(i),4(ii)",
+      "evidence_type": "Official publication",
+      "short_anchors": [],
+      "visual_review": "All four annexure pages visually reviewed: government PG three-year service; Rs25 lakh plus salary received during service; exit Rs15 lakh plus stipend; 2019 relief for specified already-employed AIQ entrants.",
+      "limitation": "2026 continuation not independently checked. The special AIQ exception is for specified existing government/instrumentality employees, not all AIQ entrants."
+    },
+    {
+      "id": "kar-kea-forms2024",
+      "title": "KEA PG 2024 eligibility and bond forms",
+      "publisher": "Karnataka Examinations Authority",
+      "cycle": "2024",
+      "url": "https://medicaldialogues.in/pdf_upload/kea-bond-255589.pdf",
+      "retrieved": "2026-10-18",
+      "document_sha256": "9d92a9dd942a22632de198ce908075dbbc46859c59f6a3cb9ad7944d6a87cc43",
+      "locator": "PDF pp.14–15 Annexure 1; pp.16–17 Annexure 2",
+      "evidence_type": "Primary authority document on a secondary host",
+      "short_anchors": [
+        "three years after completion",
+        "50.00 lakh",
+        "one-year compulsory service"
+      ],
+      "visual_review": "",
+      "limitation": "Historical primary forms mirrored by Medical Dialogues. Separate one-year Act and three-year subsidised-government-seat obligations; do not simply add them to four years."
+    },
+    {
+      "id": "kar-news",
+      "title": "Karnataka service-order report, 27 March 2026",
+      "publisher": "Medical Dialogues",
+      "cycle": "Reported order 24 March 2026",
+      "url": "https://medicaldialogues.in/news/health/doctors/rs-50-lakh-penalty-3-year-govt-service-karnataka-pg-medical-bond-policy-167423",
+      "retrieved": "2026-10-18",
+      "document_sha256": "37b52d000c56faf9761850daeb6b6d241c8143af792364c8a6010ce2e939527a",
+      "locator": "Article body: scope, contract posts, three years and credit for prior service",
+      "evidence_type": "Dated secondary reporting",
+      "short_anchors": [
+        "24.3.2026",
+        "additional two years",
+        "RS 50 lakh"
+      ],
+      "visual_review": "",
+      "limitation": "Secondary reporting; operative 2026 government order not independently retrieved. Confirm exact college/seat/cohort and exemptions before relying on it."
+    },
+    {
+      "id": "mcc-700122-BM",
+      "title": "VMMC/GGSIPU course-exit surety on MCC",
+      "publisher": "VMMC / GGSIPU",
+      "cycle": "Undated form retrieved in 2026",
+      "url": "https://mcc.admissions.nic.in/Applicant/Handler/ViewInstituteProfileDynamic.ashx?boardId=140012621&InstituteId=700122&Type=BM",
+      "retrieved": "2026-10-18",
+      "document_sha256": "d061eac3a8f9149f895d5f2430946da171d585dcd27a1df7064de63a3b4263e2",
+      "locator": "PDF p.1 Annexure III, course-exit and non-joining triggers",
+      "evidence_type": "Official publication",
+      "short_anchors": [],
+      "visual_review": "Page 1 visually reviewed: Rs3 lakh, non-joining/discontinuation/cancellation triggers.",
+      "limitation": "Exit surety does not settle a separate post-PG service policy; exact current course/year must be confirmed."
+    }
+  ],
+  "counts": {
+    "states": 18,
+    "sources": 22,
+    "primary": 11,
+    "secondary": 7,
+    "full_2026_prospectus_rows": 5,
+    "service_amount_unresolved": 6
+  }
+}

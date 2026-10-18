@@ -1,0 +1,265 @@
+{
+  "as_of": "2026-10-18",
+  "method": "Public recorded interviews were checked against available automatic captions. Summaries are AI-assisted English paraphrases or translations; audio, speakers' credentials and present departmental conditions were not independently audited. All dates below are publication dates, not confirmed recording dates. These are a selective set of useful accounts, not an exhaustive search or a college ranking.",
+  "interpretation": "A named resident or alumnus can describe their own experience. A host repeating unnamed residents' comments is second-hand evidence. Coaching, counselling and friendship relationships are disclosed where visible; other sponsorship is not established. Cross-check important claims with current residents in different years, recent alumni and dated programme records. No review found means an evidence gap, not a poor programme.",
+  "items": [
+    {
+      "video_id": "jFSiHJqs2S4",
+      "subject_id": "ophthalmology",
+      "speaker": "Dr Anujeet Paul",
+      "role": "Recent MS Ophthalmology alumnus at the time of the interview",
+      "institution": "Mahatma Gandhi Medical College, Puducherry (identified in the interview; outside the focused 17)",
+      "account_type": "First-hand alumnus account",
+      "group": "firsthand",
+      "profile_ids": [],
+      "identity_basis": "Host and guest identify his recently completed MS and Puducherry college in the introduction and language discussion. The description links his own residency blog; this is attributable self-report, not independent credential verification.",
+      "relationship": "Doctor-led interview on Dr Aditya Sanjay Gupta's channel. Description links the guest's social accounts and blog; no independent conflict-of-interest audit.",
+      "review_scope": "Available caption text reviewed; selected passages summarised. English auto-captions contain errors. His emergency, lifestyle and regional comparisons are personal impressions and should not be generalised.",
+      "limitation": "Published in 2022. Does not establish the current department, a safe/toxic label or operating exposure at any of the focused 17 campuses. Historical instrument prices, salary claims and superspecialty eligibility claims are not used as current facts.",
+      "points": [
+        {
+          "title": "A steep microsurgical learning curve",
+          "start": 245,
+          "end": 340,
+          "anchor": "dexterity involved",
+          "summary": "He describes learning microscope use, depth perception and instrument handling, and warns that personal equipment can add to training costs.",
+          "question": "Can I try the wet lab, see the supervision plan and obtain the current compulsory instrument list and costs?",
+          "caveat": "His learning timeline and 2022 price examples are not universal requirements or current quotations.",
+          "source_url": "https://www.youtube.com/watch?v=jFSiHJqs2S4&t=245s",
+          "time_label": "4:05"
+        },
+        {
+          "title": "Language support should lead to independence",
+          "start": 587,
+          "end": 652,
+          "anchor": "learn at least",
+          "summary": "After moving from West Bengal to Tamil-speaking Puducherry, he recalls help from nurses, interns and students, while stressing that residents should learn patient-facing language themselves.",
+          "question": "For Tamil, Kannada or Malayalam settings, what induction and language help exists, and how soon must I independently take histories and counsel patients?",
+          "caveat": "One person's successful adjustment does not establish that a language barrier is negligible at every programme.",
+          "source_url": "https://www.youtube.com/watch?v=jFSiHJqs2S4&t=587s",
+          "time_label": "9:47"
+        }
+      ],
+      "title": "Ophthalmology Residency- In conversation with Dr. Anujeet Paul",
+      "channel": "Dr. Aditya Sanjay Gupta",
+      "published": "2022-06-18",
+      "url": "https://www.youtube.com/watch?v=jFSiHJqs2S4",
+      "language": "en",
+      "caption_type": "Automatic captions",
+      "reviewed_transcript_sha256": "13a733a13179aa9220c49d6e578de7bb70cb7f4686f743fd8b063bec8555c73a"
+    },
+    {
+      "video_id": "mrgqsobLyms",
+      "subject_id": "ent",
+      "speaker": "Dr Kiran (full name not established)",
+      "role": "Self-identified current MS ENT resident at publication",
+      "institution": "S.V. Medical College, Tirupati (self-reported; outside the focused 17)",
+      "account_type": "First-hand resident account",
+      "group": "firsthand",
+      "profile_ids": [],
+      "identity_basis": "Host introduces Dr Kiran; guest identifies her current MS ENT college at 0:38-0:56. Full surname, training year and independent enrolment confirmation are not established.",
+      "relationship": "Careers360 is a commercial education/counselling publisher; the description advertises counselling and its app.",
+      "review_scope": "Available caption text reviewed; selected passages translated/paraphrased. Spoken English is often represented phonetically in Hindi auto-captions. Ambiguous names and claims were excluded.",
+      "limitation": "A 2025 trainee's experience and preferences, not an audited review of S.V. Medical College or evidence that MS universally provides better operating exposure than DNB. Career, earnings and superspecialty assertions require separate official verification.",
+      "points": [
+        {
+          "title": "ENT residency includes emergency work",
+          "start": 116,
+          "end": 147,
+          "anchor": "हेक्टिक",
+          "summary": "She challenges the idea that ENT residency necessarily has a light workload, describing morning starts, OPD, operating lists and emergency duties including airway and injury cases.",
+          "question": "What is the actual monthly night-duty roster, post-call rest policy and emergency consultant backup?",
+          "caveat": "Her description does not quantify workload or verify the current roster of another institution.",
+          "source_url": "https://www.youtube.com/watch?v=mrgqsobLyms&t=116s",
+          "time_label": "1:56"
+        },
+        {
+          "title": "Equipment must support actual training",
+          "start": 226,
+          "end": 252,
+          "anchor": "इंस्ट्रूमेंट्स",
+          "summary": "She links a useful ENT training environment with diagnostic facilities and instruments that enable supervised surgical learning.",
+          "question": "Are endoscopy, microscopy and audiology facilities working, and what access do residents actually receive?",
+          "caveat": "Equipment availability alone does not prove resident access or procedural competence.",
+          "source_url": "https://www.youtube.com/watch?v=mrgqsobLyms&t=226s",
+          "time_label": "3:46"
+        },
+        {
+          "title": "Routine surgery before advanced-case advertising",
+          "start": 300,
+          "end": 343,
+          "anchor": "ब्रेड एंड बटर",
+          "summary": "She prioritises routine ear and nasal cases early in training, followed by broader head-neck, thyroid and complex-case experience as training progresses.",
+          "question": "Can current residents show year-wise performed/assisted/observed logs, rather than only department case totals?",
+          "caveat": "This is her training preference, not a guaranteed progression schedule or minimum case standard.",
+          "source_url": "https://www.youtube.com/watch?v=mrgqsobLyms&t=300s",
+          "time_label": "5:00"
+        }
+      ],
+      "title": "Life as a MS ENT Resident | NEET PG Aspirants’ Guide",
+      "channel": "Careers360",
+      "published": "2025-10-14",
+      "url": "https://www.youtube.com/watch?v=mrgqsobLyms",
+      "language": "hi",
+      "caption_type": "Automatic captions",
+      "reviewed_transcript_sha256": "c25d34daf957af13bbdeee7eaefb8ed3c5164b4c5ca2e64f12adc624b43a2c81"
+    },
+    {
+      "video_id": "dBYHnrU6Sq8",
+      "subject_id": "ophthalmology",
+      "speaker": "Dr Surbhi Jain",
+      "role": "DNB Ophthalmology resident; says she is about six months into training",
+      "institution": "Mohan Eye Institute, Delhi (identified by host and description; outside the focused 17)",
+      "account_type": "First-hand resident account",
+      "group": "firsthand",
+      "profile_ids": [],
+      "identity_basis": "Host names the guest and institute in the opening and description; guest describes being six months into residency around 4:26. Credentials and enrolment were not independently verified.",
+      "relationship": "The host explicitly introduces the guest as her best friend and undergraduate batchmate. A friendly interview may not elicit the same criticism as a confidential resident conversation.",
+      "review_scope": "All available English auto-caption text reviewed. Several code-switched passages are missing or garbled; only coherent passages are summarised. No full-audio verification is claimed.",
+      "limitation": "Published in 2023, from early training. Later operative competence, present faculty/culture and outcomes of the whole batch are not established. The named institute is an additional research lead, not a verified addition to the shortlist.",
+      "points": [
+        {
+          "title": "A resident's day extends beyond operating theatre",
+          "start": 99,
+          "end": 200,
+          "anchor": "come back home",
+          "summary": "She describes reaching hospital around 8, theatre preparation and surgery-related work, supervised OPD workups, next-day list preparation and returning home around 7-8 in the evening.",
+          "question": "What is the full workday including service tasks, academics and travel, and how much protected learning time remains?",
+          "caveat": "This is her described routine, not a verified duty roster or proof she independently performed the operations.",
+          "source_url": "https://www.youtube.com/watch?v=dBYHnrU6Sq8&t=99s",
+          "time_label": "1:39"
+        },
+        {
+          "title": "Early training has a substantial learning curve",
+          "start": 258,
+          "end": 280,
+          "anchor": "six months in my residency",
+          "summary": "At about six months into residency she describes beginning small surgical steps and finding the learning process challenging and rewarding.",
+          "question": "What supervised steps will I actually perform in the first year, and how is readiness for progression assessed?",
+          "caveat": "The captions do not support a precise procedure count or a conclusion about end-of-training competence.",
+          "source_url": "https://www.youtube.com/watch?v=dBYHnrU6Sq8&t=258s",
+          "time_label": "4:18"
+        },
+        {
+          "title": "Supportive culture is her personal report",
+          "start": 1054,
+          "end": 1077,
+          "anchor": "everybody takes care of you",
+          "summary": "She describes her small institute as a close group in which she feels cared for.",
+          "question": "Do other current women residents and recent alumni independently describe accessible help, reasonable leave and safe escalation?",
+          "caveat": "A positive account from one early resident interviewed by a friend is not proof that a department is free of mistreatment, then or now.",
+          "source_url": "https://www.youtube.com/watch?v=dBYHnrU6Sq8&t=1054s",
+          "time_label": "17:34"
+        }
+      ],
+      "title": "Unfiltered Ophthalmology Resident - Dr Surbhi Jain #inicet #neetpg #dnb #ophthalmology",
+      "channel": "Dr. Garima Verma , MD",
+      "published": "2023-06-06",
+      "url": "https://www.youtube.com/watch?v=dBYHnrU6Sq8",
+      "language": "en",
+      "caption_type": "Automatic captions",
+      "reviewed_transcript_sha256": "296ede963dffb0210b9706ddd7817203de6a1a647cdbdcb615ffccad954a489f"
+    },
+    {
+      "video_id": "VNlqt1NJErA",
+      "subject_id": "ent",
+      "speaker": "Dr Saloni (presenter; residents unnamed)",
+      "role": "Visitor reporting conversations with residents, not a self-identified trainee in this department",
+      "institution": "Sir Ganga Ram Hospital, New Delhi",
+      "account_type": "Second-hand resident feedback",
+      "group": "secondhand",
+      "profile_ids": [
+        "sgrh-delhi-ent-dnb"
+      ],
+      "identity_basis": "The presenter explicitly says at 0:11-0:30 that this is her opinion after visiting and talking to residents. No resident names, units, cohort or dated logbooks are supplied.",
+      "relationship": "Public college-review video by Dr Saloni. Independence, sponsorship and the resident sampling process are not established.",
+      "review_scope": "Full available English auto-caption text reviewed; only a bounded verification lead is retained.",
+      "limitation": "Uncorroborated 2025 second-hand report. Do not use its unsupported pass percentages, stipend, location description or toxicity allegation as established current facts. Institutional descriptions and visitor impressions measure different things.",
+      "points": [
+        {
+          "title": "Check current operating access and protected teaching",
+          "start": 41,
+          "end": 86,
+          "anchor": "regular classes",
+          "summary": "The presenter reports concerns attributed to unnamed residents about irregular teaching and limited primary operating opportunities, including later in training.",
+          "question": "Ask current residents in different years and a recent alumnus for dated primary-operator logs, the last academic timetable and how cases are allocated.",
+          "caveat": "This is a conflicting research lead, not a verified finding that the department is poor, unsafe or toxic. It does not justify a general conclusion about DNB.",
+          "source_url": "https://www.youtube.com/watch?v=VNlqt1NJErA&t=41s",
+          "time_label": "0:41"
+        }
+      ],
+      "title": "College Review Series : DNB ENT at Sir Gangaram Hospital, New Delhi. #neetpg",
+      "channel": "Dr. Saloni",
+      "published": "2025-02-13",
+      "url": "https://www.youtube.com/watch?v=VNlqt1NJErA",
+      "language": "en",
+      "caption_type": "Automatic captions",
+      "reviewed_transcript_sha256": "f0c7f76dbb596805576c899ec7c5b9a59a302b4a819b2831ba888d627eaf28d3"
+    },
+    {
+      "video_id": "1FN4bs5iQSo",
+      "subject_id": "ophthalmology",
+      "speaker": "Two newly choosing DNB applicants (names not reliably established from captions)",
+      "role": "Applicants/new entrants discussing their choice, not established residency experience",
+      "institution": "Several eye institutions considered; no single reviewed training campus established",
+      "account_type": "Applicant decision-process account",
+      "group": "lead",
+      "profile_ids": [],
+      "identity_basis": "At 0:27-0:37 the speakers say they have decided to take DNB Ophthalmology. Later claims about cutting are reports of what others told them.",
+      "relationship": "Dirty NEET PG channel; speakers describe a school-friend connection. Other commercial relationships are not established.",
+      "review_scope": "Full available English auto-caption text reviewed; decision-process advice retained, not claimed institutional outcomes.",
+      "limitation": "Published in 2022. Neither the title's rank range nor historical fees, programme lists or hearsay operating counts establish present eligibility or quality. Naming LV Prasad, Aravind or Sankara Nethralaya does not verify current campus-specific DNB availability.",
+      "points": [
+        {
+          "title": "Visit before relying on a reputation",
+          "start": 468,
+          "end": 495,
+          "anchor": "talk to some residents",
+          "summary": "They describe deciding to visit institutions and speak with residents before finalising choices.",
+          "question": "Can I visit the exact training campus and separately speak with residents in different years?",
+          "caveat": "Their planned visits and reports from other trainees do not establish their own completed training experience.",
+          "source_url": "https://www.youtube.com/watch?v=1FN4bs5iQSo&t=468s",
+          "time_label": "7:48"
+        }
+      ],
+      "title": "NEET PG Counselling - Why we chose DNB Ophthalmology at Rank 2-3k..",
+      "channel": "Dirty NEET PG",
+      "published": "2022-06-09",
+      "url": "https://www.youtube.com/watch?v=1FN4bs5iQSo",
+      "language": "en",
+      "caption_type": "Automatic captions",
+      "reviewed_transcript_sha256": "a0dd76920659b04cc7df4f528ff41c5be51960e38e7494d3654e3d66b3767f54"
+    },
+    {
+      "video_id": "_2trZjyLWuA",
+      "subject_id": "ent",
+      "speaker": "Dr Vyshnavi Jajee",
+      "role": "DNB ENT alumna identified in publisher description; training dates not established",
+      "institution": "Yashoda Hospital, Secunderabad; exact training unit/campus not resolved",
+      "account_type": "Alumna interview lead; unusable captions",
+      "group": "lead",
+      "profile_ids": [
+        "yashoda-secunderabad-ent-dnb"
+      ],
+      "identity_basis": "Publisher description names DNB ENT at Yashoda Hospital, Secunderabad. This is a city/institution lead only; it does not establish that she trained in the current SP Road programme or with its current faculty.",
+      "relationship": "Unacademy coaching session with subscription/referral promotions. Not an independent audit of Yashoda training.",
+      "review_scope": "Metadata checked and automatic captions sampled; captions are severely garbled. No substantive training claim or timestamped conclusion extracted. Requires manual audio review or a better transcript.",
+      "limitation": "Published in 2021. Useful as an attributable alumni-interview lead, not evidence of current surgical exposure, stipend or department culture. Do not infer a favourable review from the title.",
+      "points": [],
+      "title": "Life of an ENT Resident | Dr. Vyshnavi Jajee",
+      "channel": "Unacademy Live - NEET PG",
+      "published": "2021-05-04",
+      "url": "https://www.youtube.com/watch?v=_2trZjyLWuA",
+      "language": "hi",
+      "caption_type": "Automatic captions",
+      "reviewed_transcript_sha256": "3a53e602fd60a6cefd97161fee9ea9e8a8cb2e67aa33083cce379389fca875e3"
+    }
+  ],
+  "counts": {
+    "firsthand": 3,
+    "secondhand": 1,
+    "lead": 2,
+    "videos": 6,
+    "points": 10
+  }
+}

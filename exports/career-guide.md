@@ -409,7 +409,7 @@ Sources: [MD Pathology revised competency-based curriculum](https://nmc.org.in/s
 
 **Open evidence gaps**
 
-- Current INI-SS laboratory-specialty courses, institution-specific feeders and session seats have not been fully audited in this route file.
+- The separate INI-SS versus NEET-SS comparison audits January 2027 institute-specific Pathology feeder rules. INI session seat counts are not audited here; use the comparison and intended-session seat notices separately.
 - TMC catalogue options need their current specialty-specific advertisement; no live intake is inferred.
 - No national saturation measure or automatic income premium for a fellowship was established.
 

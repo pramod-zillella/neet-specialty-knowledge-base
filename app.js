@@ -122,13 +122,19 @@
   function collegeChecks(s) {return `<ul class="checklist">${s.college_checks.map(q=>`<li>${esc(q)}</li>`).join('')}<li>Verify current tuition, compulsory charges, stipend payment, bond terms, recognition and exit rules using dated official documents.</li><li>Speak independently with residents in different years; verify duty rosters, supervision, grievance support and the time available for learning.</li></ul><p class="route-note">${esc(s.route_note)}</p>`;}
   const conclusions = window.createConclusionsView({data,state,esc,time,subjects,episodes,videoReviews,visibleSubjects,getPersonal:()=>personal});
   const careers = window.createCareerView({data,state,esc,subjects});
+  const institutions = window.createInstitutionView({data,state,esc,render,go});
+  const bonds = window.createBondView({data,state,esc,render});
+  const institutionIds = new Set((data.institutions?.subjects || []).map(s=>s.id));
   const careerIds = new Set((data.careers?.branches || []).map(b=>b.subject_id));
   function render() {
+    document.querySelector('.workspace').classList.toggle('institution-workspace',['institutions','bonds'].includes(state.view));
     document.querySelectorAll('[data-view]').forEach(button=>{if(button.dataset.view===state.view)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');});
-    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges,conclusions,careers}[state.view]||overview)();
+    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges,conclusions,careers,institutions,bonds}[state.view]||overview)();
     topicSidebar();
   }
   function go(view,subject=state.subject) {
+    if(view==='bonds'){state.view=view;state.bondEvidence='';state.bondPriority='';const hash='#bonds';if(location.hash===hash){state.bondState='';render();}else location.hash=hash;return;}
+    if(view==='institutions'){const id=institutionIds.has(subject)?subject:(state.shortlistBranch||'radiology');state.shortlistBranch=id;const hash=`#institutions/${id}`;state.view=view;if(location.hash===hash)render();else location.hash=hash;return;}
     if(view==='careers') {subject=careerIds.has(subject)?subject:'radiology';state.careerBranch=subject;}
     if(subjects.has(subject))state.subject=subject;
     state.view=view;
@@ -138,12 +144,20 @@
   }
   function readHash() {
     const [view,id,vid]=location.hash.slice(1).split('/');
-    state.view=['overview','summaries','compare','library','colleges','conclusions','careers'].includes(view)?view:'overview';
+    state.view=['overview','summaries','compare','library','colleges','conclusions','careers','institutions','bonds'].includes(view)?view:'overview';
+    if(view==='bonds')state.bondState=data.state_bonds.rows.some(r=>r.id===id)?id:'';
     if(subjects.has(id))state.subject=id;
+    if(view==='institutions'){
+      state.shortlistBranch=institutionIds.has(id)?id:'radiology';
+      if(vid&&data.institutions.profiles.some(p=>p.id===vid&&p.subject_id===state.shortlistBranch)){
+        for(const key of ['shortlistAward','shortlistPriority','shortlistState','shortlistSector','shortlistRoute','shortlistQuery'])state[key]='';
+      }
+    }
     if(view==='conclusions'&&['advice','ratings','institutions'].includes(vid))state.conclusionTab=vid;
     if(view==='careers') {state.careerBranch=careerIds.has(id)?id:'radiology';state.subject=state.careerBranch;state.careerTab=['routes','seats','salary','shortlist'].includes(vid)?vid:'routes';}
     if(episodes.has(vid)){state.video=vid;const subject=subjects.get(state.subject);if(![...subject.episode_ids,...subject.related_episode_ids].includes(vid))state.summaryAll=true;}
     render();
+    if(view==='institutions'&&vid){const target=$('shortlist-'+vid);if(target){target.querySelector('.shortlist-detail').open=true;target.scrollIntoView({block:'start'});}}
   }
   function exportFile(name, value) { const blob=new Blob([JSON.stringify(value,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const link=document.createElement('a');link.href=url;link.download=name;link.click();setTimeout(()=>URL.revokeObjectURL(url),1000); }
   const stats=data.stats;

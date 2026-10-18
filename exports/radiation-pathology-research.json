@@ -1,0 +1,712 @@
+{
+  "as_of": "2026-10-18",
+  "headline": "Employers recruit both specialties; there is no defensible nationwide saturation verdict in the evidence checked.",
+  "answer": "Radiation Oncology has documented treatment-service expansion and advertised posts. Pathology has advertised hospital/academic and diagnostic-chain roles. These establish examples of hiring and investment, not the net number of specialist jobs created, a nationwide shortage, or a guaranteed first job after MD/DNB.",
+  "method": "Official recruitment notices, an employer's public job listings, corporate investor disclosures and the Union Budget were checked on 18 October 2026. This is a selective evidence review, not a systematic vacancy census, workforce study or salary survey. Publication dates and retrieval dates remain distinct. A listing may be filled, duplicated, withdrawn or recruiting a replacement; it is not necessarily a newly created job.",
+  "saturation_definition": "For this decision, saturation means difficulty obtaining suitable paid work in the locations and conditions you will accept. It must be assessed separately for fresh graduates, experienced specialists, permanent faculty, corporate employment and ownership. High disease burden, more tests, more PG seats and more machines do not by themselves measure unemployment or adequate remuneration.",
+  "sources": [
+    {
+      "id": "market-rbl-sr2026",
+      "cache_key": "market-rbl-sr2026",
+      "title": "AIIMS Raebareli rolling Senior Resident advertisement 2026/532",
+      "publisher": "AIIMS Raebareli",
+      "url": "https://aiimsrbl.edu.in/public/recruitments%5Cdownload%5C124",
+      "published": "2026-09-25",
+      "retrieved": "2026-10-18",
+      "locator": "PDF pages 1-3: vacancy matrix rows 23 and 31; qualifications, pay and appointment terms",
+      "anchor": "Pathology & Lab medicine 0 0 1 1 0 2",
+      "evidence": "Two Pathology & Lab Medicine and two Radiotherapy/Radiation Oncology SR vacancies. In each specialty the matrix has one SC and one ST post, no UR/OBC/EWS posts. Broad-specialty eligibility is the concerned MD/MS/DNB or equivalent. Initially six months on an ad-hoc basis, extendable at institute discretion. Level 11 minimum basic INR 67,700 plus NPA as specified; not take-home pay or a permanent appointment.",
+      "limits": "Historical advertised position, not a confirmed vacancy on the day of application. Counts/categories may be revised. No inference that posts are newly sanctioned or that this applicant is eligible. Temporary SR work is not permanent consultant employment.",
+      "document_sha256": "524898350ca5563c5263b72187479dad7b531bd28010ac5374950922417908d8"
+    },
+    {
+      "id": "market-metropolis-jobs",
+      "cache_key": "market-metropolis-jobs",
+      "title": "Metropolis Healthcare official careers job listings",
+      "publisher": "Metropolis Healthcare",
+      "url": "https://www.metropolisindia.com/careers/jobs",
+      "published": null,
+      "retrieved": "2026-10-18",
+      "locator": "Job IDs 00062/00060 (Raipur) and 00061 (Patna), all displayed 07 September 2026",
+      "anchor": "7.1-10 Years",
+      "evidence": "Pathologist-Full Time roles in Raipur and Patna display 7.1-10 years' experience and MBBS plus MD/DNB Pathology or MD/DNB Microbiology. Pay is Not Disclosed; an employment field says full time/part time despite the title. Laboratory management, quality and technical responsibilities are described.",
+      "limits": "These are experienced-role advertisements, not fresh-MD openings. Similar Raipur listings may duplicate the same requirement, so no unique job total is inferred. The page itself is undated; the cited date is displayed on the individual listings. Current availability, selection and realised pay are unconfirmed.",
+      "document_sha256": "cf84998ac7d44c78c2590958a764d9aaecae55ba39c75021447c7d3774245822"
+    },
+    {
+      "id": "market-hcg-q1fy27",
+      "cache_key": "market-hcg-q1fy27",
+      "title": "HCG investor presentation, Q1 FY2027",
+      "publisher": "HealthCare Global Enterprises",
+      "url": "https://www.hcgoncology.com/uploads/ir/Investor%20Presentation%20-%20Aug%2006,%202026.pdf",
+      "published": "2026-08-06",
+      "retrieved": "2026-10-18",
+      "locator": "Operational/capacity expansion updates: North Bangalore and Rajkot; use PDF search for MR Linac",
+      "anchor": "MR Linac commissioned in July 2026",
+      "evidence": "Management reports North Bangalore operational from May 2026, MR-LINAC commissioning in July 2026, and operationalisation of a LINAC in Rajkot. These are examples of actual service expansion as reported by the operator, distinct from future project plans.",
+      "limits": "Corporate self-report, not independent verification of commissioning or training access. A new machine may be an upgrade or use existing staff; neither machine count nor total oncologists measures net Radiation Oncology physician jobs. Fiscal Q1 FY2027 is April-June 2026; the July commissioning is a later update in the August presentation.",
+      "document_sha256": "bbce67322cda4fa1ae9f0bc3d871ec4724b17dd076dc1ca339773f44bf323739"
+    },
+    {
+      "id": "market-hcg-q1fy27-call",
+      "cache_key": "market-hcg-q1fy27-call",
+      "title": "HCG Q1 FY2027 earnings-call transcript filed 10 August 2026",
+      "publisher": "HealthCare Global Enterprises",
+      "url": "https://www.hcgoncology.com/uploads/ir/Intimation%20on%20Earnings%20Call%20Transcript%20-%2010082026.pdf",
+      "published": "2026-08-10",
+      "retrieved": "2026-10-18",
+      "locator": "PDF page 6 (transcript page 5), North Bangalore discussion beginning We have onboarded key doctors",
+      "anchor": "We have onboarded key doctors",
+      "evidence": "In the North Bangalore discussion management says key doctors have been onboarded and that the MR-LINAC was commissioned in July. This links a new service with recruitment activity, beyond an equipment announcement alone.",
+      "limits": "No number, specialty split, fresh-graduate intake or net additional Radiation Oncology posts is given. The named doctors may include other oncology specialties or transfers. The comment describes onboarding already completed, not an open vacancy. Publication is the filing date, not necessarily the call date.",
+      "document_sha256": "ff8bce86c52864e02b6004040fd78e16b7d6ede053b5540d224ff1d38b103094"
+    },
+    {
+      "id": "market-budget-2025",
+      "cache_key": "market-budget-2025",
+      "title": "Union Budget 2025-26 speech: Day Care Cancer Centres",
+      "publisher": "Government of India, Ministry of Finance",
+      "url": "https://www.indiabudget.gov.in/budget2025-26/doc/budget_speech.pdf",
+      "published": "2025-02-01",
+      "retrieved": "2026-10-18",
+      "locator": "Paragraph 48, printed page 9 / PDF page 13",
+      "anchor": "200 Centres will be established",
+      "evidence": "The budget proposes day-care cancer centres in district hospitals over three years, with 200 in 2025-26.",
+      "limits": "A policy commitment is not a verified operational centre or sanctioned specialist vacancy. Day-care cancer care does not imply that each site has radiotherapy equipment or a Radiation Oncologist post. This announcement is not counted as 200 Radiation Oncology jobs.",
+      "document_sha256": "6448cfdea5152338a1134cae3cc98ca8941e8ebc1bfa8479e091e5a803a356b0"
+    },
+    {
+      "id": "rad-nmc-md",
+      "title": "Competency-based postgraduate training programme for MD in Radiotherapy",
+      "publisher": "National Medical Commission",
+      "url": "https://www.nmc.org.in/storage/new/MD-Radiotherapy.pdf",
+      "published": null,
+      "retrieved": "2026-10-17",
+      "locator": "PDF pp1-6: preamble, competencies and practical skills; later curriculum sections",
+      "evidence": "The curriculum describes a three-year MD, comprehensive cancer assessment and radiotherapy, combined practice with anti-cancer chemotherapy, multidisciplinary care, palliation, communication, research and teaching. Clinical skills include planning and brachytherapy.",
+      "limits": "Undated curriculum copy, retrieved from the official NMC postgraduate-curricula link. Educational objectives are not evidence of current job availability, unrestricted procedure privileges or a DM Medical Oncology qualification."
+    },
+    {
+      "id": "route-a-curriculum-pathology",
+      "title": "MD Pathology revised competency-based curriculum",
+      "publisher": "National Medical Commission",
+      "url": "https://nmc.org.in/storage/new/MD_Pathology_(revised).pdf",
+      "published": "2022-11-02",
+      "retrieved": "2026-10-17",
+      "locator": "PDF page(s): 2, 3",
+      "evidence": "nd processing, and diagnosis related to histopathology (surgical pathology), cytopathology, and hematology with reasonable working knowledge in blood banking, laboratory medicine, medical statistics, and ancillary techniques with understanding of general principles and methodology. The purpose of this document is to provide teachers and learners illustrative guidelines to achieve defined outcomes through learning and assessment. This document was prepared by various subject-content specialists. The Reconciliation Board cum Expert group of NMC has attempted to render uniformity withou [...] d accidents to laboratory personnel. 2. Teaching and training 2.1.Should be able to teach Pathology to undergraduates, postgraduates, nurses and paramedical staff including laboratory personnel. 2.2.The postgraduate student should be able to teach effecti vely and assess undergraduate medical and allied health science students so that they become competent healthcare professionals. 3. Research 3.1.Plan, execute, analyze, and present research work independently or as part of a team. 3.2.The postgraduate student in Pathology should acquire knowledge and skills to be able to conduct a research project from the planning to the publicati",
+      "limits": "Competency/training scope, not a vacancy survey, job guarantee, automatic faculty appointment, or blanket procedure privilege. Admission feeder rules in an older curriculum do not override the current entrance bulletin."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "sr-recruitment",
+      "subjects": [
+        "radiation-oncology",
+        "pathology"
+      ],
+      "label": "Dated official recruitment",
+      "finding": "AIIMS Raebareli advertised two SR positions in each specialty on 25 September 2026, initially for six months. Each specialty's listed posts were one SC and one ST.",
+      "meaning": "Direct evidence that employers advertise work for these qualifications, with important tenure and eligibility limits.",
+      "does_not_show": "Permanent jobs, net new posts, present availability, eligibility for this applicant or a national shortage.",
+      "source_ids": [
+        "market-rbl-sr2026"
+      ]
+    },
+    {
+      "id": "rad-expansion",
+      "subjects": [
+        "radiation-oncology"
+      ],
+      "label": "Reported operating-service expansion",
+      "finding": "HCG reports North Bangalore opening in May 2026, MR-LINAC commissioning in July, and key doctors onboarded; it also describes a LINAC operationalised at Rajkot.",
+      "meaning": "A concrete example of an expanding cancer-service network and recruitment activity.",
+      "does_not_show": "A count of net new Radiation Oncologist jobs, an open position, graduate hiring or automatic demand per machine.",
+      "source_ids": [
+        "market-hcg-q1fy27",
+        "market-hcg-q1fy27-call"
+      ]
+    },
+    {
+      "id": "path-chain-jobs",
+      "subjects": [
+        "pathology"
+      ],
+      "label": "First-party private-sector advertisements",
+      "finding": "Metropolis lists Pathologist roles in Raipur and Patna dated 7 September 2026; they ask for 7.1-10 years' experience and disclose no salary.",
+      "meaning": "Evidence of diagnostic-chain hiring for experienced professionals, including cities outside the largest metros.",
+      "does_not_show": "Fresh-graduate demand, realised pay, unique job counts, new rather than replacement posts or availability in Hyderabad.",
+      "source_ids": [
+        "market-metropolis-jobs"
+      ]
+    },
+    {
+      "id": "budget-not-jobs",
+      "subjects": [
+        "radiation-oncology",
+        "pathology"
+      ],
+      "label": "Policy pipeline, not counted as vacancies",
+      "finding": "Budget 2025-26 proposed 200 district day-care cancer centres in that year, within a three-year programme.",
+      "meaning": "A reason to monitor implementation and sanctioned staffing, rather than infer jobs from an announcement.",
+      "does_not_show": "200 functioning radiotherapy units or 200 Radiation Oncologist posts; day-care provision and radiotherapy are not interchangeable.",
+      "source_ids": [
+        "market-budget-2025"
+      ]
+    }
+  ],
+  "comparison": [
+    {
+      "aspect": "Where work can exist",
+      "radiation-oncology": "Primarily functioning cancer/radiotherapy centres, teaching hospitals and funded research/services.",
+      "pathology": "Hospital departments, diagnostic/reference laboratories, laboratory chains, medical colleges and funded research/services.",
+      "basis": "Practice-setting comparison based on curricula and the observed employers; not a counted job market."
+    },
+    {
+      "aspect": "Location flexibility",
+      "radiation-oncology": "Potential employers are constrained by radiation infrastructure, approved services, staffing and referral activity.",
+      "pathology": "There are more types of potential workplace, but laboratories may consolidate reporting centrally; a collection centre is not a pathologist post.",
+      "basis": "Editorial structural assessment; not evidence of better employment odds in a given city."
+    },
+    {
+      "aspect": "Fresh MD/DNB entry",
+      "radiation-oncology": "Supervised SR or associate work can consolidate planning, procedures and clinical decisions; consultant independence must match competence.",
+      "pathology": "Supervised hospital/SR work can build sign-out judgement and breadth before sole responsibility; experienced chain jobs may not admit new graduates.",
+      "basis": "Training-based advice. Temporary SR appointments and permanent employment are separate."
+    },
+    {
+      "aspect": "Independent practice",
+      "radiation-oncology": "A consulting room alone cannot deliver radiotherapy; access to a functioning treatment facility and appropriate privileges is essential.",
+      "pathology": "Ownership is possible, but a compliant, quality-assured laboratory needs capital, staff, equipment and viable sample/referral economics.",
+      "basis": "Editorial business-setting comparison, not a promise of profits or a complete licensing guide."
+    },
+    {
+      "aspect": "What can make a graduate useful",
+      "radiation-oncology": "Supervised clinical judgement, contouring/plan review, brachytherapy, toxicity management, teamwork and follow-up.",
+      "pathology": "Accurate supervised histology/cytology/haematology reporting, clinicopathologic correlation, IHC/flow/molecular interpretation and quality systems.",
+      "basis": "Curriculum-linked competence priorities. A fellowship title alone does not prove these skills or guarantee higher pay."
+    },
+    {
+      "aspect": "Competition to investigate",
+      "radiation-oncology": "Few acceptable centres in a chosen city, small teams, slow permanent recruitment, weak new-centre referral volumes and contractual dependence.",
+      "pathology": "Desirable-city competition, limited independent reporting responsibility, laboratory price pressure and concentration of reporting at reference hubs.",
+      "basis": "Plausible mechanisms to test locally, not measured prevalence or proof of nationwide saturation."
+    },
+    {
+      "aspect": "AI and technology",
+      "radiation-oncology": "Planning automation may change tasks and productivity; no job-loss percentage or protected-career guarantee is established.",
+      "pathology": "Digital pathology and AI may alter reporting workflows and productivity; no reliable graduate-employment forecast is established here.",
+      "basis": "Uncertainty, not a forecast. Neither AI immunity nor imminent elimination is assumed."
+    }
+  ],
+  "branches": {
+    "radiation-oncology": {
+      "verdict": "I would retain it as a serious option for someone who wants cancer care, imaging-based planning and sustained patient contact. I would be cautious if employment in Hyderabad alone, easy independent setup or predictable permanent placement is essential.",
+      "opportunity": "The checked evidence supports service expansion and recruitment examples. It does not establish how many suitable roles a new graduate will obtain or a countrywide shortage.",
+      "priorities": [
+        "Prioritise real resident contouring, supervised plan review and brachytherapy over machine branding.",
+        "Check current medical-physics staff, approvals, uptime and backup; repeat treatment fractions are not unique patients or resident learning encounters.",
+        "Ask the last three batches where they actually work, how long the first job took, whether a move was necessary and what supervision was available.",
+        "For a proposed new-centre job, verify commissioning, staffing, funding, referral activity and the contract rather than rely on a planned machine."
+      ],
+      "personal_fit": "Your Telugu/Hindi/English helps locally, but cancer care includes counselling, consent, toxicity and end-of-life conversations. At Tamil/Kannada/Malayalam sites, verify language induction and support. Ask women residents about late cover, travel, leave and accessible escalation; no safety/toxicity score is inferred.",
+      "source_ids": [
+        "rad-nmc-md",
+        "market-rbl-sr2026",
+        "market-hcg-q1fy27",
+        "market-hcg-q1fy27-call"
+      ]
+    },
+    "pathology": {
+      "verdict": "I would retain it if you enjoy diagnostic uncertainty, microscopy, laboratory medicine and communicating results with treating teams. It offers a broader variety of potential workplace settings, but this does not prove a higher chance of a good Hyderabad job or easier entrepreneurship.",
+      "opportunity": "Hospital and diagnostic-chain roles exist in the checked evidence. The private examples are experienced posts; do not use them as a promise of fresh-MD placement or salary.",
+      "priorities": [
+        "Compare cases personally previewed, discussed and reported under supervision, not total test counts or machine throughput.",
+        "Prefer a balanced foundation: histology, cytology, haematology and quality systems, with real IHC/flow/molecular interpretation where available.",
+        "At a cancer-only programme, confirm rotations cover non-oncology pathology and other core curriculum areas.",
+        "Ask whether alumni obtain reporting responsibility and senior backup, rather than a nominal signing role; never accept unsupervised responsibility beyond competence.",
+        "Before paying for a fellowship, identify the skills and jobs it genuinely enables; lab-owner turnover is not personal salary or profit."
+      ],
+      "personal_fit": "Hospital teams and laboratory networks can use your Telugu/Hindi/English, but language remains relevant for FNAC, marrow work, patient explanations and clinical liaison. Ask women residents about out-of-hours work, hostel/transport, leave and supportive supervision; do not assume every laboratory job has fixed daytime hours.",
+      "source_ids": [
+        "route-a-curriculum-pathology",
+        "market-rbl-sr2026",
+        "market-metropolis-jobs"
+      ]
+    }
+  },
+  "local_job_checks": [
+    "Choose the actual cities you would accept: Hyderabad-only and several preferred states are different job markets.",
+    "Collect public posts and independently corroborated recent hires over 12-24 months; deduplicate reposts and recruiter copies. Record new service/new post versus replacement, or leave this unknown.",
+    "Separate fresh-MD/DNB, SR, post-fellowship, experienced consultant and faculty roles; record required credentials and years of experience.",
+    "Compare fixed guaranteed pay, incentives, working hours, tenure, benefits, reporting/clinical responsibility, supervision and actual payment reliability in writing.",
+    "Ask recent alumni for time to first suitable job, relocation, fellowships taken from interest versus lack of work, and current role. An anonymous voluntary alumni sample is not a complete employment survey.",
+    "Only call an observed market crowded after looking at suitable vacancies, candidates, waiting time and contract quality together. No salary threshold or saturation percentage is fabricated here."
+  ],
+  "plan": [
+    {
+      "profile_id": "inst-c-basavatarakam-hyderabad-radiation-oncology-dnb",
+      "subject_id": "radiation-oncology",
+      "group": "Local / nearby enquiries",
+      "why": "Local cancer-centre DNB with documented radiation facilities; distinguish daily fractions from new starts.",
+      "first_action": "Request individual contouring/plan-review and brachytherapy logs, current faculty, physics support and uptime."
+    },
+    {
+      "profile_id": "inst-c-apollo-jubilee-hills-radiation-oncology-dnb",
+      "subject_id": "radiation-oncology",
+      "group": "Local / nearby enquiries",
+      "why": "Exact Jubilee Hills DNB programme is documented; brand alone does not establish resident planning access.",
+      "first_action": "Check disease-site allocation, supervised contouring, plan decisions, brachytherapy and consultant availability."
+    },
+    {
+      "profile_id": "inst-c-osmania-hyderabad-radiation-oncology-md",
+      "subject_id": "radiation-oncology",
+      "group": "Local / nearby enquiries",
+      "why": "Local government MD lead with faculty and supplied seat-file evidence; actual training site remains to verify.",
+      "first_action": "Confirm the affiliated cancer/radiotherapy site and functioning equipment, then obtain resident logs and rotations."
+    },
+    {
+      "profile_id": "inst-c-nims-hyderabad-radiation-oncology-md",
+      "subject_id": "radiation-oncology",
+      "group": "Local / nearby enquiries",
+      "why": "Local MD lead from supplied matrix; department and current programme cycle need corroboration.",
+      "first_action": "Verify recognition/current seat offer, treatment site, faculty and day-to-day resident responsibilities before judging quality."
+    },
+    {
+      "profile_id": "inst-c-andhra-medical-college-visakhapatnam-radiation-oncology-md",
+      "subject_id": "radiation-oncology",
+      "group": "Local / nearby enquiries",
+      "why": "Telugu-speaking AP comparison with an official 2025 equipment update; current access/uptime needs checking.",
+      "first_action": "Verify commissioned linac, 4D CT and brachytherapy, resident planning exposure and current AP counselling eligibility."
+    },
+    {
+      "profile_id": "inst-c-tata-memorial-mumbai-radiation-oncology-md",
+      "subject_id": "radiation-oncology",
+      "group": "Outstation comparisons",
+      "why": "Official MD Radiation Oncology programme at the Mumbai campus; retain as a cancer-centre comparison.",
+      "first_action": "Establish actual resident rotations, case ownership, planning/procedure logs, supervision and the intended admission-cycle terms."
+    },
+    {
+      "profile_id": "inst-c-cmc-vellore-radiation-oncology-md",
+      "subject_id": "radiation-oncology",
+      "group": "Outstation comparisons",
+      "why": "Current researched prospectus and department describe MD training, external beam and brachytherapy.",
+      "first_action": "Verify eligibility/service terms, actual HDR/interstitial exposure, planning responsibility and Tamil language support."
+    },
+    {
+      "profile_id": "inst-c-apollo-proton-chennai-radiation-oncology-dnb",
+      "subject_id": "radiation-oncology",
+      "group": "Outstation comparisons",
+      "why": "Exact-campus DNB evidence; proton branding must not substitute for broad parent-specialty training.",
+      "first_action": "Check external-beam and brachytherapy breadth, photon/proton rotations, actual trainee allocation and Tamil support."
+    },
+    {
+      "profile_id": "inst-c-rgcirc-rohini-radiation-oncology-dnb",
+      "subject_id": "radiation-oncology",
+      "group": "Outstation comparisons",
+      "why": "Exact Rohini-campus DNB programme in a cancer institute; Hindi may aid patient communication.",
+      "first_action": "Compare individual planning/brachytherapy logs, faculty supervision and competition with fellows/other trainees."
+    },
+    {
+      "profile_id": "inst-c-rcc-thiruvananthapuram-radiation-oncology-md",
+      "subject_id": "radiation-oncology",
+      "group": "Outstation comparisons",
+      "why": "Public cancer-centre MD lead in supplied matrix; programme-cycle and department evidence remain incomplete.",
+      "first_action": "Verify current recognition/seats, planning and brachytherapy exposure, faculty and Malayalam induction."
+    },
+    {
+      "profile_id": "inst-c-kidwai-bengaluru-radiation-oncology-md",
+      "subject_id": "radiation-oncology",
+      "group": "Outstation comparisons",
+      "why": "Public oncology-institute MD lead in supplied matrix; keep conditional until department checks are complete.",
+      "first_action": "Verify current programme/seats, working facilities, resident clinical/planning exposure and Kannada support."
+    },
+    {
+      "profile_id": "inst-c-jipmer-puducherry-radiation-oncology-md",
+      "subject_id": "radiation-oncology",
+      "group": "Separate INI-CET list",
+      "why": "MD and training scope confirmed in the researched JIPMER prospectus/department sources.",
+      "first_action": "Check intended-session INI seats, real resident planning/procedure logs and patient-language support."
+    },
+    {
+      "profile_id": "inst-c-osmania-hyderabad-pathology-md",
+      "subject_id": "pathology",
+      "group": "Local / nearby enquiries",
+      "why": "Local government MD baseline with faculty and matrix evidence, but current reporting exposure is not established.",
+      "first_action": "Confirm training hospitals/units; request histology/cytology/haematology rotations and supervised reporting logs."
+    },
+    {
+      "profile_id": "inst-c-nims-hyderabad-pathology-md",
+      "subject_id": "pathology",
+      "group": "Local / nearby enquiries",
+      "why": "Local MD lead from supplied matrix; current programme and detailed service breadth need checking.",
+      "first_action": "Verify recognition/current seats, reporting responsibility, IHC/flow/molecular access and full core rotations."
+    },
+    {
+      "profile_id": "inst-c-apollo-jubilee-hills-pathology-dnb",
+      "subject_id": "pathology",
+      "group": "Local / nearby enquiries",
+      "why": "Exact-campus DNB programme is documented; obtain evidence of balanced general pathology training.",
+      "first_action": "Check personally previewed/reported cases, consultant double-reading, haematology/cytology and external rotations."
+    },
+    {
+      "profile_id": "inst-c-basavatarakam-hyderabad-pathology-dnb",
+      "subject_id": "pathology",
+      "group": "Local / nearby enquiries",
+      "why": "Local cancer-centre DNB with an oncology case mix; broad curriculum coverage and renewal are key checks.",
+      "first_action": "Check renewal first (snapshot validity Dec 2026), then non-oncology rotations, cytology/haematology and supervised sign-out."
+    },
+    {
+      "profile_id": "inst-c-andhra-medical-college-visakhapatnam-pathology-md",
+      "subject_id": "pathology",
+      "group": "Local / nearby enquiries",
+      "why": "Telugu-speaking AP MD comparison with official department/PG evidence and supplied matrix match.",
+      "first_action": "Check current AP counselling eligibility, full resident rotations, slide-review load and diagnostic supervision."
+    },
+    {
+      "profile_id": "inst-c-cmc-vellore-pathology-md",
+      "subject_id": "pathology",
+      "group": "Outstation comparisons",
+      "why": "Current prospectus and broad department description support investigation; historical totals must not stand in for resident logs.",
+      "first_action": "Check eligibility/service terms, current slide mix, subspecialty faculty, diagnostic teaching and Tamil support."
+    },
+    {
+      "profile_id": "inst-c-kmc-manipal-pathology-md",
+      "subject_id": "pathology",
+      "group": "Outstation comparisons",
+      "why": "Department describes histology/cytology/haematology, IHC and tumour boards; programme listed.",
+      "first_action": "Compare true resident interpretation/reporting, ancillary-test access and current fees/stipend against total cost."
+    },
+    {
+      "profile_id": "inst-c-sri-ramachandra-porur-pathology-md",
+      "subject_id": "pathology",
+      "group": "Outstation comparisons",
+      "why": "MD programme and curriculum are documented; undated annual fee is only a lead.",
+      "first_action": "Get current all-inclusive fees and stipend; verify real supervised reporting and ancillary-test rotations."
+    },
+    {
+      "profile_id": "inst-c-apollo-greams-lane-pathology-dnb",
+      "subject_id": "pathology",
+      "group": "Outstation comparisons",
+      "why": "Exact Chennai Greams Lane DNB programme; do not substitute another Apollo campus.",
+      "first_action": "Ask for campus-specific diagnostic logs, rotation breadth, double-reading and language support."
+    },
+    {
+      "profile_id": "inst-c-baby-memorial-kozhikode-pathology-dnb",
+      "subject_id": "pathology",
+      "group": "Outstation comparisons",
+      "why": "Exact Kozhikode DNB programme with named faculty evidence; current training breadth needs checking.",
+      "first_action": "Verify broad case mix, supervised sign-out, IHC/flow access, duty pattern and Malayalam support."
+    },
+    {
+      "profile_id": "inst-c-cmc-ludhiana-pathology-md",
+      "subject_id": "pathology",
+      "group": "Outside preferred states / conditional",
+      "why": "Punjab option outside your preferred states; documented IHC, flow, FISH and broad diagnostic service make it worth comparing.",
+      "first_action": "Consider only if current resident reporting exposure and total terms offer a clear advantage over closer alternatives; check BFUHS eligibility."
+    },
+    {
+      "profile_id": "inst-c-jipmer-puducherry-pathology-md",
+      "subject_id": "pathology",
+      "group": "Separate INI-CET list",
+      "why": "MD and broad diagnostic service documented, including IHC, flow and molecular work.",
+      "first_action": "Check intended-session INI seats, resident interpretation responsibility, full core rotations and faculty backup."
+    },
+    {
+      "profile_id": "inst-c-aiims-new-delhi-pathology-md",
+      "subject_id": "pathology",
+      "group": "Separate INI-CET list",
+      "why": "Department explicitly documents MD and advanced diagnostics; next exact subject seat offer remains unverified.",
+      "first_action": "Confirm intended-session Part B/subject seats first, then resident diagnostic responsibility and all core rotations."
+    }
+  ],
+  "counts": {
+    "radiation-oncology": 12,
+    "pathology": 13,
+    "profiles": 25
+  },
+  "podcasts": [
+    {
+      "video_id": "b73iD-hD5iQ",
+      "subject_id": "radiation-oncology",
+      "title": "Dark Truth Of Corporate Hospitals: Targets, Money, Ethics & Career Reality | Dr. Anil Kumar",
+      "speaker": "Dr. Anil Kumar, radiation-oncology guest; host questions separated; English cached captions with recognition errors.",
+      "url": "https://www.youtube.com/watch?v=b73iD-hD5iQ",
+      "account_type": "Consultant perspective; historical personal training accounts where explicitly stated",
+      "scope": "Selected themes reused from the existing full-caption review; not a new resident interview or present department audit. Podcast growth and salary opinions are not workforce measurements.",
+      "transcript_sha256": "dc488b9ed3b6dce390c22da8f04f4408b1b23c3ca56b5137daf1fe473f35365f",
+      "points": [
+        {
+          "id": "technology-demand",
+          "title": "New equipment may create demand, but growth is a forecast",
+          "aspect_ids": [
+            "future",
+            "jobs"
+          ],
+          "start_seconds": 1396,
+          "end_seconds": 1536,
+          "summary": "He contrasts the current appeal of medical oncology with demand he anticipates for people trained on IMRT, image guidance, stereotactic treatment, MR-guided systems and proton therapy.",
+          "anchor": "growing faster than other two but",
+          "decision_question": "Which operating centres actually recruit graduates with my proposed training?",
+          "caveat": "Local shortage reports and five-to-ten-year growth predictions are unverified and time dependent.",
+          "kind": "Branch decision",
+          "decision_tags": [
+            "future",
+            "verification"
+          ],
+          "subject_ids": [
+            "radiation-oncology"
+          ],
+          "anchor_seconds": 1398,
+          "source_url": "https://www.youtube.com/watch?v=b73iD-hD5iQ&t=1396s",
+          "anchor_url": "https://www.youtube.com/watch?v=b73iD-hD5iQ&t=1398s",
+          "is_highlight": false,
+          "focus_label": "Future perspective",
+          "takeaway": "He contrasts the current appeal of medical oncology with demand he anticipates for people trained on IMRT, image guidance, stereotactic treatment, MR-guided systems and proton therapy."
+        },
+        {
+          "id": "department-checklist",
+          "title": "Inspect hospital, equipment, faculty and scheduled teaching together",
+          "aspect_ids": [
+            "college",
+            "training"
+          ],
+          "start_seconds": 2371,
+          "end_seconds": 2485,
+          "summary": "He recommends a functioning hospital with suitable technology, several senior teachers, regular classes, seminars, journal clubs and tumour boards, and urges candidates to visit the department in person.",
+          "anchor": "the equipment.",
+          "decision_question": "Can the department show its current faculty roster, teaching timetable, case mix and resident access to equipment?",
+          "caveat": "His suggested faculty numbers are practical advice, not a regulatory threshold.",
+          "kind": "Branch decision",
+          "decision_tags": [
+            "college",
+            "training",
+            "verification"
+          ],
+          "subject_ids": [
+            "radiation-oncology"
+          ],
+          "anchor_seconds": 2374,
+          "source_url": "https://www.youtube.com/watch?v=b73iD-hD5iQ&t=2371s",
+          "anchor_url": "https://www.youtube.com/watch?v=b73iD-hD5iQ&t=2374s",
+          "is_highlight": false,
+          "focus_label": "College check",
+          "takeaway": "He recommends a functioning hospital with suitable technology, several senior teachers, regular classes, seminars, journal clubs and tumour boards, and urges candidates to visit the department in person."
+        },
+        {
+          "id": "money-versus-training",
+          "title": "A larger salary can conceal weak clinical infrastructure",
+          "aspect_ids": [
+            "earnings",
+            "jobs",
+            "training"
+          ],
+          "start_seconds": 2668,
+          "end_seconds": 2763,
+          "summary": "He accepts that money matters but warns that a smaller hospital may offer more pay without the patient base, technology or colleagues needed for a sustainable early career. He discourages isolated oncology practice.",
+          "anchor": "do well. So it's a combined approach",
+          "decision_question": "What case base, specialist backup and learning opportunities accompany the offer?",
+          "caveat": "Do not treat his objection to solo chemotherapy practice as a complete legal scope statement; verify privileges and competence.",
+          "kind": "Branch decision",
+          "decision_tags": [
+            "money",
+            "tradeoff",
+            "training",
+            "verification"
+          ],
+          "subject_ids": [
+            "radiation-oncology"
+          ],
+          "anchor_seconds": 2670,
+          "source_url": "https://www.youtube.com/watch?v=b73iD-hD5iQ&t=2668s",
+          "anchor_url": "https://www.youtube.com/watch?v=b73iD-hD5iQ&t=2670s",
+          "is_highlight": true,
+          "focus_label": "Money & risk",
+          "takeaway": "He accepts that money matters but warns that a smaller hospital may offer more pay without the patient base, technology or colleagues needed for a sustainable early career."
+        }
+      ]
+    },
+    {
+      "video_id": "GC8E8p9mmBg",
+      "subject_id": "pathology",
+      "title": "Pathology Decoded: Earnings, Jobs, Pros & Cons, Future Scope, Lab Setup | ft. Dr. Ranjith AR",
+      "speaker": "Dr Ranjith A R",
+      "url": "https://www.youtube.com/watch?v=GC8E8p9mmBg",
+      "account_type": "Consultant perspective; historical personal training accounts where explicitly stated",
+      "scope": "Selected themes reused from the existing full-caption review; not a new resident interview or present department audit. Podcast growth and salary opinions are not workforce measurements.",
+      "transcript_sha256": "36f21236f7966a971c57ad2bdcdb28e14bded4013e2e57bf309d54ffce0aacf8",
+      "points": [
+        {
+          "id": "supervision",
+          "title": "What he valued at JIPMER: available faculty and backup",
+          "aspect_ids": [
+            "college",
+            "training",
+            "culture"
+          ],
+          "start_seconds": 417,
+          "end_seconds": 544,
+          "summary": "He recalls accessible faculty, out-of-hours help and supervised responsibility during training. His example of calling a senior about a difficult night-time diagnosis illustrates why backup mattered to his confidence as a young resident.",
+          "anchor": "someone to back me up",
+          "decision_question": "Who reviews difficult cases, and can residents obtain timely senior help during nights and emergencies?",
+          "caveat": "This is his historical experience at JIPMER, not a current assessment of every central institute or a claim that other institutions lack supervision.",
+          "kind": "Branch decision",
+          "decision_tags": [
+            "college",
+            "training",
+            "benefit"
+          ],
+          "anchor_seconds": 506,
+          "source_url": "https://www.youtube.com/watch?v=GC8E8p9mmBg&t=417s",
+          "anchor_url": "https://www.youtube.com/watch?v=GC8E8p9mmBg&t=506s",
+          "is_highlight": false,
+          "focus_label": "College check",
+          "takeaway": "He recalls accessible faculty, out-of-hours help and supervised responsibility during training."
+        },
+        {
+          "id": "routes",
+          "title": "Compare technology, case exposure and teaching across MD and DNB",
+          "aspect_ids": [
+            "college",
+            "training",
+            "jobs"
+          ],
+          "start_seconds": 957,
+          "end_seconds": 1132,
+          "summary": "He explains differences he perceives in examination settings, then argues that some well-equipped DNB hospitals may offer stronger exposure than weaker MD departments. New stains, markers and flow-cytometry access matter to him. He regards practical diagnostic performance as decisive in most employed work, while reporting some hiring preferences.",
+          "anchor": "new markers",
+          "decision_question": "Which tests will I personally interpret, what feedback will I receive, and what do recent graduates actually do?",
+          "caveat": "Pass-rate explanations and hiring preferences are the guest’s observations. Degree recognition, academic eligibility and recruitment rules need current official verification.",
+          "kind": "Branch decision",
+          "decision_tags": [
+            "college",
+            "training"
+          ],
+          "anchor_seconds": 1049,
+          "source_url": "https://www.youtube.com/watch?v=GC8E8p9mmBg&t=957s",
+          "anchor_url": "https://www.youtube.com/watch?v=GC8E8p9mmBg&t=1049s",
+          "is_highlight": true,
+          "focus_label": "College check",
+          "takeaway": "He explains differences he perceives in examination settings, then argues that some well-equipped DNB hospitals may offer stronger exposure than weaker MD departments."
+        },
+        {
+          "id": "employment",
+          "title": "Government, teaching, hospital and laboratory work are distinct options",
+          "aspect_ids": [
+            "jobs",
+            "lifestyle",
+            "training"
+          ],
+          "start_seconds": 1940,
+          "end_seconds": 2129,
+          "summary": "He describes competition for permanent government posts, teaching roles, hospital teams, lab chains and part-time laboratory work. For a new graduate he personally favours a hospital role with senior guidance before branching out, while acknowledging that some colleagues moved directly into chains successfully.",
+          "anchor": "guidance of a senior",
+          "decision_question": "Which job offers real diagnostic supervision, suitable hours and a credible path to independence?",
+          "caveat": "Vacancies and recruitment routes change. His account of government hiring and private-college location is a recording-time perspective, not a complete labour-market survey.",
+          "kind": "Branch decision",
+          "decision_tags": [
+            "money",
+            "benefit"
+          ],
+          "anchor_seconds": 2083,
+          "source_url": "https://www.youtube.com/watch?v=GC8E8p9mmBg&t=1940s",
+          "anchor_url": "https://www.youtube.com/watch?v=GC8E8p9mmBg&t=2083s",
+          "is_highlight": false,
+          "focus_label": "Training insight",
+          "takeaway": "He describes competition for permanent government posts, teaching roles, hospital teams, lab chains and part-time laboratory work."
+        },
+        {
+          "id": "future",
+          "title": "Evidence-based practice and AI: an optimistic but uncertain outlook",
+          "aspect_ids": [
+            "future",
+            "training"
+          ],
+          "start_seconds": 3070,
+          "end_seconds": 3306,
+          "summary": "In audience questions he revisits fellowships, first-generation doctors and academic entry, then expects good laboratory evidence to become more valuable. On AI he acknowledges uncertainty and argues that doctors who learn to use it may change productivity and competition for work.",
+          "anchor": "leverage AI",
+          "decision_question": "Which digital, diagnostic and quality-assurance skills would make me adaptable without relying on a guaranteed demand forecast?",
+          "caveat": "A guest forecast, not proof of job growth or displacement. His answers about academic posts and experience requirements should be checked against current recruitment notices.",
+          "kind": "Branch decision",
+          "decision_tags": [
+            "future",
+            "verification"
+          ],
+          "anchor_seconds": 3218,
+          "source_url": "https://www.youtube.com/watch?v=GC8E8p9mmBg&t=3070s",
+          "anchor_url": "https://www.youtube.com/watch?v=GC8E8p9mmBg&t=3218s",
+          "is_highlight": false,
+          "focus_label": "Training insight",
+          "takeaway": "In audience questions he revisits fellowships, first-generation doctors and academic entry, then expects good laboratory evidence to become more valuable."
+        }
+      ]
+    },
+    {
+      "video_id": "18PBwmHJ3MU",
+      "subject_id": "pathology",
+      "title": "Reality of Doctors charging commissions EXPOSED by @drpraveen1603  | The Nachiket Bhatia Show Ep. 2",
+      "speaker": "Dr. Praveen Gupta, introduced as pathology faculty/lab director; host inferences and questions separated; Hindi/English captions paraphrased with incomplete numbers.",
+      "url": "https://www.youtube.com/watch?v=18PBwmHJ3MU",
+      "account_type": "Consultant perspective; historical personal training accounts where explicitly stated",
+      "scope": "Selected themes reused from the existing full-caption review; not a new resident interview or present department audit. Podcast growth and salary opinions are not workforce measurements.",
+      "transcript_sha256": "fc38bc8149e99b491e4257e8b85c1d2aaa03dbf58c92178e3d3eed304f0976db",
+      "points": [
+        {
+          "id": "break-toxicity",
+          "title": "He asks seniors not to pass harmful workload practices to juniors",
+          "aspect_ids": [
+            "culture",
+            "training",
+            "ethics"
+          ],
+          "start_seconds": 909,
+          "end_seconds": 995,
+          "summary": "He recalls a distressed junior assigned repetitive sampling and urges seniors to share work, teach and treat juniors as colleagues rather than repeat the mistreatment they experienced.",
+          "anchor": "सुन रहा हूं कि कैसे सीनियर्स जूनियर को",
+          "decision_question": "Do residents get graded responsibility, protected learning and respectful supervision?",
+          "caveat": "The historical department story is unverified and not a current assessment; necessary service work still needs fair allocation and teaching.",
+          "kind": "Shared training",
+          "decision_tags": [
+            "safety",
+            "college",
+            "training",
+            "verification"
+          ],
+          "anchor_seconds": 912,
+          "source_url": "https://www.youtube.com/watch?v=18PBwmHJ3MU&t=909s",
+          "anchor_url": "https://www.youtube.com/watch?v=18PBwmHJ3MU&t=912s",
+          "is_highlight": false,
+          "focus_label": "Culture & safety",
+          "takeaway": "He recalls a distressed junior assigned repetitive sampling and urges seniors to share work, teach and treat juniors as colleagues rather than repeat the mistreatment they experienced."
+        },
+        {
+          "id": "salary-business",
+          "title": "He distinguishes employed work from running a laboratory or business",
+          "aspect_ids": [
+            "earnings",
+            "practice",
+            "jobs"
+          ],
+          "start_seconds": 1082,
+          "end_seconds": 1179,
+          "summary": "He quotes an estimated INR 1.5-2 lakh monthly after senior residency and a broader INR 4-6 lakh example, while saying ownership/business may earn more and personal initiative matters.",
+          "anchor": "के लिए अगर मैं पैथोलॉजी चूज करता हूं तो",
+          "decision_question": "What exact employed role, hours and current written gross/net offer is being compared with an owned lab?",
+          "caveat": "These are unverified historical estimates, not minimum guarantees. Key ownership digits are missing; turnover, profit and personal salary cannot be equated.",
+          "kind": "Branch decision",
+          "decision_tags": [
+            "money",
+            "verification"
+          ],
+          "anchor_seconds": 1085,
+          "source_url": "https://www.youtube.com/watch?v=18PBwmHJ3MU&t=1082s",
+          "anchor_url": "https://www.youtube.com/watch?v=18PBwmHJ3MU&t=1085s",
+          "is_highlight": true,
+          "focus_label": "Money & risk",
+          "takeaway": "He quotes an estimated INR 1.5-2 lakh monthly after senior residency and a broader INR 4-6 lakh example, while saying ownership/business may earn more and personal initiative matters."
+        }
+      ]
+    }
+  ]
+}
