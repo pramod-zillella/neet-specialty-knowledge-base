@@ -1,6 +1,6 @@
 {
   "schema_version": 6,
-  "built_utc": "2026-10-18T01:09:27.386582+00:00",
+  "built_utc": "2026-10-18T05:59:17.809488+00:00",
   "channel": "https://www.youtube.com/@TheNachiketBhatiaShow",
   "stats": {
     "catalogued_videos": 134,
@@ -270640,7 +270640,7 @@
   },
   "careers": {
     "as_of": "2026-10-17",
-    "scope": "India: the 13 requested MD/MS branches; dated evidence and editorial decision support, not individual career or financial guarantees.",
+    "scope": "India: 14 requested postgraduate branches; dated evidence and editorial decision support, not individual career or financial guarantees.",
     "sources": [
       {
         "id": "route-a-curriculum-pathology",
@@ -271231,6 +271231,54 @@
         "limitations": "2026 session institutional programmes: PDCC one year, PDAF two years unless specified; not NEET-SS awards. Entries with similar names can have different feeders: Pain & Palliative Care PDAF requires Anaesthesiology; Palliative Oncology PDCC requires Radiotherapy."
       },
       {
+        "id": "rad-nmc-md",
+        "title": "Competency-based postgraduate training programme for MD in Radiotherapy",
+        "url": "https://www.nmc.org.in/storage/new/MD-Radiotherapy.pdf",
+        "publisher": "National Medical Commission",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Official",
+        "evidence": "The curriculum describes a three-year MD, comprehensive cancer assessment and radiotherapy, combined practice with anti-cancer chemotherapy, multidisciplinary care, palliation, communication, research and teaching. Clinical skills include planning and brachytherapy.",
+        "locator": "PDF pp1-6: preamble, competencies and practical skills; later curriculum sections",
+        "limitations": "Undated curriculum copy, retrieved from the official NMC postgraduate-curricula link. Educational objectives are not evidence of current job availability, unrestricted procedure privileges or a DM Medical Oncology qualification."
+      },
+      {
+        "id": "rad-cmc-brachy",
+        "title": "CMC Vellore course prospectus 2026-27: Advanced Gynaecologic Brachytherapy fellowship",
+        "url": "https://www.cmch-vellore.edu/wp-content/uploads/sites/14/2026/06/course-prospectus-final-01-06-26.pdf",
+        "publisher": "Christian Medical College, Vellore",
+        "published": "2026-06-01",
+        "retrieved": "2026-10-17",
+        "kind": "Institutional programme",
+        "evidence": "Post-doctoral Advanced Gynaecologic Brachytherapy: MD/DNB Radiation Oncology; one year; intake one. Description covers image-guided CT/MRI intracavitary, interstitial and hybrid applicators, ultrasound-guided insertion, planning and research.",
+        "locator": "PDF pp36 and64; filename version 01-06-26",
+        "limitations": "Prospectus example, not proof of an open application window, presently vacant seat, universal stipend or DM/DrNB-equivalent recognition."
+      },
+      {
+        "id": "rad-sgpgi",
+        "title": "SGPGIMS 2026 brochure: Radiotherapy PDCC and senior residency",
+        "url": "https://sgpgims.org.in/Home/er/2026/12.03.2026_Information%20Brochure%20for%20PDCC_PDAF_SRHS%20etc%202026.pdf",
+        "publisher": "SGPGIMS, Lucknow",
+        "published": "2026-03-12",
+        "retrieved": "2026-10-17",
+        "kind": "Official",
+        "evidence": "Lists PDCC Advance Techniques in Radiation Oncology and Palliative Oncology for MD/DNB Radiotherapy. PDCC lasts one year. Radiotherapy SRHS and Medical Oncology SRHS have explicit feeder entries. PDCC trainees also work as SRs; first-year SR emoluments apply, while sponsored candidates are paid by their sponsor.",
+        "locator": "PDF pp4,7,9-10,12,16",
+        "limitations": "Course-specific 2026 rules. Programme listing is not a count of available seats or an assurance of selection. PDCC is not DM/DrNB; exact Radiotherapy/Radiation Oncology qualification nomenclature should be checked."
+      },
+      {
+        "id": "rad-aiims-bhub-sr",
+        "title": "AIIMS Bhubaneswar Senior Residents (Non-Academic), 4 July 2026",
+        "url": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/07/SR_Advt-DFA_revised_approved.pdf",
+        "publisher": "AIIMS Bhubaneswar",
+        "published": "2026-07-04",
+        "retrieved": "2026-10-17",
+        "kind": "Official",
+        "evidence": "Three-year SR advertisement. Pay INR 67,700 Level 11 plus NPA and other admissible allowances. Annexure I lists Radiation Oncology and MD/DNB Radiotherapy/Radiation Oncology.",
+        "locator": "PDF pp1-2 eligibility/tenure/pay; Annexure I Radiation Oncology row",
+        "limitations": "Dated advertised post, not a currently open position or actual take-home pay. Basic pay excludes allowances and deductions; selection, registration and all notice conditions apply."
+      },
+      {
         "id": "seat-nbems-2025",
         "title": "NEET-SS 2025 Information Bulletin",
         "url": "https://nbe.edu.in/IB/NEET-SS%202025%20information%20bulletin.pdf",
@@ -271709,6 +271757,66 @@
         "evidence": "ancy Service Pvt. Ltd 1 - 3 Years 1 Openings 35.0 - 100.0 Lac/Yr Telephonic interview SurendranagarDudhrej Rajkot Key Skills Nuclear Medicine Nuclear Physician Apply Job Alert Similar Jobs Share Share Job Descriptio [...] rs in India in Gujarat Position : Consultant Department-Nuclear Medicine Location :,Gujarat Qualification-MD/Dnb Salary : As per MCI Norms Duty Hours : General Immediate Joiner : Required This Opportunity offers a chance to work in a dynamic healthcare environment with a reputable hospital and a supportive team. If this opportunity aligns with your career goals and interests, please share you",
         "locator": "Actual job-detail page: pay/experience header, Job Description and Education sections",
         "limitations": "Public job advertisement, not an independent salary survey, verified offer, employment contract or proof that the vacancy remains open. Agency-posted jobs do not identify the client employer unless explicitly stated. Numeric portal headers are advertised budgets with potentially inconsistent entry fields; body wording and discrepancies are retained. No national or city-wide typical salary, take-home pay, guaranteed incentive or causal specialty premium is inferred. Body says \"Salary : As per MCI Norms\" without a numeric salary. No applicable MCI/NMC private-consultant salary norm was established. Portal header35-100lakh/year is therefore not treated as confirmed remuneration; pay and period are null. Exact employer/location, duties and employment terms require direct confirmation."
+      },
+      {
+        "id": "rad-pay-kundli",
+        "title": "Radiation Oncologist advert, Kundli, Sonipat, Haryana (PlacementIndia job 1385626)",
+        "url": "https://www.placementindia.com/job-detail/radiation-oncologist-in-pacific-asia-consulting-expertise-at-kundli-sonipat-1385626.htm",
+        "publisher": "PlacementIndia; advertiser Pacific Asia Consulting Expertise",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "0-3 years. Portal qualification is MD/Medicine Doctor; the exact Radiation Oncology qualification is not stated. Header advertises INR 18-30 lakh/year. Body salary field is blank; hospital client is unnamed. Sonipat/Kundli is grouped with Delhi-NCR for this site's editorial tier comparison, not an official pay tier.",
+        "locator": "Job title, salary/experience header, Job Description and qualification fields",
+        "limitations": "Undated consulted copy: retrieval date is not publication date. Advertised terms, employer and vacancy are unverified; not a salary survey or proof the role remains open. Annual header amounts are retained as annual and not corrected to monthly by assumption."
+      },
+      {
+        "id": "rad-pay-darbhanga",
+        "title": "Radiation Oncologist advert, Darbhanga, Bihar (PlacementIndia job 1360224)",
+        "url": "https://www.placementindia.com/job-detail/radiation-oncologist-in-swami-vivekanand-cancer-hospital-at-darbhanga-1360224.htm",
+        "publisher": "PlacementIndia; advertiser Swami Vivekanand Cancer Hospital (portal advertiser)",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "0-2 years. MD/Medicine Doctor in portal field; exact recognised Radiation Oncology degree and privileges must be confirmed. Header advertises INR 25-35 lakh/year. Description includes radiation planning and tumour boards, but the qualification field is generic. Advertiser identity, remuneration and vacancy have not been independently confirmed.",
+        "locator": "Job title, salary/experience header, Job Description and qualification fields",
+        "limitations": "Undated consulted copy: retrieval date is not publication date. Advertised terms, employer and vacancy are unverified; not a salary survey or proof the role remains open. Annual header amounts are retained as annual and not corrected to monthly by assumption."
+      },
+      {
+        "id": "rad-pay-meerut",
+        "title": "Senior Resident / Radiation Oncologist advert, Meerut, Uttar Pradesh (PlacementIndia job 1150681)",
+        "url": "https://www.placementindia.com/job-detail/radiation-oncologist-jobs-in-meerut-for-om-healthcare-recruitment-consultancy-1150681.htm",
+        "publisher": "PlacementIndia; advertiser Om Healthcare Recruitment Consultancy; unnamed hospital client",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "Header 0-2 years; description 0-5 years. Body asks for MBBS and MD from a recognised university; specialty not separately specified. Header advertises INR 12-14 lakh/year; body says salary negotiable. Experience fields conflict. These terms need written confirmation; this is a private recruiter advert, not a government SR scale.",
+        "locator": "Job title, salary/experience header, Job Description and qualification fields",
+        "limitations": "Undated consulted copy: retrieval date is not publication date. Advertised terms, employer and vacancy are unverified; not a salary survey or proof the role remains open. Annual header amounts are retained as annual and not corrected to monthly by assumption."
+      },
+      {
+        "id": "rad-pay-jaipur",
+        "title": "Consultant Radiation Oncologist advert, Jaipur, Rajasthan (PlacementIndia job 1282673)",
+        "url": "https://www.placementindia.com/job-detail/radiation-oncologist-in-recmasters-at-jaipur-1282673.htm",
+        "publisher": "PlacementIndia; advertiser Recmasters; unnamed organisation",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "1-7 years. Body explicitly requires MD / DNB Radiation Oncology. Header advertises INR 25-32.5 lakh/year. Body says consultant in Jaipur but names no hospital or corporate chain. No post-fellowship or post-DM pay premium is stated.",
+        "locator": "Job title, salary/experience header, Job Description and qualification fields",
+        "limitations": "Undated consulted copy: retrieval date is not publication date. Advertised terms, employer and vacancy are unverified; not a salary survey or proof the role remains open. Annual header amounts are retained as annual and not corrected to monthly by assumption."
+      },
+      {
+        "id": "rad-pay-head-jaipur",
+        "title": "Head Radiation Oncologist advert, Jaipur, Rajasthan (PlacementIndia job 1230819)",
+        "url": "https://www.placementindia.com/job-detail/radiation-oncologist-in-vardhman-consultancy-services-at-jaipur-1230819.htm",
+        "publisher": "PlacementIndia; advertiser Vardhman Consultancy Services; associated hospital unnamed",
+        "published": null,
+        "retrieved": "2026-10-17",
+        "kind": "Other",
+        "evidence": "10-20 years. Portal says Graduate and does not verify a recognised medical-specialist qualification; full credentials must be checked. Pay is not disclosed. Generic qualification field and unnamed hospital make this a weak lead; it supplies no numeric senior-career salary estimate.",
+        "locator": "Job title, salary/experience header, Job Description and qualification fields",
+        "limitations": "Undated consulted copy: retrieval date is not publication date. Advertised terms, employer and vacancy are unverified; not a salary survey or proof the role remains open. Annual header amounts are retained as annual and not corrected to monthly by assumption."
       }
     ],
     "branches": [
@@ -277090,6 +277198,306 @@
           "unlisted_award_options": []
         },
         "name": "Nuclear Medicine"
+      },
+      {
+        "subject_id": "radiation-oncology",
+        "overview": "Radiation Oncology (MD Radiotherapy / MD or DNB Radiation Oncology) is a clinical cancer-treatment specialty: assessment, staging, treatment selection, target delineation and plan evaluation, external-beam radiation, brachytherapy, toxicity management and follow-up within a multidisciplinary team. It is distinct from Radio-diagnosis and Nuclear Medicine. A further DM is not an automatic prerequisite for working in the parent specialty. Training quality, supervised clinical responsibility and access to a functioning treatment service matter more than a machine's brand or a university label alone.",
+        "after_md_ms": [
+          {
+            "role": "Senior resident / supervised clinical oncologist",
+            "setting": "Government teaching hospital or regional cancer centre",
+            "description": "Consolidate assessment, contouring, plan review, on-treatment clinics, acute toxicity management and follow-up. AIIMS Raebareli advertises two Radiotherapy/Radiation Oncology SR posts in its September 2026 notice; AIIMS Bhubaneswar and SGPGI also explicitly list the qualification. These are dated recruitment/training examples, not proof that applications remain open.",
+            "source_ids": [
+              "rad-nmc-md",
+              "gov-aiimsrbl-sr2026",
+              "rad-aiims-bhub-sr",
+              "rad-sgpgi"
+            ]
+          },
+          {
+            "role": "Radiation oncology consultant / associate consultant",
+            "setting": "Private cancer hospital or corporate cancer centre",
+            "description": "Work in an operational radiation department with defined planning and clinical privileges. Jaipur's consultant advert explicitly asks for MD/DNB Radiation Oncology; other private adverts have broader or inconsistent qualification fields. Confirm actual employer, mentorship, indemnity, fixed pay, clinical workload and independently expected procedures before treating an advert as a suitable fresh-MD role.",
+            "source_ids": [
+              "rad-nmc-md",
+              "rad-pay-jaipur",
+              "rad-pay-darbhanga"
+            ]
+          },
+          {
+            "role": "Academic clinician and teacher",
+            "setting": "Medical college, university or cancer institute",
+            "description": "Combine cancer care, teaching, research and department responsibilities. Faculty entry/promotion depends on the current applicable regulations and the specific advertisement. The August 2026 AIIMS Raebareli matrix contains one Radiation Oncology Associate Professor vacancy; its pay scale and separate contract offer are not fresh-MD salaries.",
+            "source_ids": [
+              "rad-nmc-md",
+              "gov-aiimsrbl-faculty2026"
+            ]
+          },
+          {
+            "role": "Focused brachytherapy / advanced radiation service work",
+            "setting": "Department offering supervised focused training and the relevant clinical service",
+            "description": "Build hands-on expertise rather than assume an additional degree is mandatory for every technique. CMC's one-year advanced gynaecologic brachytherapy fellowship covers CT/MRI-guided intracavitary, interstitial and hybrid applications; SGPGI lists a one-year advanced-techniques PDCC. A fellowship is not evidence of a salary increment or universal procedure privileges.",
+            "source_ids": [
+              "rad-cmc-brachy",
+              "rad-sgpgi"
+            ]
+          },
+          {
+            "role": "Palliative and supportive oncology",
+            "setting": "Cancer centre, palliative oncology team or supervised focused programme",
+            "description": "Radiotherapy training includes palliation, symptom support, emergencies and continuity of cancer care. SGPGI explicitly offers a Palliative Oncology PDCC to MD/DNB Radiotherapy. This certificate does not change the degree to MD Palliative Medicine or open unlisted NEET-SS feeders.",
+            "source_ids": [
+              "rad-nmc-md",
+              "rad-sgpgi"
+            ]
+          },
+          {
+            "role": "Clinical research and service development",
+            "setting": "Academic cancer centre or a funded clinical-research position",
+            "description": "The curriculum includes clinical-trial interpretation, research methods, teaching and infrastructure planning. Investigate funded research/PhD posts, trial work or quality/service roles against their own advertisements. The curriculum describes competence; it does not establish a currently funded industry job or salary.",
+            "source_ids": [
+              "rad-nmc-md"
+            ]
+          }
+        ],
+        "superspecialties": [
+          {
+            "name": "Medical Oncology",
+            "award": "DM / DrNB",
+            "entry_route": "NEET-SS Medical Oncology Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "Annexure A p116 explicitly lists MD/DNB Radiation Oncology for DM/DrNB Medical Oncology; reverse Annexure B confirms the same feeder. The Medical Oncology question paper tests Medical Oncology, not simply the parent MD syllabus. Radiotherapy wording in older degrees must be checked for accepted equivalence in the current application rules. INI-SS is a separate admissions system.",
+            "duration": "DrNB: three years after eligible MD/MS/DNB. Confirm DM duration and all admitting-institute conditions in the current prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          },
+          {
+            "name": "Medical Genetics",
+            "award": "DM / DrNB",
+            "entry_route": "NEET-SS Medical Group; MCC SS counselling",
+            "eligibility_status": "Verified feeder",
+            "eligibility_note": "Radiation Oncology is explicitly listed; Medical Genetics also accepts any recognised MD/MS/DNB broad specialty. This is a change to a different clinical field and requires its own aptitude and preparation. It does not open the other Medical Group destinations. Eligibility and securing a seat are separate.",
+            "duration": "DrNB: three years after eligible MD/MS/DNB. Confirm DM duration and the admitting prospectus.",
+            "source_ids": [
+              "seat-nbems-2025",
+              "seat-nbems-drnb-duration"
+            ]
+          }
+        ],
+        "fellowships": [
+          {
+            "name": "Advanced Gynaecologic Brachytherapy",
+            "provider": "Christian Medical College, Vellore",
+            "award_type": "Institutional post-doctoral fellowship",
+            "entry_route": "CMC's own application and selection; verify the current admissions notice",
+            "eligibility": "MD / DNB Radiation Oncology, explicitly listed",
+            "duration": "1 year; prospectus lists intake 1",
+            "recognition_note": "2026-27 prospectus pp36,64. Includes CT/MRI-guided intracavitary, interstitial and hybrid brachytherapy, applicator insertion with intraoperative ultrasound guidance, planning, multidisciplinary care and research. This is an institutional fellowship, not a DM/DrNB or an assurance of current availability, stipend or faculty recognition.",
+            "source_ids": [
+              "rad-cmc-brachy"
+            ]
+          },
+          {
+            "name": "Advance Techniques in Radiation Oncology",
+            "provider": "Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow",
+            "award_type": "Post-Doctoral Certificate Course (PDCC)",
+            "entry_route": "SGPGI 2026 institutional entrance/selection and counselling; separate from NEET-SS",
+            "eligibility": "MD / DNB Radiotherapy, explicitly listed; verify acceptance of your exact degree nomenclature",
+            "duration": "1 year under the brochure's PDCC rule",
+            "recognition_note": "Brochure pp4,7,16. Trainees also function as SRs with clinical, teaching, research and emergency duties. Non-sponsored emoluments follow first-year SR rules; sponsored trainees are paid by their sponsor. PDCC is separate from DM/DrNB, and no post-course pay premium is established.",
+            "source_ids": [
+              "rad-sgpgi"
+            ]
+          },
+          {
+            "name": "Palliative Oncology",
+            "provider": "Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow",
+            "award_type": "Post-Doctoral Certificate Course (PDCC)",
+            "entry_route": "SGPGI 2026 institutional entrance/selection and counselling; confirm the current seat notice",
+            "eligibility": "MD / DNB Radiotherapy, explicitly listed",
+            "duration": "1 year under the brochure's PDCC rule",
+            "recognition_note": "Brochure pp4,7,12,16. This is focused institutional training, not MD Palliative Medicine, an FNB award or another NEET-SS destination. Verify supervision, duties, sponsor status, intake and the exact certificate before applying.",
+            "source_ids": [
+              "rad-sgpgi"
+            ]
+          }
+        ],
+        "other_routes": [
+          {
+            "name": "Deepen the parent specialty without changing to Medical Oncology",
+            "description": "Advanced external-beam planning, site-focused clinics and brachytherapy can form a coherent Radiation Oncology career. Ask specifically about actual contouring/plan review and supervised procedures. For stereotactic, adaptive or proton training, verify the named current programme, hands-on access, fee/stipend and subsequent privileges; no national fellowship inventory or pay premium for these labels is established here.",
+            "source_ids": [
+              "rad-nmc-md",
+              "rad-sgpgi",
+              "rad-cmc-brachy"
+            ]
+          },
+          {
+            "name": "Medical Oncology senior residency is distinct from a Medical Oncology DM",
+            "description": "SGPGI's 2026 brochure p9 lists MD/DNB Medicine/Pediatrics/Radiotherapy/Medical Oncology for Medical Oncology SRHS. This is a time-limited service/training appointment, not a DM/DrNB award or proof that all employers accept the same qualification for consultant Medical Oncology posts.",
+            "source_ids": [
+              "rad-sgpgi"
+            ]
+          },
+          {
+            "name": "Systemic therapy within documented training and clinical privileges",
+            "description": "The NMC MD Radiotherapy curriculum explicitly includes cytotoxic drugs, combined treatment and oncology emergencies. Do not erase that training, but do not infer unrestricted permission for every systemic regimen or equivalence to DM Medical Oncology. Check current registration rules, actual supervised competence, credentialing, inpatient support and employer privileges.",
+            "source_ids": [
+              "rad-nmc-md",
+              "seat-nbems-2025"
+            ]
+          },
+          {
+            "name": "Research / PhD and international training",
+            "description": "The curriculum supports research, trials and academic development; CMC's focused fellowship includes research and dosimetry. A PhD or overseas fellowship requires its own funded programme and admissions evidence. Observation, training and a licence to practise abroad are separate; no automatic international licence or salary equivalence is inferred.",
+            "source_ids": [
+              "rad-nmc-md",
+              "rad-cmc-brachy"
+            ]
+          }
+        ],
+        "saturation": {
+          "assessment": "My shortlisting judgement: this is a plausible choice for someone who likes cancer medicine, imaging-based precision, treatment planning and long-term patient care, and who accepts that employment is tied closely to functioning treatment centres. It is less suited to someone whose main aim is a low-capital independent clinic in any chosen town. Assess the number of funded consultant posts and available case responsibility in places you would live; machine installations, cancer incidence and seat growth alone cannot tell you whether graduates face a surplus or shortage.",
+          "evidence_limits": "This source set contains curricula, admissions rules, official notices and a small convenience sample of adverts. It contains no representative Radiation Oncology unemployment survey or realised salary distribution by city, experience or sector. Undated portal adverts cannot establish a 2025-to-2026 pay trend. Corporate-chain pay and fellowship/DM income increments remain unverified.",
+          "practical_checks": [
+            "Build a city-specific list of operational centres, their consultant teams and actual hiring over the last 12-24 months. Speak with recent alumni about time to first job, fixed pay and geographic moves.",
+            "Ask for trainee-level numbers: supervised contours and plan approvals, disease-site mix, IMRT/VMAT and image-guidance exposure, and brachytherapy insertions personally performed. Equipment advertised on a website is not your case log.",
+            "Check medical-physics staffing, treatment-planning access, machine uptime and service cover. Ask what happens to patients, training and pay during downtime.",
+            "For a new centre, confirm that funding, equipment, commissioning, staffing, approvals and a realistic referral pathway exist. A promised future machine is not a present clinical service.",
+            "Assess surgical/medical oncology collaboration, pathology/imaging turnaround, tumour boards, emergency cover, toxicity support and continuity clinics.",
+            "Compare fixed salary, incentives and targets, planning/patient load, weekend cover, leave, indemnity and restrictive contract clauses in writing. Treatment revenue is not personal earnings.",
+            "Investigate the psychological workload of cancer care, recurrence, death and difficult family conversations; do not assume all work is elective or free of emergencies."
+          ],
+          "source_ids": [
+            "rad-nmc-md",
+            "rad-sgpgi",
+            "rad-cmc-brachy",
+            "gov-aiimsrbl-sr2026",
+            "gov-aiimsrbl-faculty2026",
+            "rad-pay-jaipur"
+          ]
+        },
+        "shortlist_notes": [
+          "Choose Radiation Oncology for the parent specialty you would be willing to practise. Treat Medical Oncology as a possible further route, not a guaranteed rescue plan.",
+          "Medical Oncology and Medical Genetics are two destination subjects with four award-specific options in this NEET-SS baseline. The seats accept other eligible feeders too and are not reserved for Radiation Oncology graduates.",
+          "For central, state, deemed and private colleges, compare the actual department rather than ownership alone: case mix, faculty continuity, physics support, supervised planning, procedures, research and alumni employment.",
+          "A busy centre can still provide poor hands-on training if trainees only do paperwork; ask current residents to show how cases and procedures are allocated.",
+          "My opinion: prioritise a reliably functioning service with strong supervision and documented clinical responsibility over a prestigious label with uncertain access. We have not independently ranked Radiation Oncology departments.",
+          "Compare one focused year of training with entering a supported job; a certificate's benefit depends on skills, vacancies and the opportunity cost of delayed consultant income."
+        ],
+        "gaps": [
+          "No representative India-wide salary distribution, measured national saturation rate or guaranteed earnings ladder was established.",
+          "No verified named corporate-chain salary offer by Tier 1/Tier 2 and career stage was obtained. Recruiters' unnamed hospital clients remain Private, not Corporate chain.",
+          "The private salary adverts below did not expose reliable publication dates in the consulted copies. They are retrieval-dated observations, not confirmed 2026 offers; some qualification and experience fields are incomplete or inconsistent.",
+          "No matched before/after salary evidence establishes a fellowship premium or earnings after DM/DrNB Medical Oncology or Medical Genetics specifically for a Radiation Oncology graduate.",
+          "Seat counts are the existing initial MCC NEET-SS 2025 baseline published 11 March 2026; later changes, INI-SS and a NEET-SS 2026 matrix are not included.",
+          "The three named focused programmes are verified examples, not an exhaustive list, an FNB eligibility claim or current vacancy counts.",
+          "Exact current degree equivalence, faculty-recognition rules, licence requirements and individual clinical privileges must be checked with the competent authority and employer."
+        ],
+        "seats": {
+          "subject_id": "radiation-oncology",
+          "verified_courses": [
+            {
+              "name": "Medical Oncology",
+              "award": "DM",
+              "entry_route": "NEET-SS: Medical Oncology Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 160,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "DMMO"
+              ],
+              "listed_rows": 37,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Medical Oncology",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Medical Oncology Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 200,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DMON"
+              ],
+              "listed_rows": 97,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee."
+              ]
+            },
+            {
+              "name": "Medical Genetics",
+              "award": "DM",
+              "entry_route": "NEET-SS: Medical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 9,
+              "seat_source_ids": [
+                "seat-mcc-2025-dm-mch"
+              ],
+              "matrix_course_codes": [
+                "DMMG"
+              ],
+              "listed_rows": 3,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee.",
+                "Any recognised MD/MS/DNB broad specialty is eligible; Medical Group question paper is required. This does not open the other Medical Group destinations."
+              ]
+            },
+            {
+              "name": "Medical Genetics",
+              "award": "DrNB",
+              "entry_route": "NEET-SS: Medical Group; MCC SS counselling",
+              "feeder_source_ids": [
+                "seat-nbems-2025"
+              ],
+              "seat_count": 4,
+              "seat_source_ids": [
+                "seat-mcc-2025-drnb"
+              ],
+              "matrix_course_codes": [
+                "DMGN"
+              ],
+              "listed_rows": 2,
+              "notes": [
+                "Eligibility and seat availability are different; this is the dated initial matrix, not an admission guarantee.",
+                "Any recognised MD/MS/DNB broad specialty is eligible; Medical Group question paper is required. This does not open the other Medical Group destinations."
+              ]
+            }
+          ],
+          "unverified_or_ineligible": [
+            {
+              "name": "Surgical Oncology / Critical Care / Interventional Radiology",
+              "note": "Radiation Oncology is not a feeder for these destinations in NEET-SS 2025. It is distinct from Radio-diagnosis and Nuclear Medicine. Institutional training or clinical exposure does not create additional NEET-SS eligibility.",
+              "source_ids": [
+                "seat-nbems-2025"
+              ]
+            }
+          ],
+          "notes": [
+            "Counts may overlap across eligible parent branches. The same destination seat is not reserved separately for each feeder specialty.",
+            "The figures describe NEET-SS 2025 / academic session 2025, whose start was 10 April 2026. They are not NEET-SS 2026 seat counts."
+          ],
+          "destination_subject_count": 2,
+          "award_option_count": 4,
+          "listed_award_option_count": 4,
+          "listed_seat_total": 373,
+          "unlisted_award_options": []
+        },
+        "name": "Radiation Oncology"
       }
     ],
     "seat_methodology": {
@@ -277267,7 +277675,8 @@
           "general-medicine",
           "pediatrics",
           "nuclear-medicine",
-          "radiology"
+          "radiology",
+          "radiation-oncology"
         ],
         "role": "Associate Professor (regular/deputation pay scale)",
         "employer": "AIIMS Raebareli",
@@ -277301,7 +277710,8 @@
           "general-medicine",
           "pediatrics",
           "nuclear-medicine",
-          "radiology"
+          "radiology",
+          "radiation-oncology"
         ],
         "role": "Associate Professor (contractual appointment)",
         "employer": "AIIMS Raebareli",
@@ -277473,7 +277883,8 @@
           "pathology",
           "pediatrics",
           "pharmacology",
-          "radiology"
+          "radiology",
+          "radiation-oncology"
         ],
         "role": "Senior Resident (ad-hoc)",
         "employer": "AIIMS Raebareli",
@@ -277507,7 +277918,8 @@
           "pathology",
           "biochemistry",
           "nuclear-medicine",
-          "radiology"
+          "radiology",
+          "radiation-oncology"
         ],
         "role": "Senior Resident (Hospital Services)",
         "employer": "SGPGIMS Lucknow",
@@ -277515,7 +277927,7 @@
         "city": "Lucknow, Uttar Pradesh",
         "tier": "Tier 2",
         "career_stage": "Post-MD/MS/DNB senior residency",
-        "qualification": "Course-specific recognised postgraduate qualification: medicine/paediatrics clinical departments; pathology/lab-medicine routes; Nuclear Medicine; Radiodiagnosis, as listed in pp7-10.",
+        "qualification": "Course-specific recognised postgraduate qualification: medicine/paediatrics clinical departments; pathology/lab-medicine routes; Nuclear Medicine; Radiodiagnosis; MD/DNB Radiotherapy for Radiotherapy SRHS, as listed in pp7-10.",
         "experience": "Postgraduate entry criteria are department-specific; any superspecialty or other additional requirement must be checked in the brochure.",
         "pay_low": 67700,
         "pay_high": 67700,
@@ -277539,7 +277951,8 @@
           "general-medicine",
           "pediatrics",
           "pathology",
-          "radiology"
+          "radiology",
+          "radiation-oncology"
         ],
         "role": "DM/MCh trainee, year 1",
         "employer": "Tata Memorial Centre / Tata Memorial Hospital",
@@ -277576,7 +277989,8 @@
           "general-medicine",
           "pediatrics",
           "pathology",
-          "radiology"
+          "radiology",
+          "radiation-oncology"
         ],
         "role": "DM/MCh trainee, year 2",
         "employer": "Tata Memorial Centre / Tata Memorial Hospital",
@@ -277613,7 +278027,8 @@
           "general-medicine",
           "pediatrics",
           "pathology",
-          "radiology"
+          "radiology",
+          "radiation-oncology"
         ],
         "role": "DM/MCh trainee, year 3",
         "employer": "Tata Memorial Centre / Tata Memorial Hospital",
@@ -278459,6 +278874,189 @@
           "Exact employer/location, duties and employment terms require direct confirmation.",
           "City tier is an editorial browsing group, not an official pay classification or an adjustment applied to the quoted amount."
         ]
+      },
+      {
+        "id": "rad-private-kundli",
+        "subject_ids": [
+          "radiation-oncology"
+        ],
+        "role": "Radiation Oncologist",
+        "employer": "Pacific Asia Consulting Expertise",
+        "sector": "Private",
+        "city": "Kundli, Sonipat, Haryana",
+        "tier": "Tier 1",
+        "career_stage": "Early-career advertised role",
+        "qualification": "Portal qualification is MD/Medicine Doctor; the exact Radiation Oncology qualification is not stated.",
+        "experience": "0-3 years",
+        "pay_low": 1800000,
+        "pay_high": 3000000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "rad-pay-kundli"
+        ],
+        "notes": [
+          "Header advertises INR 18-30 lakh/year. Body salary field is blank; hospital client is unnamed. Sonipat/Kundli is grouped with Delhi-NCR for this site's editorial tier comparison, not an official pay tier.",
+          "No reliable publication date was visible in the consulted copy; observed 17 October 2026. This is not a confirmed 2026 offer, current vacancy, realised salary or take-home pay."
+        ]
+      },
+      {
+        "id": "rad-private-darbhanga",
+        "subject_ids": [
+          "radiation-oncology"
+        ],
+        "role": "Radiation Oncologist",
+        "employer": "Swami Vivekanand Cancer Hospital (portal advertiser)",
+        "sector": "Private",
+        "city": "Darbhanga, Bihar",
+        "tier": "Other / smaller city",
+        "career_stage": "Early-career advertised role",
+        "qualification": "MD/Medicine Doctor in portal field; exact recognised Radiation Oncology degree and privileges must be confirmed.",
+        "experience": "0-2 years",
+        "pay_low": 2500000,
+        "pay_high": 3500000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "rad-pay-darbhanga"
+        ],
+        "notes": [
+          "Header advertises INR 25-35 lakh/year. Description includes radiation planning and tumour boards, but the qualification field is generic. Advertiser identity, remuneration and vacancy have not been independently confirmed.",
+          "No reliable publication date was visible in the consulted copy; observed 17 October 2026. This is not a confirmed 2026 offer, current vacancy, realised salary or take-home pay."
+        ]
+      },
+      {
+        "id": "rad-private-meerut",
+        "subject_ids": [
+          "radiation-oncology"
+        ],
+        "role": "Senior Resident / Radiation Oncologist",
+        "employer": "Om Healthcare Recruitment Consultancy; unnamed hospital client",
+        "sector": "Private",
+        "city": "Meerut, Uttar Pradesh",
+        "tier": "Tier 2",
+        "career_stage": "Post-MD senior residency advertised role",
+        "qualification": "Body asks for MBBS and MD from a recognised university; specialty not separately specified.",
+        "experience": "Header 0-2 years; description 0-5 years",
+        "pay_low": 1200000,
+        "pay_high": 1400000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "rad-pay-meerut"
+        ],
+        "notes": [
+          "Header advertises INR 12-14 lakh/year; body says salary negotiable. Experience fields conflict. These terms need written confirmation; this is a private recruiter advert, not a government SR scale.",
+          "No reliable publication date was visible in the consulted copy; observed 17 October 2026. This is not a confirmed 2026 offer, current vacancy, realised salary or take-home pay."
+        ]
+      },
+      {
+        "id": "rad-private-jaipur",
+        "subject_ids": [
+          "radiation-oncology"
+        ],
+        "role": "Consultant Radiation Oncologist",
+        "employer": "Recmasters; unnamed organisation",
+        "sector": "Private",
+        "city": "Jaipur, Rajasthan",
+        "tier": "Tier 2",
+        "career_stage": "Consultant role requiring stated experience",
+        "qualification": "Body explicitly requires MD / DNB Radiation Oncology.",
+        "experience": "1-7 years",
+        "pay_low": 2500000,
+        "pay_high": 3250000,
+        "currency": "INR",
+        "period": "year",
+        "basis": "Advertised remuneration",
+        "source_ids": [
+          "rad-pay-jaipur"
+        ],
+        "notes": [
+          "Header advertises INR 25-32.5 lakh/year. Body says consultant in Jaipur but names no hospital or corporate chain. No post-fellowship or post-DM pay premium is stated.",
+          "No reliable publication date was visible in the consulted copy; observed 17 October 2026. This is not a confirmed 2026 offer, current vacancy, realised salary or take-home pay."
+        ]
+      },
+      {
+        "id": "rad-private-head-jaipur",
+        "subject_ids": [
+          "radiation-oncology"
+        ],
+        "role": "Head Radiation Oncologist",
+        "employer": "Vardhman Consultancy Services; associated hospital unnamed",
+        "sector": "Private",
+        "city": "Jaipur, Rajasthan",
+        "tier": "Tier 2",
+        "career_stage": "Experienced department-head advertised role",
+        "qualification": "Portal says Graduate and does not verify a recognised medical-specialist qualification; full credentials must be checked.",
+        "experience": "10-20 years",
+        "pay_low": null,
+        "pay_high": null,
+        "currency": "INR",
+        "period": null,
+        "basis": "Not disclosed",
+        "source_ids": [
+          "rad-pay-head-jaipur"
+        ],
+        "notes": [
+          "Pay is not disclosed. Generic qualification field and unnamed hospital make this a weak lead; it supplies no numeric senior-career salary estimate.",
+          "No reliable publication date was visible in the consulted copy; observed 17 October 2026. This is not a confirmed 2026 offer, current vacancy, realised salary or take-home pay."
+        ]
+      },
+      {
+        "id": "rad-sgpgi-pdcc",
+        "subject_ids": [
+          "radiation-oncology"
+        ],
+        "role": "Radiotherapy PDCC trainee (non-sponsored)",
+        "employer": "SGPGIMS Lucknow",
+        "sector": "Government",
+        "city": "Lucknow, Uttar Pradesh",
+        "tier": "Tier 2",
+        "career_stage": "One-year focused training after MD/DNB",
+        "qualification": "MD/DNB Radiotherapy; accepted exact degree nomenclature and selection must be confirmed.",
+        "experience": "Programme-specific eligibility and selection apply; not a post-fellowship consultant role.",
+        "pay_low": 67700,
+        "pay_high": 67700,
+        "currency": "INR",
+        "period": "month",
+        "basis": "Training stipend",
+        "source_ids": [
+          "rad-sgpgi",
+          "gov-sgpgi2026"
+        ],
+        "notes": [
+          "PDCC emoluments equal first-year SR; INR 67,700 is the monthly basic reference, with applicable allowances separate. Gross and take-home are not calculated.",
+          "Sponsored candidates receive no SGPGI salary/stipend; the sponsoring authority pays. Clinical/SR duties also apply. This is training income, not an income increment after completing the PDCC."
+        ]
+      },
+      {
+        "id": "rad-aiims-bhub-sr-entry",
+        "subject_ids": [
+          "radiation-oncology"
+        ],
+        "role": "Senior Resident (Non-Academic)",
+        "employer": "AIIMS Bhubaneswar",
+        "sector": "Government",
+        "city": "Bhubaneswar, Odisha",
+        "tier": "Tier 2",
+        "career_stage": "Post-MD/DNB senior residency",
+        "qualification": "MD/DNB Radiotherapy/Radiation Oncology, explicitly listed; registration and notice conditions apply.",
+        "experience": "Recognised postgraduate qualification; age and all recruitment conditions apply.",
+        "pay_low": 67700,
+        "pay_high": 67700,
+        "currency": "INR",
+        "period": "month",
+        "basis": "Pay-matrix basic",
+        "source_ids": [
+          "rad-aiims-bhub-sr"
+        ],
+        "notes": [
+          "4 July 2026 three-year SR advertisement; INR 67,700 monthly Level 11 basic plus NPA and other admissible allowances. No take-home calculation.",
+          "Radiation Oncology is explicitly present in the vacancy annexure. This dated notice does not establish present availability or permanent employment."
+        ]
       }
     ],
     "salary_methodology": [
@@ -278517,6 +279115,39 @@
         }
       ],
       "branches": {
+        "radiation-oncology": {
+          "positioning": "My shortlisting opinion: consider Radiation Oncology if you enjoy cancer medicine, treatment planning, imaging anatomy and sustained patient relationships, and are willing to work where treatment infrastructure and a funded role exist. I would not choose it solely as a presumed route to Medical Oncology or assume a new machine guarantees a job. A strong, functioning department with hands-on supervision would weigh more heavily for me than central/state/deemed/private ownership alone.",
+          "earnings_levers": [
+            "Demonstrated clinical judgement, contouring/plan evaluation, toxicity management and supervised procedural competence within your privileges.",
+            "A real funded post, predictable planning and patient workload, and functioning physics/equipment support in a city you can accept.",
+            "Site-focused or brachytherapy skills that meet a specific employer's need. A certificate, expensive machine or further DM does not establish an automatic salary uplift.",
+            "Written fixed pay and incentive rules, on-call responsibilities and patient allocation; hospital treatment receipts are not personal earnings."
+          ],
+          "career_stages": [
+            {
+              "stage": "After MD/DNB",
+              "focus": "Compare SR/supported consultant roles and assess readiness for independent case management. Public SR examples give INR 67,700 basic/month plus applicable allowances. Portal adverts have different annual figures, qualifications and evidence quality; they are not a market average."
+            },
+            {
+              "stage": "Focused fellowship / PDCC",
+              "focus": "Three verified examples cover advanced techniques, palliative oncology and gynaecologic brachytherapy. Compare real case logs, supervision, certificate, stipend/fees, sponsor rules and one year's opportunity cost. No matched salary premium is established."
+            },
+            {
+              "stage": "DM/DrNB training",
+              "focus": "Medical Oncology and Medical Genetics are eligible destinations in NEET-SS 2025, with four award options. Select the specialty and required exam group deliberately; qualifying eligibility does not reserve a seat or guarantee future earnings."
+            },
+            {
+              "stage": "After SS / established clinician",
+              "focus": "A Medical Oncology or Genetics career requires the appropriate training, role and privileges. Senior Radiation Oncology practice/academia is also a distinct path. The observed Associate Professor and unnamed head-role adverts do not supply a universal senior-consultant salary band."
+            }
+          ],
+          "verify": [
+            "Ask recent graduates how long they took to find a funded job, in which city and at what fixed pay; speak to more than one department's alumni.",
+            "Compare operational equipment, supervised contours, plan-review frequency, brachytherapy procedures personally performed and emergency support, not just the advertised technology list.",
+            "Check current exact feeder equivalence, institute rules, faculty recognition and clinical privileges for your degree and any fellowship.",
+            "Named corporate-chain salary data, a representative Tier 1/Tier 2 comparison and post-fellowship/SS earnings remain gaps. Undated adverts do not establish a pay trend."
+          ]
+        },
         "ent": {
           "positioning": "A reasonable shortlist if you enjoy both outpatient medicine and fine surgical work. I would prioritise a department that demonstrably graduates safe independent general ENT surgeons before paying for a narrower label.",
           "earnings_levers": [
