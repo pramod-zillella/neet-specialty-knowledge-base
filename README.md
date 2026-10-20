@@ -21,6 +21,16 @@ The workbook includes a blank written-confirmation tracker. Approximate name sug
 
 For hosting, upload **all extracted files**, including `accreditation-data.js`, every `accreditation-records-*.js` file and the complete `exports/` folder. The data is split to keep each public file below 25 MB for GitHub browser uploads. The structured accreditation JSON lists relative `record_parts`; concatenate those arrays to reconstruct its complete records. `exports/knowledge-base.json` points to that separate accreditation export.
 
+## Resident experience survey and filterable Excel
+
+Open **Resident experience** in the dashboard, or use the `#residents` link. The view contains **1,748 department ratings across 662 institutions in 30 states/UTs**, transcribed from the supplied Resident-Rated Department Toxicity Index, branded The Nachiket Bhatia Show, with a revised data cutoff of **6 October 2026**. Filter by state preference, state, institution, specialty, program label, published verdict and duty-hours source; search by college/city/branch. All matching rows scroll continuously. The Institution directory lists the institutions in this PDF, rather than their affiliating universities.
+
+Download the **[filterable Excel workbook](exports/resident-toxicity2026/Resident-Rated-Toxicity-Index-filterable.xlsx)**, [institution list](exports/resident-toxicity2026/institutions.csv), [all department ratings](exports/resident-toxicity2026/department-ratings.csv), [detailed assessment](exports/resident-toxicity2026/README.md) or [complete research pack](exports/Resident-Rated-Toxicity-Index-research-pack.zip). Every row links to its page in the supplied source PDF. The public data and downloads contain institution/department aggregates, not individual respondent records.
+
+**These are unverified anonymous resident aggregates, not an institutional safety finding or a validated ranking.** Per-department sample sizes are absent; the report says most departments have one or two responses. All 1,710 complete rows reproduce the score within displayed rounding; 38 rows have missing domain ratings. Arithmetic consistency does not establish representativeness. **577 duty-hour entries are estimates from other reports**, explicitly labelled and independently filterable. Individual domain ratings run higher-is-better; the composite runs higher-is-worse. Safety has only 5% weight, so a low aggregate can conceal an important concern. Source verdict labels, unknown values, mixed program labels and unclear campuses remain explicit.
+
+**Metrics & credibility** explains these limits and the conflicting old/revised cover totals. No specific Reddit thread or comment was verified because public access was blocked and search results were unusable; the clearly labelled Reddit links are search routes only. The source PDF, workbook, assessment and aggregate exports are included in the hosting ZIP. Full transcripts, private caches and credentials remain excluded. The public snapshot can be rebuilt with `python scripts/resident_experience.py`.
+
 ## Current collection
 
 - 134 distinct videos catalogued from the **Videos tab, four playlists and a requested new-video update**. This is not the entire channel: its header displays about 1K total videos, and Shorts have not been inventoried.
