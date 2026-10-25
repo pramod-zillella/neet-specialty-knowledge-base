@@ -127,15 +127,18 @@
   const accreditations = window.createAccreditationView({data,state,esc,render});
   const residents = window.createResidentExperienceView({esc});
   const choices = window.createCutoffShortlistView({esc});
+  const counselling = window.createCounsellingView({esc,state,render});
   const institutionIds = new Set((data.institutions?.subjects || []).map(s=>s.id));
   const careerIds = new Set((data.careers?.branches || []).map(b=>b.subject_id));
   function render() {
-    document.querySelector('.workspace').classList.toggle('institution-workspace',['institutions','bonds','accreditations','residents','choices'].includes(state.view));
+    document.querySelector('.workspace').classList.toggle('institution-workspace',['institutions','bonds','accreditations','residents','choices','counselling'].includes(state.view));
+    document.body.classList.toggle('counselling-active',state.view==='counselling');
     document.querySelectorAll('[data-view]').forEach(button=>{if(button.dataset.view===state.view)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');});
-    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges,conclusions,careers,institutions,bonds,accreditations,residents,choices}[state.view]||overview)();
+    $('content').innerHTML=({overview,summaries:videoSummaries,compare,library,colleges,conclusions,careers,institutions,bonds,accreditations,residents,choices,counselling}[state.view]||overview)();
     topicSidebar();
   }
   function go(view,subject=state.subject) {
+    if(view==='counselling'){state.view=view;if(location.hash==='#counselling/overview')render();else location.hash='#counselling/overview';return;}
     if(view==='choices'){state.view=view;if(location.hash==='#choices')render();else location.hash='#choices';return;}
     if(view==='residents'){state.view=view;if(location.hash==='#residents')render();else location.hash='#residents';return;}
     if(view==='accreditations'){state.view=view;state.accFocus='';const hash='#accreditations';if(location.hash===hash)render();else location.hash=hash;return;}
@@ -150,7 +153,8 @@
   }
   function readHash() {
     const [view,id,vid]=location.hash.slice(1).split('/');
-    state.view=['overview','summaries','compare','library','colleges','conclusions','careers','institutions','bonds','accreditations','residents','choices'].includes(view)?view:'overview';
+    state.view=['overview','summaries','compare','library','colleges','conclusions','careers','institutions','bonds','accreditations','residents','choices','counselling'].includes(view)?view:'overview';
+    if(view==='counselling')state.counsellingTab=['overview','mcc','ts-cq','raj','ts-mq','scenario'].includes(id)?id:'overview';
     if(view==='accreditations'){
       state.accFocus=data.accreditations.institutions.some(i=>i.id===id)?id:'';
       if(state.accFocus){for(const key of ['accState','accBody','accCategory','accValidity','accEvidence','accMatrix','accPresence','accManagement','accQuery'])state[key]='';}
@@ -167,6 +171,7 @@
     if(view==='careers') {state.careerBranch=careerIds.has(id)?id:'radiology';state.subject=state.careerBranch;state.careerTab=['routes','seats','salary','shortlist'].includes(vid)?vid:'routes';}
     if(episodes.has(vid)){state.video=vid;const subject=subjects.get(state.subject);if(![...subject.episode_ids,...subject.related_episode_ids].includes(vid))state.summaryAll=true;}
     render();
+    if(view==='counselling')document.querySelector('.counselling-view')?.scrollIntoView({block:'start'});
     if(view==='institutions'&&vid){const target=$('shortlist-'+vid);if(target){target.querySelector('.shortlist-detail').open=true;target.scrollIntoView({block:'start'});}}
   }
   function exportFile(name, value) { const blob=new Blob([JSON.stringify(value,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const link=document.createElement('a');link.href=url;link.download=name;link.click();setTimeout(()=>URL.revokeObjectURL(url),1000); }

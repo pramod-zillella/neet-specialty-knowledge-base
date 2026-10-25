@@ -1,0 +1,9 @@
+﻿route,pool,split,implication,refs
+mcc,Participating state government MD/MS,50% MCC AIQ / 50% state process,Eligible for national AIQ irrespective of Telangana domicile; the state half uses that state’s eligibility.,"mcc-bulletin: PDF p. 4, 24"
+mcc,Deemed and participating DNB,"100% through MCC, subject to seat/eligibility rules",Not a state-government 50% AIQ pool; NRI/minority/internal conditions can still apply.,"mcc-bulletin: PDF p. 24–27, 41"
+ts-cq,Telangana government colleges,State share after AIQ contribution,Normally 50% state / 50% MCC AIQ. NIMS and specific institutional seats need their notified matrix.,ts-cq-prospectus: PDF p. 3; ts-cq-notification: PDF p. 1; mcc-bulletin: PDF p. 24
+ts-cq,Telangana private colleges,50% CQ / 50% management,CQ eligibility and reservations are different from MQ1/2/3.,ts-mq-prospectus: PDF p. 18; ts-cq-prospectus: PDF p. 3–6
+ts-mq,Within all private specialty seats,MQ1 25% + MQ2/NRI 15% + MQ3 10%,These total 50% of all seats; they are not percentages of the management half.,ts-mq-prospectus: PDF p. 18–19
+ts-mq,Within MQ1 only,85% Telangana-local / 15% open nationally,For 100 total seats: conceptual 21.25 local MQ1 / 3.75 open MQ1. Actual allocations follow roster and rounding.,ts-mq-prospectus: PDF p. 19
+raj,Rajasthan government institutions,50% MCC AIQ / 50% Rajasthan state,Telangana applicants use MCC for AIQ; state eligibility is restricted through Round 3.,"raj-booklet: PDF p. 4, 15"
+raj,Rajasthan private institutions,50% restricted state-eligible / 50% open private,All are administered by Rajasthan. Your principal route is the open half; check AI/State/Management labels in the actual matrix.,"raj-booklet: PDF p. 10, 15"

@@ -1,0 +1,37 @@
+﻿id,route,title,start,end,time_ist,note,tentative,previous,refs
+mcc-event-1,mcc,Round 1 result,2026-10-24,2026-10-24,,Final result notice is present on the live MCC page.,False,,mcc-live
+mcc-event-2,mcc,Round 1 reporting / Float verification,2026-10-26,2026-11-02,,Upload promptly; institute approval and query resolution must finish within the window. Exact final-day cut-off: follow portal/institute notice.,True,,mcc-schedule: PDF p. 1
+mcc-event-3,mcc,Round 2 registration,2026-11-06,2026-11-11,12:00,Closes 12 noon IST; payment closes 3 PM. Existing eligible registrants normally do not register afresh.,True,,mcc-schedule: PDF p. 2
+mcc-event-4,mcc,Round 2 payment deadline,2026-11-06,2026-11-11,15:00,Payment facility closes 3 PM IST.,True,,mcc-schedule: PDF p. 2
+mcc-event-5,mcc,Round 2 fresh choices,2026-11-07,2026-11-12,10:00,"Closes 10 AM IST; locking starts 11 November, 4 PM. Submit only acceptable upgrades.",True,,mcc-schedule: PDF p. 2
+mcc-event-6,mcc,Round 2 result,2026-11-14,2026-11-14,,Upgrade cancels the old seat immediately.,True,,mcc-schedule: PDF p. 2
+mcc-event-7,mcc,Round 2 reporting,2026-11-16,2026-11-23,,Non-joining of an allotted/upgraded seat forfeits security.,True,,mcc-schedule: PDF p. 2
+mcc-event-8,mcc,Academic session starts,2026-11-20,2026-11-20,,Later rounds continue after classes start.,True,,mcc-schedule: PDF p. 4
+mcc-event-9,mcc,Round 3 registration,2026-11-26,2026-12-01,12:00,Closes 12 noon IST; payment closes 3 PM.,True,,mcc-schedule: PDF p. 3
+mcc-event-10,mcc,Round 3 payment deadline,2026-11-26,2026-12-01,15:00,Payment facility closes 3 PM IST.,True,,mcc-schedule: PDF p. 3
+mcc-event-11,mcc,Round 3 fresh choices,2026-11-27,2026-12-02,10:00,"Closes 10 AM IST; locking starts 1 December, 4 PM.",True,,mcc-schedule: PDF p. 3
+mcc-event-12,mcc,Round 3 result,2026-12-04,2026-12-04,,No resignation after joining; do not plan a later state switch.,True,,mcc-schedule: PDF p. 3
+mcc-event-13,mcc,"Round 3 physical reporting, including retained Float seats",2026-12-05,2026-12-12,,All retained Round 1/2 Float seats also require physical reporting after Round 3.,True,,mcc-schedule: PDF p. 3
+mcc-event-14,mcc,Stray registration,2026-12-16,2026-12-21,12:00,Closes noon; payment closes 3 PM; eligibility restrictions apply.,True,,mcc-schedule: PDF p. 4
+mcc-event-15,mcc,Stray payment deadline,2026-12-16,2026-12-21,15:00,Payment facility closes 3 PM IST.,True,,mcc-schedule: PDF p. 4
+mcc-event-16,mcc,Stray choices / locking,2026-12-16,2026-12-21,23:55,Closes 11:55 PM IST; locking starts 4 PM on 21 December.,True,,mcc-schedule: PDF p. 4
+mcc-event-17,mcc,Stray result,2026-12-24,2026-12-24,,Join an allotted seat or forfeit security.,True,,mcc-schedule: PDF p. 4
+mcc-event-18,mcc,Stray reporting,2026-12-24,2026-12-31,,Original documents and institute formalities required.,True,,mcc-schedule: PDF p. 4
+mcc-event-19,mcc,Joined Round 1 resignation cut-off,,,,No exact separate cut-off established in the checked notices. Watch the live MCC resignation notice; do not substitute 2 November automatically.,False,,"mcc-bulletin: PDF p. 13, 15"
+ts-cq-event-20,ts-cq,CQ registration and certificate upload,2026-10-15,2026-10-23,16:00,Published window ended 4 PM IST; no CQ extension was found in the reviewed current MEDICAL PG notices.,False,,"ts-cq-prospectus: PDF p. 2, 7"
+ts-cq-event-21,ts-cq,"CQ merit, web options and reporting",,,,"To be notified separately by KNRUHS. National state-coordination dates are planning dates, not a local options portal opening.",False,,"ts-cq-prospectus: PDF p. 2, 20"
+ts-cq-event-22,ts-cq,CQ free-exit deadline,,,,Requires the applicable KNRUHS phase/exit notice. No date invented from MCC rules.,False,,ts-cq-prospectus: PDF p. 22
+ts-mq-event-23,ts-mq,MQ registration and certificate upload,2026-10-22,2026-10-30,16:00,Separate MQ application; closes 4 PM IST.,False,,ts-mq-notification: PDF p. 1
+ts-mq-event-24,ts-mq,"MQ merit, web options and reporting",,,,To be notified separately. Registration alone is not submission of web options.,False,,"ts-mq-prospectus: PDF p. 2, 21"
+ts-mq-event-25,ts-mq,MQ exit / sliding window,,,,Await the phase-specific notice; the prospectus’s late-discontinuation liability is not an exit schedule.,False,,ts-mq-prospectus: PDF p. 21–22
+raj-event-26,raj,Extended Part 1 / registration payment,2026-10-18,2026-10-24,16:00,Live notice extended the original deadline. Latest checked deadline has passed.,False,"Original: 23 October, 5 PM IST",raj-api
+raj-event-27,raj,Extended Part 2 completed application,2026-10-18,2026-10-24,20:00,Finish both application parts; payment alone is not a completed application.,False,"Original: 23 October, 11:55 PM IST",raj-api
+raj-event-28,raj,Provisional merit list,2026-10-27,2026-10-27,,Check your entry and subsequent correction notices.,False,,raj-schedule: PDF p. 1
+raj-event-29,raj,Security deposit,2026-10-19,2026-10-29,17:00,"Closes 5 PM IST, earlier than choice locking.",False,,raj-schedule: PDF p. 1
+raj-event-30,raj,Saved choices / auto-lock,2026-10-19,2026-10-29,23:45,Closes 11:45 PM IST. Save choices and print the final copy after auto-lock.,False,,raj-schedule: PDF p. 2
+raj-event-31,raj,Round 1 provisional allotment,2026-11-02,2026-11-02,,Wait for the official allotment letter and check seat nature.,False,,raj-schedule: PDF p. 2
+raj-event-32,raj,Allotment letter download,2026-11-03,2026-11-06,13:00,Closes 1 PM IST; schedule requests six copies.,False,,raj-schedule: PDF p. 2
+raj-event-33,raj,One-year tuition payment,2026-11-03,2026-11-06,15:00,NEFT/RTGS only; closes 3 PM IST. Follow Board account details on letter.,False,,raj-schedule: PDF p. 2
+raj-event-34,raj,In-person reporting at SMS Jaipur,2026-11-03,2026-11-06,16:00,"9 AM–4 PM daily at allotted-college desk, Academic Block, SMS Medical College, Jaipur.",False,,raj-schedule: PDF p. 2
+raj-event-35,raj,Academic session starts,2026-11-20,2026-11-20,,As stated in the Rajasthan schedule and national calendar.,False,,raj-schedule: PDF p. 2
+raj-event-36,raj,"Round 2, Round 3 and Stray detailed dates",,,,Not published in the checked Rajasthan notices. Do not assign national coordination dates as confirmed local deadlines.,False,,raj-schedule: PDF p. 2

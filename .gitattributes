@@ -1,3 +1,4 @@
 *.pdf binary
 *.xlsx binary
 *.zip binary
+*.ics -text

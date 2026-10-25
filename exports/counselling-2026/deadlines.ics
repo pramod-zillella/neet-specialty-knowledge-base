@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fieldnotes Medicine//Counselling 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NEET PG 2026 counselling snapshot
+BEGIN:VEVENT
+UID:mcc-event-1@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:MCC: Round 1 result
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Final result notice is present on the liv
+ e MCC page. Sources: https://mcc.nic.in/pg-medical-counselling/
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-2@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261103
+SUMMARY:MCC: Round 1 reporting / Float verification
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Upload promptly\; institute approval and
+  query resolution must finish within the window. Exact final-day cut-off:
+  follow portal/institute notice. Sources: https://cdnbbsr.s3waas.gov.in/s3
+ e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-3@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261111T063000Z
+DTEND:20261111T064500Z
+SUMMARY:MCC: Round 2 registration
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Closes 12 noon IST\; payment closes 3 PM.
+  Existing eligible registrants normally do not register afresh. Sources: h
+ ttps://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/20
+ 26/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-4@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261111T093000Z
+DTEND:20261111T094500Z
+SUMMARY:MCC: Round 2 payment deadline
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Payment facility closes 3 PM IST. Sources
+ : https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads
+ /2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-5@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261112T043000Z
+DTEND:20261112T044500Z
+SUMMARY:MCC: Round 2 fresh choices
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Closes 10 AM IST\; locking starts 11 Nove
+ mber\, 4 PM. Submit only acceptable upgrades. Sources: https://cdnbbsr.s3w
+ aas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610071411
+ 981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-6@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:MCC: Round 2 result
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Upgrade cancels the old seat immediately.
+  Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e
+ /uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-7@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261124
+SUMMARY:MCC: Round 2 reporting
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Non-joining of an allotted/upgraded seat
+  forfeits security. Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b8
+ 4b83b693bbf3feb8e6e/uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-8@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:MCC: Academic session starts
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Later rounds continue after classes start
+ . Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6
+ e/uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-9@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261201T063000Z
+DTEND:20261201T064500Z
+SUMMARY:MCC: Round 3 registration
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Closes 12 noon IST\; payment closes 3 PM.
+  Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e
+ /uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-10@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261201T093000Z
+DTEND:20261201T094500Z
+SUMMARY:MCC: Round 3 payment deadline
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Payment facility closes 3 PM IST. Sources
+ : https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads
+ /2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-11@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261202T043000Z
+DTEND:20261202T044500Z
+SUMMARY:MCC: Round 3 fresh choices
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Closes 10 AM IST\; locking starts 1 Decem
+ ber\, 4 PM. Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693
+ bbf3feb8e6e/uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-12@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:MCC: Round 3 result
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. No resignation after joining\; do not pla
+ n a later state switch. Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0e
+ f9b84b83b693bbf3feb8e6e/uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-13@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261213
+SUMMARY:MCC: Round 3 physical reporting\, including retained Float seats
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. All retained Round 1/2 Float seats also r
+ equire physical reporting after Round 3. Sources: https://cdnbbsr.s3waas.g
+ ov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261007141198108
+ 9.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-14@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261221T063000Z
+DTEND:20261221T064500Z
+SUMMARY:MCC: Stray registration
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Closes noon\; payment closes 3 PM\; eligi
+ bility restrictions apply. Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4
+ d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-15@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261221T093000Z
+DTEND:20261221T094500Z
+SUMMARY:MCC: Stray payment deadline
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Payment facility closes 3 PM IST. Sources
+ : https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads
+ /2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-16@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261221T182500Z
+DTEND:20261221T184000Z
+SUMMARY:MCC: Stray choices / locking
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Closes 11:55 PM IST\; locking starts 4 PM
+  on 21 December. Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b8
+ 3b693bbf3feb8e6e/uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-17@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:MCC: Stray result
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Join an allotted seat or forfeit security
+ . Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6
+ e/uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:mcc-event-18@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270101
+SUMMARY:MCC: Stray reporting
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Original documents and institute formalit
+ ies required. Sources: https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b6
+ 93bbf3feb8e6e/uploads/2026/10/202610071411981089.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ts-cq-event-20@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261023T103000Z
+DTEND:20261023T104500Z
+SUMMARY:TS-CQ: CQ registration and certificate upload
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Published window ended 4 PM IST\; no CQ e
+ xtension was found in the reviewed current MEDICAL PG notices. Sources: ht
+ tps://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/2026101
+ 4110317_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHOR
+ ITY-QUOTA-FOR-THE-AY-2026-27-PROSPECTUS.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:ts-mq-event-23@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261030T103000Z
+DTEND:20261030T104500Z
+SUMMARY:TS-MQ: MQ registration and certificate upload
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Separate MQ application\; closes 4 PM IST
+ . Sources: https://www.knruhs.telangana.gov.in/wp-content/uploads/notifica
+ tions/20261022103806_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MAN
+ AGEMENT-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-REGISTRATION-OF-CANDIDAT
+ ES.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-26@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261024T103000Z
+DTEND:20261024T104500Z
+SUMMARY:RAJ: Extended Part 1 / registration payment
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Live notice extended the original deadlin
+ e. Latest checked deadline has passed. Sources: https://pg.neetrajasthan.c
+ om/api/v1/user/getAllNotifications
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-27@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261024T143000Z
+DTEND:20261024T144500Z
+SUMMARY:RAJ: Extended Part 2 completed application
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Finish both application parts\; payment a
+ lone is not a completed application. Sources: https://pg.neetrajasthan.com
+ /api/v1/user/getAllNotifications
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-28@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:RAJ: Provisional merit list
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Check your entry and subsequent correctio
+ n notices. Sources: https://pg.neetrajasthan.com/notifications/17922417146
+ 32.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-29@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261029T113000Z
+DTEND:20261029T114500Z
+SUMMARY:RAJ: Security deposit
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Closes 5 PM IST\, earlier than choice loc
+ king. Sources: https://pg.neetrajasthan.com/notifications/1792241714632.pd
+ f
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-30@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261029T181500Z
+DTEND:20261029T183000Z
+SUMMARY:RAJ: Saved choices / auto-lock
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Closes 11:45 PM IST. Save choices and pri
+ nt the final copy after auto-lock. Sources: https://pg.neetrajasthan.com/n
+ otifications/1792241714632.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-31@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:RAJ: Round 1 provisional allotment
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Wait for the official allotment letter an
+ d check seat nature. Sources: https://pg.neetrajasthan.com/notifications/1
+ 792241714632.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-32@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261106T073000Z
+DTEND:20261106T074500Z
+SUMMARY:RAJ: Allotment letter download
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. Closes 1 PM IST\; schedule requests six c
+ opies. Sources: https://pg.neetrajasthan.com/notifications/1792241714632.p
+ df
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-33@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261106T093000Z
+DTEND:20261106T094500Z
+SUMMARY:RAJ: One-year tuition payment
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. NEFT/RTGS only\; closes 3 PM IST. Follow
+  Board account details on letter. Sources: https://pg.neetrajasthan.com/no
+ tifications/1792241714632.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-34@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART:20261106T103000Z
+DTEND:20261106T104500Z
+SUMMARY:RAJ: In-person reporting at SMS Jaipur
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. 9 AM–4 PM daily at allotted-college des
+ k\, Academic Block\, SMS Medical College\, Jaipur. Sources: https://pg.nee
+ trajasthan.com/notifications/1792241714632.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:raj-event-35@fieldnotes-medicine
+DTSTAMP:20261025T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:RAJ: Academic session starts
+DESCRIPTION:Checked 25 October 2026\; static snapshot\, not automatic updat
+ es. All published deadlines IST. As stated in the Rajasthan schedule and n
+ ational calendar. Sources: https://pg.neetrajasthan.com/notifications/1792
+ 241714632.pdf
+END:VEVENT
+END:VCALENDAR

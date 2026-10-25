@@ -1,0 +1,2535 @@
+{
+  "version": 1,
+  "as_of": "2026-10-25",
+  "cycle": "2026–27",
+  "timezone": "Asia/Kolkata",
+  "scope": "Official-source snapshot for a Telangana-local MBBS graduate comparing MCC, Telangana CQ, Rajasthan open-private and Telangana MQ. All dates/times are IST. Not a live notification service.",
+  "routes": [
+    {
+      "id": "mcc",
+      "short": "MCC All India",
+      "name": "MCC All India counselling",
+      "authority": "Medical Counselling Committee",
+      "portal": "https://mcc.nic.in/pg-medical-counselling/",
+      "application": "https://mcc.nic.in/pg-medical-counselling/",
+      "headline": "Round 1 result published; reporting 26 October–2 November",
+      "summary": "AIQ, central/institutional, deemed-university and participating DNB choices share MCC counselling. Each has its own eligibility and college fees.",
+      "critical": [
+        "Float needs online joining AND institute document approval; willingness alone is not a confirmed admission.",
+        "An upgrade cancels the earlier seat automatically. You cannot choose between the two after the upgrade.",
+        "Round 2 onwards: non-joining or surrender risks forfeiture. Round 3 is a commitment; no resignation."
+      ]
+    },
+    {
+      "id": "ts-cq",
+      "short": "Telangana State",
+      "name": "Telangana Competent Authority Quota",
+      "authority": "KNRUHS",
+      "portal": "https://www.knruhs.telangana.gov.in/admission-notification/?search=MEDICAL%20PG",
+      "application": "https://tspgmed.tsche.in/",
+      "headline": "Published registration window ended 23 October; web-option dates pending",
+      "summary": "For eligible Telangana-local candidates. Covers the state share of government seats and the Competent Authority share of private colleges; the registration notice also includes NIMS Hyderabad.",
+      "critical": [
+        "Telangana-local status must meet the study/admission rules; domicile alone is not the complete test.",
+        "The free-exit date must come from a KNRUHS notice. MCC’s Round 1 rule does not create a Telangana exit window.",
+        "Discontinuing after free exit can trigger ₹50 lakh, stipend recovery under the bond and a three-year KNRUHS counselling bar."
+      ]
+    },
+    {
+      "id": "raj",
+      "short": "Rajasthan State",
+      "name": "Rajasthan state counselling",
+      "authority": "NEET PG Admission/Counselling Board, Rajasthan",
+      "portal": "https://pg.neetrajasthan.com/",
+      "application": "https://pg.neetrajasthan.com/",
+      "headline": "Extended registration ended 24 October; security and choices close 29 October",
+      "summary": "A Telangana MBBS graduate is eligible in principle for the open 50% share of private seats. These are Rajasthan-administered seats, separate from MCC AIQ.",
+      "critical": [
+        "Out-of-state candidates are treated as UR for state-category benefits and must meet UR qualification.",
+        "Private choices need ₹5 lakh security; higher security does not create eligibility for restricted state seats.",
+        "Report in person at the allotted-college desk at SMS Medical College, Jaipur, with originals and one-year tuition proof."
+      ]
+    },
+    {
+      "id": "ts-mq",
+      "short": "Telangana Management",
+      "name": "Telangana Management Quota",
+      "authority": "KNRUHS",
+      "portal": "https://www.knruhs.telangana.gov.in/admission-notification/?search=MEDICAL%20PG",
+      "application": "https://pvttspgmed.tsche.in/",
+      "headline": "Registration open: deadline 30 October, 4 PM IST",
+      "summary": "Separate registration from Telangana State/CQ. MQ1, MQ2/NRI and MQ3/institutional seats have distinct eligibility and university fees; the notification also includes Neelima/Anurag University.",
+      "critical": [
+        "85% of MQ1 is Telangana-local reserved and 15% open nationally. This split applies within MQ1, not all seats.",
+        "The ₹2 lakh clinical MQ1 university fee is separate from annual tuition and is not an MCC security deposit.",
+        "Discontinuation after second-phase counselling or later attracts ₹50 lakh and a three-year KNRUHS counselling bar under the prospectus."
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "id": "mcc-1",
+      "route": "mcc",
+      "category": "Eligibility & seats",
+      "title": "What MCC covers",
+      "text": "50% AIQ contributed by participating state government colleges; 100% deemed and participating DNB seats; central-university/institute seats with their own internal eligibility. INI-CET is separate. “All MCC seats” is not the same as “50% state-government AIQ”.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "4, 24, 26, 29–41"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-2",
+      "route": "mcc",
+      "category": "Reservations",
+      "title": "Central reservation, not Telangana’s roster",
+      "text": "AIQ: SC 15%, ST 7.5%, Central-list OBC-NCL 27%, EWS 10%; PwD 5% horizontal. State BC status alone is not Central OBC-NCL proof. No general women’s quota is listed in this AIQ reservation table. Deemed/minority/NRI and internal seats require their own rules.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "24–27"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-3",
+      "route": "mcc",
+      "category": "Reporting & documents",
+      "title": "Float is online joining in 2026",
+      "text": "Submit Float willingness, upload clear mandatory documents and contact the allotted institute’s nodal officer. The institute verifies online. Resolve queries within the reporting window and retain the provisional seat-confirmation record. The bulletin calls for uploads within 2–3 days of final allotment so discrepancies can be resolved; the overall reporting deadline still controls.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "10–12, 54"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-4",
+      "route": "mcc",
+      "category": "Reporting & documents",
+      "title": "Freeze requires physical reporting",
+      "text": "Physically report with original documents and admission fees at the allotted institute. A final allotment letter or a Float click alone does not replace completion of joining.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "10–12"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-5",
+      "route": "mcc",
+      "category": "Exit & upgrades",
+      "title": "Keep the Round 1 seat while seeking an upgrade",
+      "text": "A properly joined Round 1 Float candidate may fill fresh Round 2 choices. If no upgrade occurs, the existing seat is retained. If you decide against Round 2 upgrading, FAQ 19 says not to fill fresh choices; verify the portal status. This retains a seat, not an indefinite right to free resignation.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "54–56"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-6",
+      "route": "mcc",
+      "category": "Exit & upgrades",
+      "title": "Upgrades are binding replacements",
+      "text": "On a Round 2 upgrade, the old Round 1 seat is automatically cancelled; it cannot be reclaimed. Obtain the online relieving record and complete joining of the new seat. Even a category upgrade at the same college needs fresh admission formalities. Non-joining of the upgraded seat forfeits security.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "44–45, 56, 58"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-7",
+      "route": "mcc",
+      "category": "Exit & upgrades",
+      "title": "Switching to a state seat",
+      "text": "The Round 1/2 scheme permits participation in state counselling. To take a state allotment, surrender the MCC seat formally: Float resignation online; Freeze resignation physically at the institute. Use the MCC-notified resignation period and save the accepted/generated record. A state allotment does not automatically resign MCC.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "13, 15"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-8",
+      "route": "mcc",
+      "category": "Exit & upgrades",
+      "title": "Round 1 free exit has a time limit for joined candidates",
+      "text": "A Round 1 non-joiner can free exit. A joined candidate must use the formal resignation process within the period prescribed by MCC. The checked documents do not publish a separate exact resignation cut-off for every cross-counselling switch. Do not substitute the reporting deadline for an unannounced resignation deadline.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "13, 15, 43"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-9",
+      "route": "mcc",
+      "category": "Exit & upgrades",
+      "title": "Round 2: forfeiture; further entry needs fresh payment",
+      "text": "Non-joining or surrender of a Round 2 allotment forfeits security. The scheme permits eligible candidates who resigned/exited Round 2 to participate in Round 3 with fresh payment. Resignation still requires a permitted window.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "7, 13, 15, 45"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-10",
+      "route": "mcc",
+      "category": "Exit & upgrades",
+      "title": "Round 3 and Stray are commitment rounds",
+      "text": "Non-joining a Round 3 seat forfeits security and eliminates further MCC participation. Joined Round 3 seats cannot be resigned. Stray allotment must be joined or security is forfeited. Eligibility for Stray also depends on prior allotments/joined status and Centre–State data sharing.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "16, 45–46"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-11",
+      "route": "mcc",
+      "category": "Reporting & documents",
+      "title": "Retained Float seats must physically join after Round 3",
+      "text": "After Round 3, physical reporting is mandatory for fresh/upgraded Round 3 allottees and Round 1/2 Float candidates who did not upgrade. Online Float cannot be continued indefinitely.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "12, 16"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-12",
+      "route": "mcc",
+      "category": "Money & refunds",
+      "title": "AIQ plus deemed: only the higher MCC payment is prescribed",
+      "text": "FAQ 9 says candidates opting for both pay only ₹5,000 registration plus ₹2 lakh security. It does not prescribe ₹25,000 plus ₹2 lakh as two independently protected deposits. If both were collected, reconcile receipts with MCC/HLL; do not assume a government allotment limits forfeiture to ₹25,000.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "52–53"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-13",
+      "route": "mcc",
+      "category": "Money & refunds",
+      "title": "Refunds follow completion of counselling",
+      "text": "Eligible security refunds return to the original payment account after counselling, not immediately after each round. Keep that account/card active. Registration fees are non-refundable; tuition refunds and college bond liabilities are separate. The refund FAQ describes initiation within 15 days/working days and completion within 30 days of the relevant MCC notification/list.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "60–62"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-14",
+      "route": "mcc",
+      "category": "Changes & cautions",
+      "title": "2026 change explicitly identified by MCC",
+      "text": "Chapter 3 contrasts the 2025 physical process with the new 2026 Freeze/Float workflow. Use its online-joining and online Float-resignation instructions alongside the round rules; generic physical-reporting text elsewhere in the bulletin must be read in that context.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "10–13"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "mcc-15",
+      "route": "mcc",
+      "category": "Bonds & commitment",
+      "title": "MCC admission does not erase a college/state bond",
+      "text": "MCC directs candidates to confirm course fees, stipend, service obligations and bond amounts with the institution before choices. The state-government AIQ service policy, central institution, deemed college and DNB hospital can differ. Use the State bonds page for dated evidence, then confirm the actual 2026 contract.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "7"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-16",
+      "route": "ts-cq",
+      "category": "Eligibility & seats",
+      "title": "Local eligibility must be documented",
+      "text": "Local means at least four consecutive years of Telangana study ending in the relevant qualifying examination, subject to the stated exceptions. A Telangana UG-local entrant studying at the specified outside state-wide institution can qualify; a non-local-quota MBBS entrant in Telangana is not automatically local. Other-state candidates are ineligible. Your Telangana MBBS/local claim needs the prescribed study and admission records.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "3–4"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-17",
+      "route": "ts-cq",
+      "category": "Eligibility & seats",
+      "title": "Seat pools: government versus private",
+      "text": "The state-government share follows exclusion of contributed AIQ seats (normally 50% AIQ / 50% state under the MCC scheme). Private colleges have a 50% Competent Authority share alongside a separate 50% management share. Do not apply a private 50% split to government seats or double count women/service reservations as extra seats. Exact branch counts await the current KNRUHS matrix.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "3"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-18",
+      "route": "ts-cq",
+      "category": "Reservations",
+      "title": "Vertical and horizontal reservations",
+      "text": "SC 15% split as SC1 1%, SC2 9%, SC3 5%; ST 10%; BC 29% split A 7%, B 10%, C 1%, D 7%, E 4%. Women 33⅓% and PwD 5% are horizontal. Minority-college seats are for eligible Muslim-minority candidates. The displayed EWS qualifying score is not evidence of a separate 10% EWS seat allocation in this prospectus.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "5–6"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-19",
+      "route": "ts-cq",
+      "category": "Reservations",
+      "title": "In-service seats are a separate horizontal claim",
+      "text": "20% in clinical broad specialties and 30% in pre/para-clinical broad specialties are reserved horizontally for eligible in-service candidates under the cited service rules. These are not extra seats, and an ordinary fresh applicant cannot claim them.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "6"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-20",
+      "route": "ts-cq",
+      "category": "Eligibility & seats",
+      "title": "Qualification, internship and existing PG study",
+      "text": "NEET-PG 2026 qualification, completed internship by 30 September 2026 and permanent Telangana State Medical Council registration are required. The prospectus excludes candidates already studying PG degree/diploma/DNB; get KNRUHS clarification before assuming an existing PG enrolment or cross-counselling switch is eligible. A same-cycle MCC option does not override state conditions.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "4–5"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-21",
+      "route": "ts-cq",
+      "category": "Reporting & documents",
+      "title": "Separate application and web options",
+      "text": "Complete CQ registration, payment and certificate uploads; print the application. Provisional/final merit and web-option schedules are published separately. A qualified list or registration is not an allotment. At admission submit originals, application printout and self-attested copies at the allotted college.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "7–9, 20"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-22",
+      "route": "ts-cq",
+      "category": "Money & refunds",
+      "title": "University fee and tuition are separate",
+      "text": "Pay ₹35,000 university fee to download the allotment letter. Tuition is as notified by Telangana and varies by institution/course category. The registration/processing fee is non-refundable. The reviewed prospectus does not establish a separate universally refundable security deposit or the refund treatment of every university-fee situation.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "7, 21"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-23",
+      "route": "ts-cq",
+      "category": "Exit & upgrades",
+      "title": "Do not import MCC’s free-exit rules",
+      "text": "The CQ prospectus refers to the last date for Free Exit but does not provide that date in the reviewed registration documents. Await the phase-specific KNRUHS notice for reporting, sliding, resignation and exit deadlines. Leaving after the stated free-exit limit attracts the prospectus discontinuation terms.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "20–22"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-24",
+      "route": "ts-cq",
+      "category": "Bonds & commitment",
+      "title": "Course discontinuation: ₹50 lakh, with additional conditions",
+      "text": "The admission bond states ₹50 lakh on default in completing training and refund of stipend/salary received. Discontinuation after free exit also carries a three-year KNRUHS PG counselling debarment. These are not small registration-deposit penalties; read the signed bond and applicable exit notice.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "21–22"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-25",
+      "route": "ts-cq",
+      "category": "Bonds & commitment",
+      "title": "One-year service after completion",
+      "text": "Non-service postgraduates must serve the Government of Telangana for one year if required under the government orders. The admission service bond is ₹20 lakh for a PG degree and ₹10 lakh for a diploma. This is separate from the ₹50 lakh course-completion bond.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "21"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-cq-26",
+      "route": "ts-cq",
+      "category": "Changes & cautions",
+      "title": "AP domicile is not an automatic state-quota entitlement",
+      "text": "The 2026 prospectus uses G.O.148 dated 28 October 2024 and the local-candidate rules. Do not carry forward an old shared AP/Telangana non-local entitlement. The state-wide-institution exception and non-local UG exclusion must be read exactly. SC subgrouping cites an April 2025 order: neither provision should be advertised as newly introduced in 2026 without the amendment history.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "4–6"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-mq-27",
+      "route": "ts-mq",
+      "category": "Eligibility & seats",
+      "title": "Private management share and the correct denominators",
+      "text": "Management is 50% of each private college’s specialty seats: MQ1 is 25%, MQ2/NRI 15%, MQ3/institutional 10% of the TOTAL seats. Within MQ1 only, 85% is Telangana-local reserved and 15% nationally open. As an illustration on 100 total seats, these are 21.25 local MQ1 + 3.75 open MQ1 + 15 MQ2 + 10 MQ3, with actual seats rounded by the official roster/matrix.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "18–19"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-mq-28",
+      "route": "ts-mq",
+      "category": "Reservations",
+      "title": "Local reservation is different from caste reservation",
+      "text": "MQ has no SC/ST/BC community reservation and no other general reservations listed; reserved-category cut-offs affect exam qualification only. The explicit MQ1 local/open split still applies. Minority-college seats go to eligible Muslim-minority candidates; non-minority conversion is described only for the last phase if eligible minority candidates are unavailable.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "4, 19–20"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-mq-29",
+      "route": "ts-mq",
+      "category": "Eligibility & seats",
+      "title": "MQ1, MQ2 and MQ3 are not interchangeable",
+      "text": "MQ1 includes national applicants subject to the 85/15 local split. MQ2 requires the specified NRI/OCI/NRI-sponsorship proof. MQ3 requires a principal’s sponsorship and the defined institutional connection: own MBBS graduate, employee or employee’s son/daughter. Paying a higher fee alone does not establish MQ2/MQ3 eligibility.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "4, 18–20"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-mq-30",
+      "route": "ts-mq",
+      "category": "Eligibility & seats",
+      "title": "Medical registration and internship",
+      "text": "Recognised MBBS, NEET-PG 2026 qualification, internship completed by 30 September 2026 and permanent Telangana State Medical Council registration are required. Upload documents at application; do not rely on a later opportunity to cure missing eligibility.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "4–7"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-mq-31",
+      "route": "ts-mq",
+      "category": "Money & refunds",
+      "title": "₹15,000 application; university fee on allotment",
+      "text": "Registration/processing is ₹15,000 plus transaction charges, non-refundable. Clinical university fees: MQ1 ₹2 lakh; MQ2/MQ3 ₹3 lakh. Non-clinical: MQ1 ₹75,000; MQ2/MQ3 ₹1 lakh. These university fees are paid to download the allotment order, separate from annual tuition, and are not described as MCC-style refundable security deposits.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "18, 20"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-mq-32",
+      "route": "ts-mq",
+      "category": "Money & refunds",
+      "title": "₹23 lakh is not a verified universal 2026 tuition",
+      "text": "The 2026 prospectus says tuition is government-notified. The checked G.O.107 explicitly covers the 2023–2026 block and shows college/category variation, including ₹23 lakh and ₹24 lakh clinical Cat-B examples. Do not silently apply that expired block to 2026–27 or apply clinical rates to Pathology/Biochemistry. Confirm the current order and college invoice before choices.",
+      "refs": [
+        {
+          "source": "ts-old-fee-order",
+          "pages": "1, 3–4"
+        }
+      ],
+      "level": "critical",
+      "status": "Historical fee evidence; current tuition pending"
+    },
+    {
+      "id": "ts-mq-33",
+      "route": "ts-mq",
+      "category": "Reporting & documents",
+      "title": "MQ needs its own registration",
+      "text": "CQ registration does not register you for MQ. Apply and upload at pvttspgmed.tsche.in by 30 October, 4 PM IST. The notification includes KNRUHS private colleges and Neelima Institute affiliated to Anurag University. Current MQ merit, options, allotment and reporting dates are to be notified separately.",
+      "refs": [
+        {
+          "source": "ts-mq-notification",
+          "pages": "1–2"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-mq-34",
+      "route": "ts-mq",
+      "category": "Exit & upgrades",
+      "title": "₹50 lakh discontinuation liability",
+      "text": "The admission completion bond is ₹50 lakh. The prospectus explicitly imposes ₹50 lakh plus a three-year KNRUHS counselling bar for discontinuation after the second phase of counselling or later. Do not infer a first-phase no-cost resignation deadline: obtain the phase notice and institution refund terms before a switch.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "21–22"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-mq-35",
+      "route": "ts-mq",
+      "category": "Bonds & commitment",
+      "title": "One-year senior residency at the same institution",
+      "text": "The prospectus requires the admitted candidate to undertake one year as Senior Resident at the institution where the PG course was pursued after successful completion. This differs from CQ government-service wording. Confirm the actual agreement, appointment/pay and any institutional applicability before admission.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "20, 22"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "ts-mq-36",
+      "route": "ts-mq",
+      "category": "Changes & cautions",
+      "title": "Local MQ1 split is now explicit in the current prospectus",
+      "text": "The 2026 document cites G.O.200 and G.O.201 dated 3 November 2025 for the 85%-local/15%-open split within MQ1, using G.O.148 for local status. This is a current rule with a 2025 order date, not proof that local preference began only in 2026. Exact 2026 counts await the phase matrix.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "19"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-37",
+      "route": "raj",
+      "category": "Eligibility & seats",
+      "title": "Your main route is open private seats",
+      "text": "50% of total private-college seats are open to eligible NEET-PG candidates with an NMC-recognised MBBS from anywhere. The other private half and the state-government share have Rajasthan MBBS / specified government-service eligibility through Round 3. Telangana domicile alone does not qualify for those restricted seats.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "15–16"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-38",
+      "route": "raj",
+      "category": "Eligibility & seats",
+      "title": "Government AIQ and Rajasthan private AI are different",
+      "text": "50% of government/government-society/RUHS CMS seats go through MCC AIQ; remaining state seats and all private seats go through the Rajasthan Board. A private seat labelled “AI nature” is Rajasthan counselling, not an MCC allotment. Management labels in government-society institutions do not waive state eligibility.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "4, 9–10, 15"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-39",
+      "route": "raj",
+      "category": "Reservations",
+      "title": "Out-of-state applicants are UR for state-category benefits",
+      "text": "Rajasthan’s SC/ST/OBC-NCL/MBC-NCL/EWS benefits are for eligible bonafide Rajasthan candidates. Other-state category candidates are considered UR and must qualify as UR. The booklet states at least 25% women within each category and 5% horizontal PwD; do not assume a Telangana caste certificate or every state reservation benefit transfers to the open-private route.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "17–18"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-40",
+      "route": "raj",
+      "category": "Eligibility & seats",
+      "title": "Internship and council registration",
+      "text": "Internship must finish by 30 September 2026. Valid NMC/MCI/state council registration is required; if registered with another state initially, submit Rajasthan Medical Council registration within one month after joining. State-process Post-MBBS DNB/diploma seats are only for regular Rajasthan government in-service candidates, separate from MCC DNB.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "15–16"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-41",
+      "route": "raj",
+      "category": "Money & refunds",
+      "title": "Private choices need one ₹5 lakh security payment",
+      "text": "Application is ₹4,000 plus charges for your out-of-state route. Private-college choices require ₹5 lakh security in one transaction. The ₹1 lakh government and ₹2 lakh government-society/RUHS management tiers do not need to be added to ₹5 lakh; depositing the higher tier permits lower-tier choices only where otherwise eligible.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "20, 23"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-42",
+      "route": "raj",
+      "category": "Money & refunds",
+      "title": "Security is adjustable against tuition after joining",
+      "text": "On joining, Rajasthan security is adjusted against tuition. If neither forfeited nor adjusted, it is refunded to the original payment account after counselling. Reconcile the allotment-letter demand and Board payment instructions so adjustment is not confused with a second tuition charge. Registration is non-refundable.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "23, 25"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-43",
+      "route": "raj",
+      "category": "Reporting & documents",
+      "title": "Report at SMS Jaipur, with one-year tuition",
+      "text": "Report in person at the allotted-college desk, Academic Block, SMS Medical College, Jaipur, within the schedule. Pay the complete first-year tuition via NEFT/RTGS to the Board account printed on the allotment letter; bring proof, originals, copies and bonds. Downloading the allotment is not joining. The booklet requires accepted resignation/relieving from another current institution.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "25–29"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-44",
+      "route": "raj",
+      "category": "Exit & upgrades",
+      "title": "Round 1 free exit; retained seats acquire later-round obligations",
+      "text": "Non-joining Round 1 does not forfeit security. A joined Round 1 candidate who is not upgraded in Round 2 (or does not participate) may resign without forfeiture within two days of the Round 2 result. After that, the retained seat is treated under Round 2 rules. Formal portal-generated resignation is necessary; offline resignation is not accepted.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "6–7, 11, 23–24"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-45",
+      "route": "raj",
+      "category": "Exit & upgrades",
+      "title": "Round 2 resignation is restricted, not an automatic paid exit",
+      "text": "Non-joining a fresh/upgraded Round 2 seat forfeits security and further participation requires re-registration and fresh security. Joined Round 2/retained seats generally cannot be resigned except in specifically notified windows (including identified AIQ switches). Do not assume losing ₹5 lakh alone buys permission to leave a joined course.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "12, 23–24"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-46",
+      "route": "raj",
+      "category": "Exit & upgrades",
+      "title": "Round 3 and Stray restrictions",
+      "text": "Round 3 non-joining forfeits security and excludes Stray. Joined/retained Round 3 seats cannot be resigned. Stray non-joining forfeits security and bars further state rounds, with the participation bond terms also relevant. The local-eligibility restriction is relaxed for vacancies after Round 3, but prior allotment/joined-status exclusions remain.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "12, 15, 24"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-47",
+      "route": "raj",
+      "category": "Exit & upgrades",
+      "title": "Fresh choices and irreversible upgrades",
+      "text": "Fresh choices are mandatory for Round 2 and Round 3 upgrading. An upgraded seat automatically vacates the earlier seat; originals transfer to the upgraded institution rather than being handed to the candidate. Being content with the old seat after the upgrade does not restore it.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "25–26"
+        }
+      ],
+      "level": "normal",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-48",
+      "route": "raj",
+      "category": "Bonds & commitment",
+      "title": "Private course-exit surety is separate from security",
+      "text": "A private-college surety can require remaining-course fees if the course is left mid-way. The booklet prohibits advance fees, post-dated cheques or bank guarantees for the remaining two years. Government non-service seats have separate service/surety bonds. A refundable deposit is not the maximum possible liability.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "27–28"
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    },
+    {
+      "id": "raj-49",
+      "route": "raj",
+      "category": "Changes & cautions",
+      "title": "Registration extension overrides only the original registration dates",
+      "text": "The live notice published 22 October extended Part 1 to 24 October, 4 PM IST and Part 2 to 24 October, 8 PM IST; a 24 October reminder reiterated completion. No new security/choice dates were found in the checked feed. Keep the original Round 1 schedule for those other events, subject to future amendments.",
+      "refs": [
+        {
+          "source": "raj-api",
+          "pages": ""
+        }
+      ],
+      "level": "critical",
+      "status": "Verified current rule"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mcc-bulletin",
+      "title": "MCC PG Information Bulletin and Counselling Scheme 2026",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610082121348550.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/mcc-bulletin.pdf",
+      "sha256": "c3fd152169d36fc74c6ac17ab40f66836e2eb5e877bf7b56b527529f25048564",
+      "pages": 123,
+      "kind": "Official document"
+    },
+    {
+      "id": "mcc-schedule",
+      "title": "MCC tentative detailed schedule: all four rounds",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610071411981089.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/mcc-schedule.pdf",
+      "sha256": "cab6d84cb045e18c6b885000766422313c1948b9294901cd7fbecf9147f500b5",
+      "pages": 4,
+      "kind": "Official document"
+    },
+    {
+      "id": "mcc-state-schedule",
+      "title": "MCC national AIQ and state coordination schedule",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610081115756031.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/mcc-state-schedule.pdf",
+      "sha256": "f996d92013a7dbcd8597d425a9d82cf67dc6976a69bfea9423664ad42879e663",
+      "pages": 1,
+      "kind": "Official document"
+    },
+    {
+      "id": "ts-cq-prospectus",
+      "title": "KNRUHS Competent Authority Quota prospectus 2026-27",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261014110317_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-PROSPECTUS.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/ts-cq-prospectus.pdf",
+      "sha256": "0890a351048bf8ad1073d165d0dbc5816cb3cbd168c140226ddc3b5892558e1e",
+      "pages": 34,
+      "kind": "Official document"
+    },
+    {
+      "id": "ts-cq-notification",
+      "title": "KNRUHS CQ registration notification, including NIMS",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261014110802_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-COMPETENT-AUTHORITY-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-REGISTRATION.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/ts-cq-notification.pdf",
+      "sha256": "0d50fc4eedf18f611416c88bbaf4f6ef21c2a9c37bcf355b6afd5b26d83c7830",
+      "pages": 6,
+      "kind": "Official document"
+    },
+    {
+      "id": "ts-mq-prospectus",
+      "title": "KNRUHS Management Quota prospectus 2026-27",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261022104019_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-PROSPECTUS.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/ts-mq-prospectus.pdf",
+      "sha256": "da2c5a7603cab87fb560490959488c6bbfb1b95aeb7aabc2c3f2cc626995a509",
+      "pages": 35,
+      "kind": "Official document"
+    },
+    {
+      "id": "ts-mq-notification",
+      "title": "KNRUHS MQ registration notification, including Neelima",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20261022103806_KNRUHS-MEDICAL-PG-DEGREE-DIPLOMA-ADMISSIONS-UNDER-MANAGEMENT-QUOTA-FOR-THE-AY-2026-27-NOTIFICATION-FOR-REGISTRATION-OF-CANDIDATES.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/ts-mq-notification.pdf",
+      "sha256": "2c66d3cb1501a5da448895aa863a20704558a5be2f08a5d78bc0944c4f1a5520",
+      "pages": 6,
+      "kind": "Official document"
+    },
+    {
+      "id": "raj-booklet",
+      "title": "Rajasthan NEET-PG Information Booklet 2026-27",
+      "url": "https://pg.neetrajasthan.com/notifications/1792302615499.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/raj-booklet.pdf",
+      "sha256": "644c30b3bc59307a233af4db465615f578aac4656353ec32867e99c5711b93b0",
+      "pages": 80,
+      "kind": "Official document"
+    },
+    {
+      "id": "raj-schedule",
+      "title": "Rajasthan Round 1 schedule: read with registration extension",
+      "url": "https://pg.neetrajasthan.com/notifications/1792241714632.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/raj-schedule.pdf",
+      "sha256": "8cb67d9060bd86178e837328d822b5c57cf1e61f65fd558984e31b58ee9389b9",
+      "pages": 2,
+      "kind": "Official document"
+    },
+    {
+      "id": "raj-fees",
+      "title": "Rajasthan private-college yearly tuition and hostel disclosures",
+      "url": "https://pg.neetrajasthan.com/notifications/1792689067505.pdf",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "exports/counselling-2026/documents/raj-fees.pdf",
+      "sha256": "4eb2c192e8fe41f69054f241fded8c3dc44ebb1f41d986a0edcc29077bf22dca",
+      "pages": 27,
+      "kind": "Official document"
+    },
+    {
+      "id": "ts-old-fee-order",
+      "title": "Telangana G.O.Ms.No.107: historical 2023-2026 fee block",
+      "url": "https://www.knruhs.telangana.gov.in/wp-content/uploads/notifications/20240813070751G.O.%20Ms.%20No.%20107%20-%2028-7-22023.pdf",
+      "checked": "2026-10-25",
+      "year": "2023-2026 historical block",
+      "file": "exports/counselling-2026/documents/ts-old-fee-order.pdf",
+      "sha256": "1cd552cbd522419e46e56ccc302e8309de3454bddfc54e8a86b15d212cd2d60f",
+      "pages": 5,
+      "kind": "Official document"
+    },
+    {
+      "id": "mcc-live",
+      "title": "MCC current PG notices",
+      "url": "https://mcc.nic.in/pg-medical-counselling/",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "",
+      "sha256": "",
+      "pages": null,
+      "kind": "Official live notice page"
+    },
+    {
+      "id": "ts-live",
+      "title": "KNRUHS admission notices: MEDICAL PG search",
+      "url": "https://www.knruhs.telangana.gov.in/admission-notification/?search=MEDICAL%20PG",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "",
+      "sha256": "",
+      "pages": null,
+      "kind": "Official live notice page"
+    },
+    {
+      "id": "raj-live",
+      "title": "Rajasthan current notices and registration extension",
+      "url": "https://pg.neetrajasthan.com/",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "",
+      "sha256": "",
+      "pages": null,
+      "kind": "Official live notice page"
+    },
+    {
+      "id": "raj-api",
+      "title": "Rajasthan public notice feed: extension published 22 October",
+      "url": "https://pg.neetrajasthan.com/api/v1/user/getAllNotifications",
+      "checked": "2026-10-25",
+      "year": "2026-27",
+      "file": "",
+      "sha256": "",
+      "pages": null,
+      "kind": "Official live notice page"
+    }
+  ],
+  "seats": [
+    {
+      "route": "mcc",
+      "pool": "Participating state government MD/MS",
+      "split": "50% MCC AIQ / 50% state process",
+      "implication": "Eligible for national AIQ irrespective of Telangana domicile; the state half uses that state’s eligibility.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "4, 24"
+        }
+      ]
+    },
+    {
+      "route": "mcc",
+      "pool": "Deemed and participating DNB",
+      "split": "100% through MCC, subject to seat/eligibility rules",
+      "implication": "Not a state-government 50% AIQ pool; NRI/minority/internal conditions can still apply.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "24–27, 41"
+        }
+      ]
+    },
+    {
+      "route": "ts-cq",
+      "pool": "Telangana government colleges",
+      "split": "State share after AIQ contribution",
+      "implication": "Normally 50% state / 50% MCC AIQ. NIMS and specific institutional seats need their notified matrix.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "3"
+        },
+        {
+          "source": "ts-cq-notification",
+          "pages": "1"
+        },
+        {
+          "source": "mcc-bulletin",
+          "pages": "24"
+        }
+      ]
+    },
+    {
+      "route": "ts-cq",
+      "pool": "Telangana private colleges",
+      "split": "50% CQ / 50% management",
+      "implication": "CQ eligibility and reservations are different from MQ1/2/3.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "18"
+        },
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "3–6"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "pool": "Within all private specialty seats",
+      "split": "MQ1 25% + MQ2/NRI 15% + MQ3 10%",
+      "implication": "These total 50% of all seats; they are not percentages of the management half.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "18–19"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "pool": "Within MQ1 only",
+      "split": "85% Telangana-local / 15% open nationally",
+      "implication": "For 100 total seats: conceptual 21.25 local MQ1 / 3.75 open MQ1. Actual allocations follow roster and rounding.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "19"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "pool": "Rajasthan government institutions",
+      "split": "50% MCC AIQ / 50% Rajasthan state",
+      "implication": "Telangana applicants use MCC for AIQ; state eligibility is restricted through Round 3.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "4, 15"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "pool": "Rajasthan private institutions",
+      "split": "50% restricted state-eligible / 50% open private",
+      "implication": "All are administered by Rajasthan. Your principal route is the open half; check AI/State/Management labels in the actual matrix.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "10, 15"
+        }
+      ]
+    }
+  ],
+  "money": [
+    {
+      "route": "mcc",
+      "name": "AIQ UR/EWS registration",
+      "amount_inr": 1000,
+      "type": "Non-refundable fee",
+      "timing": "At registration",
+      "note": "Reserved-category registration is ₹500.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "52"
+        }
+      ]
+    },
+    {
+      "route": "mcc",
+      "name": "AIQ UR/EWS security",
+      "amount_inr": 25000,
+      "type": "Conditional refundable security",
+      "timing": "At registration",
+      "note": "Reserved-category AIQ security is ₹10,000.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "52"
+        }
+      ]
+    },
+    {
+      "route": "mcc",
+      "name": "Deemed / combined registration",
+      "amount_inr": 5000,
+      "type": "Non-refundable fee",
+      "timing": "At registration",
+      "note": "For AIQ + deemed, pay only the higher MCC tier.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "52–53"
+        }
+      ]
+    },
+    {
+      "route": "mcc",
+      "name": "Deemed / combined security",
+      "amount_inr": 200000,
+      "type": "Conditional refundable security",
+      "timing": "At registration",
+      "note": "Not ₹2 lakh PLUS ₹25,000 as two independent prescribed security pools. Duplicate/extra receipts require MCC/HLL reconciliation.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "52–53"
+        }
+      ]
+    },
+    {
+      "route": "mcc",
+      "name": "College tuition and additional charges",
+      "amount_inr": null,
+      "type": "Institution-specific tuition",
+      "timing": "Joining / college schedule",
+      "note": "Freeze: admission fee on physical joining. Float: confirm any payment demand with nodal officer; do not infer a universal fee waiver from the online workflow.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "7, 10–12"
+        }
+      ]
+    },
+    {
+      "route": "ts-cq",
+      "name": "CQ OC/BC application",
+      "amount_inr": 10000,
+      "type": "Non-refundable fee",
+      "timing": "Application",
+      "note": "SC/ST application ₹8,000; transaction charges extra.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "7"
+        }
+      ]
+    },
+    {
+      "route": "ts-cq",
+      "name": "CQ university fee",
+      "amount_inr": 35000,
+      "type": "University fee; refund terms not established here",
+      "timing": "Before downloading allotment",
+      "note": "Separate from college tuition; not labelled MCC-style refundable security.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "21"
+        }
+      ]
+    },
+    {
+      "route": "ts-cq",
+      "name": "Current 2026-27 tuition",
+      "amount_inr": null,
+      "type": "College/course-specific annual tuition",
+      "timing": "Admission / fee notice",
+      "note": "Current prospectus says as notified by Telangana. Current medical PG fee order and exact course/college amount remain to be confirmed.",
+      "status": "Current amount unresolved",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "21"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "name": "MQ application",
+      "amount_inr": 15000,
+      "type": "Non-refundable fee",
+      "timing": "By 30 October, 4 PM IST",
+      "note": "Transaction charges extra. Outside-state degree verification ₹8,000; foreign degree ₹10,000 if applicable; a Telangana MBBS does not attract an outside-state-degree fee solely because of domicile.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "18"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "name": "MQ1 clinical university fee",
+      "amount_inr": 200000,
+      "type": "University fee; refund terms not established here",
+      "timing": "Before downloading allotment",
+      "note": "Separate from annual tuition. Verify the course’s clinical/non-clinical classification.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "20"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "name": "MQ2/MQ3 clinical university fee",
+      "amount_inr": 300000,
+      "type": "University fee; refund terms not established here",
+      "timing": "Before downloading allotment",
+      "note": "Separate from annual tuition. Verify the course’s clinical/non-clinical classification.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "20"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "name": "MQ1 non-clinical university fee",
+      "amount_inr": 75000,
+      "type": "University fee; refund terms not established here",
+      "timing": "Before downloading allotment",
+      "note": "Separate from annual tuition. Verify the course’s clinical/non-clinical classification.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "20"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "name": "MQ2/MQ3 non-clinical university fee",
+      "amount_inr": 100000,
+      "type": "University fee; refund terms not established here",
+      "timing": "Before downloading allotment",
+      "note": "Separate from annual tuition. Verify the course’s clinical/non-clinical classification.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "20"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "name": "2026-27 college tuition",
+      "amount_inr": null,
+      "type": "College/course-specific annual tuition",
+      "timing": "Admission / current government order",
+      "note": "The current prospectus does not state one universal ₹23 lakh rate. Confirm the new admission-year order and invoice.",
+      "status": "Current amount unresolved",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "20–21"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "name": "Historical clinical Cat-B example",
+      "amount_inr": 2300000,
+      "type": "Historical annual tuition example",
+      "timing": "2023–2026 fee block only",
+      "note": "G.O.107 shows several ₹23 lakh clinical Cat-B colleges and some ₹24 lakh examples. Not a verified quote for a new 2026–27 admission. At a hypothetical unchanged ₹23 lakh/year, 3-year tuition alone is ₹69 lakh, before other costs.",
+      "status": "Historical; not current quote",
+      "refs": [
+        {
+          "source": "ts-old-fee-order",
+          "pages": "1, 3–4"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "Application for out-of-state candidate",
+      "amount_inr": 4000,
+      "type": "Non-refundable fee",
+      "timing": "Registration (extended deadline passed)",
+      "note": "₹3,000 concession is specified for SC/ST/ST-STA of Rajasthan; do not transfer a Telangana certificate.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "20"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "Private-college security",
+      "amount_inr": 500000,
+      "type": "Adjustable / conditionally refundable security",
+      "timing": "By 29 October, 5 PM IST",
+      "note": "Single transaction. Adjusted against tuition on joining. Lower tiers do not need to be added; eligibility still controls.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "23"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "Government-seat security tier",
+      "amount_inr": 100000,
+      "type": "Adjustable / conditionally refundable security",
+      "timing": "Before choices",
+      "note": "Shown for comparison, not proof of your state-government eligibility.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "23"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "Government-society/RUHS management security tier",
+      "amount_inr": 200000,
+      "type": "Adjustable / conditionally refundable security",
+      "timing": "Before choices",
+      "note": "Management pricing is not a waiver of state eligibility.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "15, 23"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "First-year college tuition",
+      "amount_inr": null,
+      "type": "Annual tuition, institution-specific",
+      "timing": "3–6 November; payment closes 6 November, 3 PM IST",
+      "note": "NEFT/RTGS to Board account on allotment letter. Reconcile security adjustment with Board instructions.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — Radiation Oncology",
+      "amount_inr": 2625000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "17"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — ENT",
+      "amount_inr": 2625000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "17"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — Ophthalmology",
+      "amount_inr": 4975000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "17"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — General Surgery",
+      "amount_inr": 4725000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "17"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — OBGYN",
+      "amount_inr": 5075000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "17"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — Radiodiagnosis",
+      "amount_inr": 6300000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "17"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — Dermatology",
+      "amount_inr": 6300000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "17"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — Pathology",
+      "amount_inr": 1575000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "16"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — Biochemistry",
+      "amount_inr": 600000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "16"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur — PM&R",
+      "amount_inr": 1200000,
+      "type": "Annual tuition: AI-nature column",
+      "timing": "2026 private-fee disclosure",
+      "note": "AI nature is Rajasthan’s open-private route, not MCC. State/management columns and seat availability are separate. Hostel/caution and other terms are additional.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "17"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur caution money",
+      "amount_inr": 300000,
+      "type": "College refundable caution",
+      "timing": "Admission",
+      "note": "Separate from Board security. Published as one-time refundable.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "18"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "name": "MGMC Jaipur double-sharing hostel",
+      "amount_inr": 315700,
+      "type": "Annual hostel with mess",
+      "timing": "College schedule",
+      "note": "Single room ₹4,61,300/year. Verify availability and the current admission contract.",
+      "status": "Verified current",
+      "refs": [
+        {
+          "source": "raj-fees",
+          "pages": "18"
+        }
+      ]
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "mcc-event-1",
+      "route": "mcc",
+      "title": "Round 1 result",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "time_ist": null,
+      "note": "Final result notice is present on the live MCC page.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-live",
+          "pages": ""
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-2",
+      "route": "mcc",
+      "title": "Round 1 reporting / Float verification",
+      "start": "2026-10-26",
+      "end": "2026-11-02",
+      "time_ist": null,
+      "note": "Upload promptly; institute approval and query resolution must finish within the window. Exact final-day cut-off: follow portal/institute notice.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "1"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-3",
+      "route": "mcc",
+      "title": "Round 2 registration",
+      "start": "2026-11-06",
+      "end": "2026-11-11",
+      "time_ist": "12:00",
+      "note": "Closes 12 noon IST; payment closes 3 PM. Existing eligible registrants normally do not register afresh.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-4",
+      "route": "mcc",
+      "title": "Round 2 payment deadline",
+      "start": "2026-11-06",
+      "end": "2026-11-11",
+      "time_ist": "15:00",
+      "note": "Payment facility closes 3 PM IST.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-5",
+      "route": "mcc",
+      "title": "Round 2 fresh choices",
+      "start": "2026-11-07",
+      "end": "2026-11-12",
+      "time_ist": "10:00",
+      "note": "Closes 10 AM IST; locking starts 11 November, 4 PM. Submit only acceptable upgrades.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-6",
+      "route": "mcc",
+      "title": "Round 2 result",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "time_ist": null,
+      "note": "Upgrade cancels the old seat immediately.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-7",
+      "route": "mcc",
+      "title": "Round 2 reporting",
+      "start": "2026-11-16",
+      "end": "2026-11-23",
+      "time_ist": null,
+      "note": "Non-joining of an allotted/upgraded seat forfeits security.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-8",
+      "route": "mcc",
+      "title": "Academic session starts",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "time_ist": null,
+      "note": "Later rounds continue after classes start.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "4"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-9",
+      "route": "mcc",
+      "title": "Round 3 registration",
+      "start": "2026-11-26",
+      "end": "2026-12-01",
+      "time_ist": "12:00",
+      "note": "Closes 12 noon IST; payment closes 3 PM.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "3"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-10",
+      "route": "mcc",
+      "title": "Round 3 payment deadline",
+      "start": "2026-11-26",
+      "end": "2026-12-01",
+      "time_ist": "15:00",
+      "note": "Payment facility closes 3 PM IST.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "3"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-11",
+      "route": "mcc",
+      "title": "Round 3 fresh choices",
+      "start": "2026-11-27",
+      "end": "2026-12-02",
+      "time_ist": "10:00",
+      "note": "Closes 10 AM IST; locking starts 1 December, 4 PM.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "3"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-12",
+      "route": "mcc",
+      "title": "Round 3 result",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "time_ist": null,
+      "note": "No resignation after joining; do not plan a later state switch.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "3"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-13",
+      "route": "mcc",
+      "title": "Round 3 physical reporting, including retained Float seats",
+      "start": "2026-12-05",
+      "end": "2026-12-12",
+      "time_ist": null,
+      "note": "All retained Round 1/2 Float seats also require physical reporting after Round 3.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "3"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-14",
+      "route": "mcc",
+      "title": "Stray registration",
+      "start": "2026-12-16",
+      "end": "2026-12-21",
+      "time_ist": "12:00",
+      "note": "Closes noon; payment closes 3 PM; eligibility restrictions apply.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "4"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-15",
+      "route": "mcc",
+      "title": "Stray payment deadline",
+      "start": "2026-12-16",
+      "end": "2026-12-21",
+      "time_ist": "15:00",
+      "note": "Payment facility closes 3 PM IST.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "4"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-16",
+      "route": "mcc",
+      "title": "Stray choices / locking",
+      "start": "2026-12-16",
+      "end": "2026-12-21",
+      "time_ist": "23:55",
+      "note": "Closes 11:55 PM IST; locking starts 4 PM on 21 December.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "4"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-17",
+      "route": "mcc",
+      "title": "Stray result",
+      "start": "2026-12-24",
+      "end": "2026-12-24",
+      "time_ist": null,
+      "note": "Join an allotted seat or forfeit security.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "4"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-18",
+      "route": "mcc",
+      "title": "Stray reporting",
+      "start": "2026-12-24",
+      "end": "2026-12-31",
+      "time_ist": null,
+      "note": "Original documents and institute formalities required.",
+      "tentative": true,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-schedule",
+          "pages": "4"
+        }
+      ]
+    },
+    {
+      "id": "mcc-event-19",
+      "route": "mcc",
+      "title": "Joined Round 1 resignation cut-off",
+      "start": null,
+      "end": null,
+      "time_ist": null,
+      "note": "No exact separate cut-off established in the checked notices. Watch the live MCC resignation notice; do not substitute 2 November automatically.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "13, 15"
+        }
+      ]
+    },
+    {
+      "id": "ts-cq-event-20",
+      "route": "ts-cq",
+      "title": "CQ registration and certificate upload",
+      "start": "2026-10-15",
+      "end": "2026-10-23",
+      "time_ist": "16:00",
+      "note": "Published window ended 4 PM IST; no CQ extension was found in the reviewed current MEDICAL PG notices.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "2, 7"
+        }
+      ]
+    },
+    {
+      "id": "ts-cq-event-21",
+      "route": "ts-cq",
+      "title": "CQ merit, web options and reporting",
+      "start": null,
+      "end": null,
+      "time_ist": null,
+      "note": "To be notified separately by KNRUHS. National state-coordination dates are planning dates, not a local options portal opening.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "2, 20"
+        }
+      ]
+    },
+    {
+      "id": "ts-cq-event-22",
+      "route": "ts-cq",
+      "title": "CQ free-exit deadline",
+      "start": null,
+      "end": null,
+      "time_ist": null,
+      "note": "Requires the applicable KNRUHS phase/exit notice. No date invented from MCC rules.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "22"
+        }
+      ]
+    },
+    {
+      "id": "ts-mq-event-23",
+      "route": "ts-mq",
+      "title": "MQ registration and certificate upload",
+      "start": "2026-10-22",
+      "end": "2026-10-30",
+      "time_ist": "16:00",
+      "note": "Separate MQ application; closes 4 PM IST.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "ts-mq-notification",
+          "pages": "1"
+        }
+      ]
+    },
+    {
+      "id": "ts-mq-event-24",
+      "route": "ts-mq",
+      "title": "MQ merit, web options and reporting",
+      "start": null,
+      "end": null,
+      "time_ist": null,
+      "note": "To be notified separately. Registration alone is not submission of web options.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "2, 21"
+        }
+      ]
+    },
+    {
+      "id": "ts-mq-event-25",
+      "route": "ts-mq",
+      "title": "MQ exit / sliding window",
+      "start": null,
+      "end": null,
+      "time_ist": null,
+      "note": "Await the phase-specific notice; the prospectus’s late-discontinuation liability is not an exit schedule.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "21–22"
+        }
+      ]
+    },
+    {
+      "id": "raj-event-26",
+      "route": "raj",
+      "title": "Extended Part 1 / registration payment",
+      "start": "2026-10-18",
+      "end": "2026-10-24",
+      "time_ist": "16:00",
+      "note": "Live notice extended the original deadline. Latest checked deadline has passed.",
+      "tentative": false,
+      "previous": "Original: 23 October, 5 PM IST",
+      "refs": [
+        {
+          "source": "raj-api",
+          "pages": ""
+        }
+      ]
+    },
+    {
+      "id": "raj-event-27",
+      "route": "raj",
+      "title": "Extended Part 2 completed application",
+      "start": "2026-10-18",
+      "end": "2026-10-24",
+      "time_ist": "20:00",
+      "note": "Finish both application parts; payment alone is not a completed application.",
+      "tentative": false,
+      "previous": "Original: 23 October, 11:55 PM IST",
+      "refs": [
+        {
+          "source": "raj-api",
+          "pages": ""
+        }
+      ]
+    },
+    {
+      "id": "raj-event-28",
+      "route": "raj",
+      "title": "Provisional merit list",
+      "start": "2026-10-27",
+      "end": "2026-10-27",
+      "time_ist": null,
+      "note": "Check your entry and subsequent correction notices.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "1"
+        }
+      ]
+    },
+    {
+      "id": "raj-event-29",
+      "route": "raj",
+      "title": "Security deposit",
+      "start": "2026-10-19",
+      "end": "2026-10-29",
+      "time_ist": "17:00",
+      "note": "Closes 5 PM IST, earlier than choice locking.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "1"
+        }
+      ]
+    },
+    {
+      "id": "raj-event-30",
+      "route": "raj",
+      "title": "Saved choices / auto-lock",
+      "start": "2026-10-19",
+      "end": "2026-10-29",
+      "time_ist": "23:45",
+      "note": "Closes 11:45 PM IST. Save choices and print the final copy after auto-lock.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "raj-event-31",
+      "route": "raj",
+      "title": "Round 1 provisional allotment",
+      "start": "2026-11-02",
+      "end": "2026-11-02",
+      "time_ist": null,
+      "note": "Wait for the official allotment letter and check seat nature.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "raj-event-32",
+      "route": "raj",
+      "title": "Allotment letter download",
+      "start": "2026-11-03",
+      "end": "2026-11-06",
+      "time_ist": "13:00",
+      "note": "Closes 1 PM IST; schedule requests six copies.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "raj-event-33",
+      "route": "raj",
+      "title": "One-year tuition payment",
+      "start": "2026-11-03",
+      "end": "2026-11-06",
+      "time_ist": "15:00",
+      "note": "NEFT/RTGS only; closes 3 PM IST. Follow Board account details on letter.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "raj-event-34",
+      "route": "raj",
+      "title": "In-person reporting at SMS Jaipur",
+      "start": "2026-11-03",
+      "end": "2026-11-06",
+      "time_ist": "16:00",
+      "note": "9 AM–4 PM daily at allotted-college desk, Academic Block, SMS Medical College, Jaipur.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "raj-event-35",
+      "route": "raj",
+      "title": "Academic session starts",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "time_ist": null,
+      "note": "As stated in the Rajasthan schedule and national calendar.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "2"
+        }
+      ]
+    },
+    {
+      "id": "raj-event-36",
+      "route": "raj",
+      "title": "Round 2, Round 3 and Stray detailed dates",
+      "start": null,
+      "end": null,
+      "time_ist": null,
+      "note": "Not published in the checked Rajasthan notices. Do not assign national coordination dates as confirmed local deadlines.",
+      "tentative": false,
+      "previous": null,
+      "refs": [
+        {
+          "source": "raj-schedule",
+          "pages": "2"
+        }
+      ]
+    }
+  ],
+  "rounds": [
+    {
+      "route": "mcc",
+      "round": "Round 1",
+      "nonjoin": "Free exit without security forfeiture.",
+      "joined": "Formal resignation in MCC-notified window; Float online / Freeze physically.",
+      "next": "Eligible for Round 2; a joined Float seat can be retained while upgrading.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "13, 15, 43"
+        }
+      ]
+    },
+    {
+      "route": "mcc",
+      "round": "Round 2",
+      "nonjoin": "Security forfeited on fresh/upgraded non-joining.",
+      "joined": "Surrender only within permitted period; forfeiture applies.",
+      "next": "Eligible Round 3 entry after forfeiture requires fresh payment.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "7, 13, 15, 45"
+        }
+      ]
+    },
+    {
+      "route": "mcc",
+      "round": "Round 3",
+      "nonjoin": "Security forfeited; eliminated from further MCC rounds.",
+      "joined": "No resignation.",
+      "next": "Old seat cannot be reclaimed after an upgrade.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "16, 45"
+        }
+      ]
+    },
+    {
+      "route": "mcc",
+      "round": "Stray",
+      "nonjoin": "Security forfeited.",
+      "joined": "Commit to join; check all Stray eligibility/undertakings.",
+      "next": "Holding a seat or earlier allotment can bar eligibility.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "46, 60"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "round": "Round 1",
+      "nonjoin": "Free exit without forfeiture.",
+      "joined": "If not upgraded / not participating in R2, resign within 2 days of R2 result to avoid forfeiture.",
+      "next": "Retaining beyond that point invokes R2 rules.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "11, 23–24"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "round": "Round 2",
+      "nonjoin": "Fresh/upgraded non-joining forfeits security.",
+      "joined": "Generally no resignation except specifically notified permitted windows.",
+      "next": "Non-joiners need re-registration and fresh security for eligible later entry.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "12, 23–24"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "round": "Round 3",
+      "nonjoin": "Forfeiture and no Stray participation.",
+      "joined": "No resignation, including retained earlier seats.",
+      "next": "Centre–State joined data excludes ineligible candidates.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "12, 24"
+        }
+      ]
+    },
+    {
+      "route": "raj",
+      "round": "Stray",
+      "nonjoin": "Forfeiture, further state-round bar and relevant bond conditions.",
+      "joined": "No resignation under stated commitment rules.",
+      "next": "Narrow prior-allotment/joined-status eligibility applies.",
+      "refs": [
+        {
+          "source": "raj-booklet",
+          "pages": "12, 24"
+        }
+      ]
+    },
+    {
+      "route": "ts-cq",
+      "round": "All phases",
+      "nonjoin": "Phase-specific notice required; do not assume MCC-style penalties.",
+      "joined": "After free exit: ₹50 lakh discontinuation terms, stipend recovery and 3-year KNRUHS bar.",
+      "next": "Exact free-exit and phase reporting dates are not established in the registration prospectus.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "21–22"
+        }
+      ]
+    },
+    {
+      "route": "ts-mq",
+      "round": "All phases",
+      "nonjoin": "Phase-specific notice required; university fee is not MCC security.",
+      "joined": "₹50 lakh completion bond; after phase 2 or later, ₹50 lakh + 3-year KNRUHS bar.",
+      "next": "No inferred first-phase no-cost exit; verify notified window and fee treatment.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "20–22"
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "upgrade",
+      "title": "Keep my MCC Round 1 Float seat and try to upgrade",
+      "risk": "Commit only to upgrades you would actually join",
+      "steps": [
+        "Check that the institute has approved your uploaded documents and your portal shows provisional joining/Float, not merely willingness submitted.",
+        "Fill and lock fresh Round 2 choices within the published window. Put only acceptable replacements above the existing option; an allotment cannot be compared against the old seat afterwards.",
+        "If upgraded, obtain the online relieving letter and complete the new joining process. The old seat is cancelled automatically.",
+        "If not upgraded, the joined earlier seat is retained. Watch later-round resignation rules and mandatory physical reporting after Round 3."
+      ],
+      "money": "Proper upgrading itself does not forfeit security. Non-joining the upgraded Round 2/3 seat does. College transfer/refund charges remain separate.",
+      "gap": "No universal college-tuition exemption is established for Float. Confirm institute-specific payment instructions.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "10–12, 44–45, 54–58"
+        }
+      ]
+    },
+    {
+      "id": "retain",
+      "title": "Keep my MCC seat and stop seeking upgrades",
+      "risk": "Retaining a seat is different from resigning it",
+      "steps": [
+        "FAQ 19 says a joined Round 1 candidate who changes their mind about Round 2 upgrading need not fill fresh Round 2 choices; the old seat will be retained.",
+        "Verify your retained seat and willingness status with the portal/nodal officer. If choosing Freeze, follow the required physical-reporting and fee formalities.",
+        "Do not later assume Round 1 free exit remains available indefinitely. Obtain the applicable resignation notice before any cross-counselling change."
+      ],
+      "money": "Keeping the seat does not itself forfeit security. College tuition/bond obligations still apply.",
+      "gap": "The exact process/timing for changing an existing Float selection to Freeze should be confirmed with the institute and current portal guide.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "10–13, 56"
+        }
+      ]
+    },
+    {
+      "id": "rajasthan",
+      "title": "Take a Rajasthan private seat instead of my MCC seat",
+      "risk": "Coordinate two authorities; avoid double joining",
+      "steps": [
+        "Confirm your Rajasthan Part 1 and Part 2 were completed by the extended 24 October deadlines. The checked registration window is now closed.",
+        "For private choices, pay ₹5 lakh security by 29 October, 5 PM IST and save choices by 11:45 PM. Confirm open-private eligibility and AI/Management seat nature.",
+        "Rajasthan’s scheduled R1 allotment is 2 November; reporting is 3–6 November. This sits after MCC R1 reporting ends on 2 November, so do not assume the dates create a valid MCC resignation window.",
+        "Before committing to the state seat, check the live MCC resignation window and coordinate the accepted online Float resignation/relieving record and originals. Rajasthan requires accepted resignation at joining.",
+        "Pay one-year tuition per allotment-letter instructions, reconcile security adjustment and report at SMS Jaipur in person with originals and bonds."
+      ],
+      "money": "A permitted MCC R1 resignation is the free-exit route; if you have upgraded to MCC R2, forfeiture rules apply. Rajasthan deposit/tuition and its private-course surety are independent obligations.",
+      "gap": "The exact MCC resignation window for this dated switch has not been established. Do not resign or join a second course based solely on this planned calendar overlap.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "13, 15"
+        },
+        {
+          "source": "raj-booklet",
+          "pages": "23–29"
+        },
+        {
+          "source": "raj-schedule",
+          "pages": "1–2"
+        },
+        {
+          "source": "raj-api",
+          "pages": ""
+        }
+      ]
+    },
+    {
+      "id": "telangana",
+      "title": "Take Telangana State / CQ instead",
+      "risk": "Check both MCC resignation and KNRUHS phase rules",
+      "steps": [
+        "Confirm you submitted the separate CQ application and local/study documents within the notified window (published deadline 23 October, 4 PM IST).",
+        "Wait for the official KNRUHS merit, web-option and reporting notice. National coordination dates alone do not open state web options.",
+        "If allotted a preferred eligible CQ seat, coordinate a valid MCC resignation and accepted relieving record; verify any already-studying PG condition with KNRUHS.",
+        "Pay the ₹35,000 university fee to download the order and the applicable college tuition; report with originals and execute the course/service bonds as required."
+      ],
+      "money": "MCC security treatment depends on your MCC round at resignation. CQ has separate fees and potentially ₹50 lakh discontinuation plus service-bond obligations after the applicable triggers.",
+      "gap": "KNRUHS options/reporting/free-exit dates and the applicable new tuition order remain to be confirmed.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "13, 15"
+        },
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "2, 4–9, 20–22"
+        }
+      ]
+    },
+    {
+      "id": "management",
+      "title": "Take Telangana Management / MQ instead",
+      "risk": "Apply separately now; confirm the complete admission cost",
+      "steps": [
+        "Complete the separate MQ application by 30 October, 4 PM IST. Upload MBBS, internship, TS Medical Council and any MQ2/MQ3 eligibility proof.",
+        "As Telangana-local, confirm local documents for the 85% reserved share within MQ1. Do not assume eligibility for MQ2/NRI or MQ3 simply from willingness to pay.",
+        "Obtain the current 2026–27 college/course/category tuition order and written compulsory-charge/refund details before choices. Old ₹23 lakh examples are not current universal quotes.",
+        "Coordinate an MCC resignation in its permitted window before joining a replacement course. Then complete KNRUHS university-fee, original-document and college reporting requirements."
+      ],
+      "money": "₹15,000 application; clinical MQ1 university fee ₹2 lakh, or MQ2/MQ3 ₹3 lakh, plus tuition and other applicable costs. These do not replace MCC security or protect it from forfeiture.",
+      "gap": "MQ phase options/reporting/exit dates and current tuition need official confirmation; late discontinuation is a much larger liability than an application fee.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "13, 15"
+        },
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "18–22"
+        },
+        {
+          "source": "ts-mq-notification",
+          "pages": "1"
+        }
+      ]
+    },
+    {
+      "id": "exit",
+      "title": "Leave MCC without taking another seat yet",
+      "risk": "Giving up a seat gives up its fallback protection",
+      "steps": [
+        "Check the current MCC resignation notice and ensure the joined seat is still within an allowed exit window.",
+        "For Float, submit the online surrender/resignation and save the portal-generated/accepted record; resolve any institute confirmation needed.",
+        "After resignation, you have no claim to that seat. Eligibility and fresh-payment requirements for later rounds depend on the round in which you exited.",
+        "Do not treat ignoring messages, not attending, or letting a reporting deadline expire as a valid resignation of a joined seat."
+      ],
+      "money": "R1 free exit applies under its permitted rules. R2 surrender/non-joining forfeits security; joined R3 resignation is not allowed. Application fees and college charges are separate.",
+      "gap": "No exact joined-R1 resignation cut-off was established in the checked notices. Confirm it before acting.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "7, 13, 15–16, 43–46"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    "Save the final allotment letter, completed joining/verification record and Float/Freeze willingness proof.",
+    "Check the institute portal for document queries; keep the nodal-officer contact and a dated response record.",
+    "Keep NEET admit/score cards, MBBS marks/degree, internship completion, DOB/ID, council registration and applicable current category/local certificates ready.",
+    "Maintain separate payment receipts for each authority: application, security, university fee, tuition, hostel/caution.",
+    "Before any switch, confirm the old authority’s resignation window, the new authority’s joining deadline and original-document release.",
+    "Save an accepted portal-generated resignation/relieving record; a state allotment is not an automatic MCC withdrawal.",
+    "Check exact course, campus, qualification, category and seat nature before choice locking; upgrading cancels the previous seat.",
+    "Read both course-discontinuation and post-course-service bonds before signing; security forfeiture is not a liability cap.",
+    "Keep the original payment account active for refunds; store receipts privately, never in a public GitHub repository.",
+    "Recheck live official notices before each payment, choice-locking, reporting or resignation action."
+  ],
+  "changes": [
+    {
+      "title": "MCC: genuinely changed workflow in 2026",
+      "text": "The bulletin explicitly compares 2025 physical reporting/upgradation/resignation with 2026 Freeze/Float online joining and online Float resignation. Round-wise forfeiture and physical reporting after R3 still matter.",
+      "refs": [
+        {
+          "source": "mcc-bulletin",
+          "pages": "10–16"
+        }
+      ]
+    },
+    {
+      "title": "Telangana CQ: current local rules, not a new AP quota",
+      "text": "The 2026 prospectus applies G.O.148 (28 October 2024), plus the specified state-wide-institution exception. SC subgrouping cites an April 2025 order. Current applicability is verified; a complete 2025-to-2026 legal amendment audit is not claimed.",
+      "refs": [
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "4–6"
+        }
+      ]
+    },
+    {
+      "title": "Telangana MQ: 85/15 is within MQ1",
+      "text": "The current prospectus expressly cites G.O.200/201 of 3 November 2025 for the local split. Do not call it an additional 85% of all management seats, or a rule first introduced in 2026.",
+      "refs": [
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "18–20"
+        }
+      ]
+    },
+    {
+      "title": "Rajasthan: live registration extension",
+      "text": "The original 23 October deadlines were superseded for Part 1/Part 2 by 24 October, 4 PM / 8 PM IST. The other Round 1 dates remain the checked schedule; later notices can amend them.",
+      "refs": [
+        {
+          "source": "raj-api",
+          "pages": ""
+        },
+        {
+          "source": "raj-schedule",
+          "pages": "1–2"
+        }
+      ]
+    },
+    {
+      "title": "Telangana tuition: old fee block is not the new admission quote",
+      "text": "G.O.107 is explicitly for 2023–2026; current 2026–27 prospectuses defer to government-notified tuition. A new applicable medical PG order was not established in the reviewed notices. MDS/MBBS orders must not be applied to MD/MS.",
+      "refs": [
+        {
+          "source": "ts-old-fee-order",
+          "pages": "1, 3–4"
+        },
+        {
+          "source": "ts-cq-prospectus",
+          "pages": "21"
+        },
+        {
+          "source": "ts-mq-prospectus",
+          "pages": "20–21"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "Exact MCC joined-Round-1 resignation cut-off and any later resignation amendments.",
+    "KNRUHS CQ/MQ merit, web-option, phase reporting and free-exit/withdrawal notices.",
+    "Applicable new Telangana 2026–27 MD/MS fee order and college/course/category invoice; clinical/non-clinical classification.",
+    "MCC/HLL treatment of any extra ₹25,000 receipt after paying the combined/deemed ₹2 lakh tier; no protected split assumed.",
+    "University-fee refund treatment and each college’s current tuition, hostel and bond terms.",
+    "Rajasthan Round 2/3/Stray detailed local schedules and any new registration opportunity."
+  ]
+}

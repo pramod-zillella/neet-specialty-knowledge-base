@@ -4,6 +4,20 @@ A local and GitHub Pages notebook for choosing medical specialties and investiga
 
 **Open `Open Dashboard.cmd` or double-click `index.html`.** No installation or API key is needed to use the dashboard. The page works offline; source video links require internet access.
 
+## Counselling guide: MCC, Telangana CQ, Rajasthan and Telangana MQ
+
+Open **Counselling guide**, or [the hosted guide](https://pramod-zillella.github.io/neet-specialty-knowledge-base/#counselling/overview). Separate tabs cover the four 2026–27 routes, with an overview, a common IST deadline tracker and **My MCC scenarios** for a Round 1 allotment. Choose **Joined Round 1 — Float / upgrade** for the online joining, retained-seat, upgrade and state-switch scenarios. Browser status and checklist ticks stay local and are not published or included in the public downloads.
+
+Every reviewed rule links to an official document and PDF page. Application fees, security, university fees, annual tuition, college caution and course/service bonds are kept separate. The guide covers local eligibility, seat-pool denominators, vertical/horizontal reservations, physical/online reporting, resignation, irreversible upgrading and Centre–State data sharing. Search rules by text or topic; schedules and comparison tables scroll continuously.
+
+**Snapshot checked 25 October 2026; all dates/times IST.** This is not an automatically monitored service. Telangana MQ registration closes **30 October, 4 PM**. Rajasthan's live extension changed Part 1/Part 2 to **24 October, 4 PM / 8 PM**, superseding the original 23 October deadlines. The checked security and choice deadlines remain **29 October, 5 PM / 11:45 PM**. Missing KNRUHS phase/exit dates and exact MCC joined-R1 resignation deadlines remain explicit gaps; national state-coordination dates are not substituted for local notices. The MCC multi-round schedule is labelled tentative.
+
+The Telangana 2026 MQ prospectus explicitly applies **85% local / 15% nationally open within MQ1**, citing November 2025 orders. The older **₹23 lakh** clinical Cat-B examples are in the **2023–2026 fee block**, with college variation; they are not promoted to verified universal 2026–27 tuition. Current amounts need the applicable medical PG fee order and institution invoice. MGMC Jaipur's Board-published 2026 AI-nature annual fees are shown separately from State/Management seat eligibility and additional charges.
+
+Downloads: [filterable Excel guide](exports/counselling-2026/Counselling-rules-deadlines-fees-2026.xlsx), [calendar snapshot](exports/counselling-2026/deadlines.ics), [readable guide](exports/counselling-2026/README.md), [structured data](exports/counselling-2026/guide.json), [deadlines CSV](exports/counselling-2026/deadlines-ist.csv) and [source register](exports/counselling-2026/sources.csv). Calendar imports do not subscribe to future changes. Saved general official prospectuses/schedules and fee disclosures are included; candidate lists, personal receipts, private caches and credentials are excluded. The workbook includes a blank personal checklist.
+
+Rebuild just this guide offline with `python scripts/counselling_hub.py` after updating/reviewing the dated private input documents. The full build also includes its public files in the hosting ZIP. Publishing uses the existing `neet-specialty-knowledge-base-github` clone; a local rebuild alone does not publish.
+
 ## Institution accreditations and quality credentials
 
 Open **Accreditations** in the dashboard. The register covers all **1,634 campus/code records in the existing seat matrices** for the 18 requested states/UTs (**1,533 present in the supplied 2026 files**), supplemented by historical allotment-only identities and earlier research profiles. It covers every input record; **it is not an exhaustive, fully verified audit of every accreditation held**. Unresolved aliases remain separate source records, so the larger register count must not be called a count of unique institutions. The supplied datasets do not necessarily cover every state-counselling institution.

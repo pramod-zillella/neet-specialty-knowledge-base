@@ -1,0 +1,11 @@
+﻿route,round,nonjoin,joined,next,refs
+mcc,Round 1,Free exit without security forfeiture.,Formal resignation in MCC-notified window; Float online / Freeze physically.,Eligible for Round 2; a joined Float seat can be retained while upgrading.,"mcc-bulletin: PDF p. 13, 15, 43"
+mcc,Round 2,Security forfeited on fresh/upgraded non-joining.,Surrender only within permitted period; forfeiture applies.,Eligible Round 3 entry after forfeiture requires fresh payment.,"mcc-bulletin: PDF p. 7, 13, 15, 45"
+mcc,Round 3,Security forfeited; eliminated from further MCC rounds.,No resignation.,Old seat cannot be reclaimed after an upgrade.,"mcc-bulletin: PDF p. 16, 45"
+mcc,Stray,Security forfeited.,Commit to join; check all Stray eligibility/undertakings.,Holding a seat or earlier allotment can bar eligibility.,"mcc-bulletin: PDF p. 46, 60"
+raj,Round 1,Free exit without forfeiture.,"If not upgraded / not participating in R2, resign within 2 days of R2 result to avoid forfeiture.",Retaining beyond that point invokes R2 rules.,"raj-booklet: PDF p. 11, 23–24"
+raj,Round 2,Fresh/upgraded non-joining forfeits security.,Generally no resignation except specifically notified permitted windows.,Non-joiners need re-registration and fresh security for eligible later entry.,"raj-booklet: PDF p. 12, 23–24"
+raj,Round 3,Forfeiture and no Stray participation.,"No resignation, including retained earlier seats.",Centre–State joined data excludes ineligible candidates.,"raj-booklet: PDF p. 12, 24"
+raj,Stray,"Forfeiture, further state-round bar and relevant bond conditions.",No resignation under stated commitment rules.,Narrow prior-allotment/joined-status eligibility applies.,"raj-booklet: PDF p. 12, 24"
+ts-cq,All phases,Phase-specific notice required; do not assume MCC-style penalties.,"After free exit: ₹50 lakh discontinuation terms, stipend recovery and 3-year KNRUHS bar.",Exact free-exit and phase reporting dates are not established in the registration prospectus.,ts-cq-prospectus: PDF p. 21–22
+ts-mq,All phases,Phase-specific notice required; university fee is not MCC security.,"₹50 lakh completion bond; after phase 2 or later, ₹50 lakh + 3-year KNRUHS bar.",No inferred first-phase no-cost exit; verify notified window and fee treatment.,ts-mq-prospectus: PDF p. 20–22
